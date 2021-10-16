@@ -1040,7 +1040,7 @@
     "id": 1983,
     "Key": "btx",
     "enUS": "Battle Axe",
-    "zhTW": "戰斧",
+    "zhTW": "★戰斧★",
     "deDE": "[fs]Kampfaxt",
     "esES": "[fs]Hacha de batalla",
     "frFR": "[fs]Hache de bataille",
@@ -1051,7 +1051,7 @@
     "jaJP": "戦斧",
     "ptBR": "[ms]Machado de Batalha",
     "ruRU": "[ms]боевой топор",
-    "zhCN": "战斗斧"
+    "zhCN": "★战斗斧★"
   },
   {
     "id": 1984,
@@ -2281,7 +2281,7 @@
     "id": 2056,
     "Key": "xpk",
     "enUS": "Barbed Shield",
-    "zhTW": "倒刺盾",
+    "zhTW": "★倒刺盾★(輕)",
     "deDE": "[ms]Stachelschild",
     "esES": "[ms]Escudo con púas",
     "frFR": "[ms]Bouclier barbelé",
@@ -2292,13 +2292,13 @@
     "jaJP": "バーブド・シールド",
     "ptBR": "[ms]Escudo Farpado",
     "ruRU": "[ms]колючий щит",
-    "zhCN": "尖刃盾"
+    "zhCN": "★尖刃盾★"
   },
   {
     "id": 2057,
     "Key": "xsh",
     "enUS": "Grim Shield",
-    "zhTW": "陰森盾牌",
+    "zhTW": "★陰森盾牌★(輕)",
     "deDE": "[ms]Kampfschild",
     "esES": "[ms]Escudo lúgubre",
     "frFR": "[ms]Bouclier macabre",
@@ -2309,13 +2309,13 @@
     "jaJP": "グリム・シールド",
     "ptBR": "[ms]Escudo Sinistro",
     "ruRU": "[ms]жуткий щит",
-    "zhCN": "恐怖大盾"
+    "zhCN": "★恐怖大盾★"
   },
   {
     "id": 2058,
     "Key": "xh9",
     "enUS": "Grim Helm",
-    "zhTW": "陰森頭盔",
+    "zhTW": "★陰森頭盔★",
     "deDE": "[ms]Kampfhelm",
     "esES": "[ms]Yelmo lúgubre",
     "frFR": "[ms]Heaume macabre",
@@ -2326,13 +2326,13 @@
     "jaJP": "グリム・ヘルム",
     "ptBR": "[ms]Elmo Sinistro",
     "ruRU": "[ms]жуткий шлем",
-    "zhCN": "恐怖头盔"
+    "zhCN": "★恐怖头盔★"
   },
   {
     "id": 2059,
     "Key": "zhb",
     "enUS": "War Belt",
-    "zhTW": "征戰腰帶",
+    "zhTW": "★征戰腰帶★",
     "deDE": "[ms]Kriegsgürtel",
     "esES": "[ms]Cinturón de guerra",
     "frFR": "[fs]Ceinture de guerre",
@@ -2343,13 +2343,13 @@
     "jaJP": "ウォーベルト",
     "ptBR": "[ms]Cinto Bélico",
     "ruRU": "[ms]воинский пояс",
-    "zhCN": "战争腰带"
+    "zhCN": "★战争腰带★"
   },
   {
     "id": 2060,
     "Key": "ztb",
     "enUS": "Battle Belt",
-    "zhTW": "戰鬥腰帶",
+    "zhTW": "★戰鬥腰帶★",
     "deDE": "[ms]Kampfgürtel",
     "esES": "[ms]Cinturón de batalla",
     "frFR": "[fs]Ceinture de bataille",
@@ -2360,13 +2360,13 @@
     "jaJP": "バトル・ベルト",
     "ptBR": "[ms]Cinto de Batalha",
     "ruRU": "[ms]боевой пояс",
-    "zhCN": "战斗腰带"
+    "zhCN": "★战斗腰带★"
   },
   {
     "id": 2061,
     "Key": "zmb",
     "enUS": "Mesh Belt",
-    "zhTW": "鐵網腰帶",
+    "zhTW": "★鐵網腰帶★",
     "deDE": "[ms]Kettengürtel",
     "esES": "[ms]Cinturón mallado",
     "frFR": "[fs]Ceinture maillée",
@@ -2377,13 +2377,13 @@
     "jaJP": "メッシュ・ベルト",
     "ptBR": "[ms]Cinto de Malha",
     "ruRU": "[ms]сетчатый пояс",
-    "zhCN": "网纹腰带"
+    "zhCN": "★网纹腰带★"
   },
   {
     "id": 2062,
     "Key": "zvb",
     "enUS": "Sharkskin Belt",
-    "zhTW": "鯊皮腰帶",
+    "zhTW": "★鯊皮腰帶★",
     "deDE": "[ms]Hailedergürtel",
     "esES": "[ms]Cinturón de piel de tiburón",
     "frFR": "[fs]Ceinture en peau de requin",
@@ -2394,13 +2394,13 @@
     "jaJP": "鮫革ベルト",
     "ptBR": "[ms]Cinto de Couro de Tubarão",
     "ruRU": "[ms]акулий пояс",
-    "zhCN": "鲨鱼皮带"
+    "zhCN": "★鲨鱼皮带★"
   },
   {
     "id": 2063,
     "Key": "zlb",
     "enUS": "Demonhide Sash",
-    "zhTW": "魔皮束帶",
+    "zhTW": "★魔皮束帶★",
     "deDE": "[fs]Dämonenlederschärpe",
     "esES": "[ms]Fajín de cuero de demonio",
     "frFR": "[fs]Écharpe en cuir de démon",
@@ -2411,13 +2411,13 @@
     "jaJP": "魔獣革サッシュ",
     "ptBR": "[fs]Faixa de Couro de Demônio",
     "ruRU": "[ms]демонический кожаный кушак",
-    "zhCN": "恶魔皮带"
+    "zhCN": "★恶魔皮带★"
   },
   {
     "id": 2064,
     "Key": "xhb",
     "enUS": "War Boots",
-    "zhTW": "征戰靴",
+    "zhTW": "★征戰靴★",
     "deDE": "[pl]Kriegsstiefel",
     "esES": "[fp]Botas de guerra",
     "frFR": "[fp]Bottes de guerre",
@@ -2428,13 +2428,13 @@
     "jaJP": "ウォーブーツ",
     "ptBR": "[fp]Botas Bélicas",
     "ruRU": "[pl]воинские сапоги",
-    "zhCN": "战争靴"
+    "zhCN": "★战争靴★"
   },
   {
     "id": 2065,
     "Key": "xtb",
     "enUS": "Battle Boots",
-    "zhTW": "戰鬥靴",
+    "zhTW": "★戰鬥靴★",
     "deDE": "[pl]Kampfstiefel",
     "esES": "[fp]Botas de batalla",
     "frFR": "[fp]Bottes de bataille",
@@ -2445,13 +2445,13 @@
     "jaJP": "バトル・ブーツ",
     "ptBR": "[fp]Botas de Batalha",
     "ruRU": "[pl]боевые сапоги",
-    "zhCN": "战靴"
+    "zhCN": "★战靴★"
   },
   {
     "id": 2066,
     "Key": "xmb",
     "enUS": "Mesh Boots",
-    "zhTW": "鐵網靴",
+    "zhTW": "★鐵網靴★",
     "deDE": "[pl]Ringstiefel",
     "esES": "[fp]Botas malladas",
     "frFR": "[fp]Bottes maillées",
@@ -2462,13 +2462,13 @@
     "jaJP": "メッシュ・ブーツ",
     "ptBR": "[fp]Botas de Malha",
     "ruRU": "[pl]сетчатые сапоги",
-    "zhCN": "网纹靴"
+    "zhCN": "★网纹靴★"
   },
   {
     "id": 2067,
     "Key": "xvb",
     "enUS": "Sharkskin Boots",
-    "zhTW": "鯊皮靴",
+    "zhTW": "★鯊皮靴★",
     "deDE": "[pl]Hailederstiefel",
     "esES": "[fp]Botas de piel de tiburón",
     "frFR": "[fp]Bottes en peau de requin",
@@ -2479,13 +2479,13 @@
     "jaJP": "鮫革ブーツ",
     "ptBR": "[fp]Botas de Couro de Tubarão",
     "ruRU": "[pl]акульи сапоги",
-    "zhCN": "鲨鱼皮靴"
+    "zhCN": "★鲨鱼皮靴★"
   },
   {
     "id": 2068,
     "Key": "xlb",
     "enUS": "Demonhide Boots",
-    "zhTW": "魔皮長靴",
+    "zhTW": "★魔皮長靴★",
     "deDE": "[pl]Dämonenlederstiefel",
     "esES": "[fp]Botas de cuero de demonio",
     "frFR": "[fp]Bottes en cuir de démon",
@@ -2496,13 +2496,13 @@
     "jaJP": "魔獣革ブーツ",
     "ptBR": "[fp]Botas de Couro de Demônio",
     "ruRU": "[pl]демонические кожаные сапоги",
-    "zhCN": "恶魔皮靴"
+    "zhCN": "★恶魔皮靴★"
   },
   {
     "id": 2070,
     "Key": "xtg",
     "enUS": "Battle Gauntlets",
-    "zhTW": "戰鬥護手",
+    "zhTW": "★戰鬥護手★",
     "deDE": "[pl]Kampfpanzerhandschuhe",
     "esES": "[mp]Guanteletes de batalla",
     "frFR": "[mp]Gantelets de bataille",
@@ -2513,13 +2513,13 @@
     "jaJP": "バトル・ガントレット",
     "ptBR": "[fp]Manoplas de Batalha",
     "ruRU": "[pl]боевые рукавицы",
-    "zhCN": "战斗护手"
+    "zhCN": "★战斗护手★"
   },
   {
     "id": 2071,
     "Key": "xmg",
     "enUS": "Heavy Bracers",
-    "zhTW": "重型護腕",
+    "zhTW": "★重型護腕★",
     "deDE": "[pl]schwere Armschienen",
     "esES": "[mp]Brazales pesados",
     "frFR": "[mp]Manchons lourds",
@@ -2530,13 +2530,13 @@
     "jaJP": "ヘビーブレイサー",
     "ptBR": "[fp]Braçadeiras Pesadas",
     "ruRU": "[pl]тяжелые наручи",
-    "zhCN": "铁皮手套"
+    "zhCN": "★铁皮手套★"
   },
   {
     "id": 2072,
     "Key": "xvg",
     "enUS": "Sharkskin Gloves",
-    "zhTW": "鯊皮手套",
+    "zhTW": "★鯊皮手套★",
     "deDE": "[pl]Hailederhandschuhe",
     "esES": "[mp]Guantes de piel de tiburón",
     "frFR": "[mp]Gants en peau de requin",
@@ -2547,13 +2547,13 @@
     "jaJP": "鮫革グローブ",
     "ptBR": "[fp]Luvas de Couro de Tubarão",
     "ruRU": "[pl]акульи перчатки",
-    "zhCN": "鲨鱼皮手套"
+    "zhCN": "★鲨鱼皮手套★"
   },
   {
     "id": 2073,
     "Key": "xlg",
     "enUS": "Demonhide Gloves",
-    "zhTW": "魔皮手套",
+    "zhTW": "★魔皮手套★",
     "deDE": "[pl]Dämonenlederhandschuhe",
     "esES": "[mp]Guantes de cuero de demonio",
     "frFR": "[mp]Gants en cuir de démon",
@@ -2564,13 +2564,13 @@
     "jaJP": "魔獣革グローブ",
     "ptBR": "[fp]Luvas de Couro de Demônio",
     "ruRU": "[pl]демонические кожаные перчатки",
-    "zhCN": "恶魔皮手套"
+    "zhCN": "★恶魔皮手套★"
   },
   {
     "id": 2074,
     "Key": "xts",
     "enUS": "Ancient Shield",
-    "zhTW": "上古盾",
+    "zhTW": "★上古盾★(中)",
     "deDE": "[ms]alter Schild",
     "esES": "[ms]Escudo antiguo",
     "frFR": "[ms]Bouclier ancien",
@@ -2581,13 +2581,13 @@
     "jaJP": "エンシェント・シールド",
     "ptBR": "[ms]Escudo Ancestral",
     "ruRU": "[ms]древний щит",
-    "zhCN": "古代盾"
+    "zhCN": "★古代盾★"
   },
   {
     "id": 2075,
     "Key": "xow",
     "enUS": "Pavise",
-    "zhTW": "大盾",
+    "zhTW": "★大盾★(重)",
     "deDE": "[ms]Pavese",
     "esES": "[ms]Pavés",
     "frFR": "[ms]Pavois",
@@ -2598,13 +2598,13 @@
     "jaJP": "パヴィース",
     "ptBR": "[ms]Pavis",
     "ruRU": "[fs]павеза",
-    "zhCN": "巨盾"
+    "zhCN": "★巨盾★"
   },
   {
     "id": 2076,
     "Key": "xit",
     "enUS": "Dragon Shield",
-    "zhTW": "龍盾",
+    "zhTW": "★龍盾★(輕)",
     "deDE": "[ms]Drachenschild",
     "esES": "[ms]Escudo de dragón",
     "frFR": "[ms]Bouclier de dragon",
@@ -2615,13 +2615,13 @@
     "jaJP": "ドラゴン・シールド",
     "ptBR": "[ms]Escudo Dracônico",
     "ruRU": "[ms]драконий щит",
-    "zhCN": "龙盾"
+    "zhCN": "★龙盾★"
   },
   {
     "id": 2077,
     "Key": "xrg",
     "enUS": "Scutum",
-    "zhTW": "大圓盾",
+    "zhTW": "★大圓盾★(中)",
     "deDE": "[ms]Scutum",
     "esES": "[ms]Scutum",
     "frFR": "[ms]Scutum",
@@ -2632,13 +2632,13 @@
     "jaJP": "スクトゥム",
     "ptBR": "[ms]Scutum",
     "ruRU": "[ms]скутум",
-    "zhCN": "椭圆盾"
+    "zhCN": "★椭圆盾★"
   },
   {
     "id": 2078,
     "Key": "xml",
     "enUS": "Round Shield",
-    "zhTW": "圓型盾",
+    "zhTW": "★圓型盾★(輕)",
     "deDE": "[ms]Rundschild",
     "esES": "[ms]Escudo redondo",
     "frFR": "[ms]Bouclier rond",
@@ -2649,13 +2649,13 @@
     "jaJP": "ラウンド・シールド",
     "ptBR": "[ms]Escudo Redondo",
     "ruRU": "[ms]круглый щит",
-    "zhCN": "圆盾"
+    "zhCN": "★圆盾★"
   },
   {
     "id": 2079,
     "Key": "xuc",
     "enUS": "Defender",
-    "zhTW": "防禦盾",
+    "zhTW": "★防禦盾★(輕)",
     "deDE": "[ms]Verteidiger",
     "esES": "[ms]Defensor",
     "frFR": "[ms]Défenseur",
@@ -2666,13 +2666,13 @@
     "jaJP": "ディフェンダー",
     "ptBR": "[ms]Defensor",
     "ruRU": "[ms]защитник",
-    "zhCN": "防卫盾"
+    "zhCN": "★防卫盾★"
   },
   {
     "id": 2080,
     "Key": "xtp",
     "enUS": "Mage Plate",
-    "zhTW": "法師鎧甲",
+    "zhTW": "★法師鎧甲★(輕)",
     "deDE": "[fs]Magierplattenrüstung",
     "esES": "[fs]Coraza de mago",
     "frFR": "[fs]Harnois de mage",
@@ -2683,13 +2683,13 @@
     "jaJP": "メイジ・プレート",
     "ptBR": "[fs]Armadura de Mago",
     "ruRU": "[ms]магический доспех",
-    "zhCN": "法师铠"
+    "zhCN": "★法师铠★"
   },
   {
     "id": 2081,
     "Key": "xar",
     "enUS": "Ornate Plate",
-    "zhTW": "華麗戰甲",
+    "zhTW": "★華麗戰甲★(中)",
     "deDE": "[fs]verzierte Plattenrüstung",
     "esES": "[fs]Coraza ornada",
     "frFR": "[ms]Harnois orné",
@@ -2700,13 +2700,13 @@
     "jaJP": "オーネイト・プレート",
     "ptBR": "[fs]Armadura Ornamentada",
     "ruRU": "[ms]изукрашенный доспех",
-    "zhCN": "花纹战甲"
+    "zhCN": "★花纹战甲★"
   },
   {
     "id": 2082,
     "Key": "xul",
     "enUS": "Chaos Armor",
-    "zhTW": "混沌戰甲",
+    "zhTW": "★混沌戰甲★(重)",
     "deDE": "[fs]Chaosrüstung",
     "esES": "[fs]Armadura del caos",
     "frFR": "[fs]Armure de chaos",
@@ -2717,13 +2717,13 @@
     "jaJP": "カオス・アーマー",
     "ptBR": "[fs]Armadura do Caos",
     "ruRU": "[ms]хаотический доспех",
-    "zhCN": "混沌护甲"
+    "zhCN": "★混沌护甲★"
   },
   {
     "id": 2083,
     "Key": "xth",
     "enUS": "Embossed Plate",
-    "zhTW": "雕紋戰甲",
+    "zhTW": "★雕紋戰甲★(中)",
     "deDE": "[fs]gravierte Plattenrüstung",
     "esES": "[fs]Coraza repujada",
     "frFR": "[ms]Harnois estampé",
@@ -2734,13 +2734,13 @@
     "jaJP": "エンボス・プレート",
     "ptBR": "[fs]Armadura em Relevo",
     "ruRU": "[ms]гравированный доспех",
-    "zhCN": "浮雕纹甲"
+    "zhCN": "★浮雕纹甲★"
   },
   {
     "id": 2084,
     "Key": "xld",
     "enUS": "Sharktooth Armor",
-    "zhTW": "鯊齒戰甲",
+    "zhTW": "★鯊齒戰甲★(中)",
     "deDE": "[fs]Haizahnrüstung",
     "esES": "[fs]Armadura de dientes de tiburón",
     "frFR": "[fs]Armure en dents de requin",
@@ -2751,13 +2751,13 @@
     "jaJP": "シャークトゥース・アーマー",
     "ptBR": "[fs]Armadura de Dente de Tubarão",
     "ruRU": "[ms]акулий доспех",
-    "zhCN": "鲨齿战甲"
+    "zhCN": "★鲨齿战甲★"
   },
   {
     "id": 2085,
     "Key": "xlt",
     "enUS": "Templar Coat",
-    "zhTW": "聖堂騎士戰甲",
+    "zhTW": "★聖堂騎士戰甲★(重)",
     "deDE": "[ms]Templermantel",
     "esES": "[fs]Cota templaria",
     "frFR": "[fs]Cotte de templier",
@@ -2768,13 +2768,13 @@
     "jaJP": "テンペラー・コート",
     "ptBR": "[fs]Cota Templária",
     "ruRU": "[ms]тамплиерский мундир",
-    "zhCN": "圣殿骑士铠"
+    "zhCN": "★圣殿骑士铠★"
   },
   {
     "id": 2086,
     "Key": "xpl",
     "enUS": "Russet Armor",
-    "zhTW": "赤褐戰甲",
+    "zhTW": "★赤褐戰甲★(中)",
     "deDE": "[fs]Eisenrüstung",
     "esES": "[fs]Armadura rojiza",
     "frFR": "[fs]Armure rousse",
@@ -2785,13 +2785,13 @@
     "jaJP": "ラセット・アーマー",
     "ptBR": "[fs]Armadura Avermelhada",
     "ruRU": "[ms]терракотовый доспех",
-    "zhCN": "褐锈甲"
+    "zhCN": "★褐锈甲★"
   },
   {
     "id": 2087,
     "Key": "xrs",
     "enUS": "Cuirass",
-    "zhTW": "護胸甲",
+    "zhTW": "★護胸甲★(輕)",
     "deDE": "[ms]Harnisch",
     "esES": "[ms]Peto",
     "frFR": "[fs]Cuirasse",
@@ -2802,13 +2802,13 @@
     "jaJP": "キュイラス",
     "ptBR": "[fs]Couraça",
     "ruRU": "[fs]кираса",
-    "zhCN": "重装胸甲"
+    "zhCN": "★重装胸甲★"
   },
   {
     "id": 2088,
     "Key": "xhn",
     "enUS": "Mesh Armor",
-    "zhTW": "鐵網戰甲",
+    "zhTW": "★鐵網戰甲★(中)",
     "deDE": "[fs]Kettenrüstung",
     "esES": "[fs]Armadura mallada",
     "frFR": "[fs]Armure maillée",
@@ -2819,13 +2819,13 @@
     "jaJP": "メッシュ・アーマー",
     "ptBR": "[fs]Armadura de Malha",
     "ruRU": "[ms]сетчатый доспех",
-    "zhCN": "札甲"
+    "zhCN": "★札甲★"
   },
   {
     "id": 2089,
     "Key": "xcl",
     "enUS": "Tigulated Mail",
-    "zhTW": "鎖鱗戰甲",
+    "zhTW": "★鎖鱗戰甲★(重)",
     "deDE": "[ns]Komplettpanzerhemd",
     "esES": "[fs]Cota articulada",
     "frFR": "[fs]Cotte de mailles tigulée",
@@ -2836,13 +2836,13 @@
     "jaJP": "ティギュレイテッド・メイル",
     "ptBR": "[fs]Malha Grumosa",
     "ruRU": "[ms]черепичный доспех",
-    "zhCN": "固片锁甲"
+    "zhCN": "★固片锁甲★"
   },
   {
     "id": 2090,
     "Key": "xng",
     "enUS": "Linked Mail",
-    "zhTW": "鍊扣戰甲",
+    "zhTW": "★鍊扣戰甲★(中)",
     "deDE": "[ns]Verbundkettenhemd",
     "esES": "[fs]Cota eslabonada",
     "frFR": "[fs]Cotte de mailles liée",
@@ -2853,13 +2853,13 @@
     "jaJP": "リンクド・メイル",
     "ptBR": "[fs]Malha Articulada",
     "ruRU": "[fs]клепаная кольчуга",
-    "zhCN": "锁环甲"
+    "zhCN": "★锁环甲★"
   },
   {
     "id": 2091,
     "Key": "xtu",
     "enUS": "Trellised Armor",
-    "zhTW": "格網護甲",
+    "zhTW": "★格網護甲★(輕)",
     "deDE": "[fs]Bänderrüstung",
     "esES": "[fs]Armadura enrejada",
     "frFR": "[fs]Armure treillissée",
@@ -2870,13 +2870,13 @@
     "jaJP": "トレリスド・アーマー",
     "ptBR": "[fs]Armadura Trançada",
     "ruRU": "[ms]сетчатый доспех",
-    "zhCN": "镶片铠甲"
+    "zhCN": "★镶片铠甲★"
   },
   {
     "id": 2092,
     "Key": "xla",
     "enUS": "Demonhide Armor",
-    "zhTW": "魔皮護甲",
+    "zhTW": "★魔皮護甲★(輕)",
     "deDE": "[fs]Dämonenlederrüstung",
     "esES": "[fs]Armadura de cuero de demonio",
     "frFR": "[fs]Armure en cuir de démon",
@@ -2887,13 +2887,13 @@
     "jaJP": "魔獣革アーマー",
     "ptBR": "[fs]Armadura de Couro de Demônio",
     "ruRU": "[ms]демонический кожаный доспех",
-    "zhCN": "恶魔皮甲"
+    "zhCN": "★恶魔皮甲★"
   },
   {
     "id": 2093,
     "Key": "xea",
     "enUS": "Serpentskin Armor",
-    "zhTW": "海蛇皮甲",
+    "zhTW": "★海蛇皮甲★(輕)",
     "deDE": "[fs]Schlangenlederrüstung",
     "esES": "[fs]Armadura de piel de serpiente",
     "frFR": "[fs]Armure en peau de serpent",
@@ -2904,13 +2904,13 @@
     "jaJP": "蛇革アーマー",
     "ptBR": "[fs]Armadura de Couro de Serpente",
     "ruRU": "[ms]змеиный доспех",
-    "zhCN": "蛇皮甲"
+    "zhCN": "★蛇皮甲★"
   },
   {
     "id": 2094,
     "Key": "xui",
     "enUS": "Ghost Armor",
-    "zhTW": "鬼魂戰衣",
+    "zhTW": "★鬼魂戰衣★(輕)",
     "deDE": "[fs]Geisterrüstung",
     "esES": "[fs]Armadura fantasmal",
     "frFR": "[fs]Armure fantôme",
@@ -2921,13 +2921,13 @@
     "jaJP": "ゴースト・アーマー",
     "ptBR": "[fs]Armadura Fantasma",
     "ruRU": "[ms]призрачный доспех",
-    "zhCN": "幽灵甲"
+    "zhCN": "★幽灵甲★"
   },
   {
     "id": 2095,
     "Key": "xsk",
     "enUS": "Death Mask",
-    "zhTW": "死亡面具",
+    "zhTW": "★死亡面具★",
     "deDE": "[fs]Totenmaske",
     "esES": "[fs]Máscara de la muerte",
     "frFR": "[ms]Masque funéraire",
@@ -2938,13 +2938,13 @@
     "jaJP": "デスマスク",
     "ptBR": "[fs]Máscara Mortuária",
     "ruRU": "[fs]посмертная маска",
-    "zhCN": "死者面甲"
+    "zhCN": "★死者面甲★"
   },
   {
     "id": 2096,
     "Key": "xrn",
     "enUS": "Grand Crown",
-    "zhTW": "莊嚴王冠",
+    "zhTW": "★莊嚴王冠★",
     "deDE": "[fs]große Krone",
     "esES": "[fs]Gran corona",
     "frFR": "[fs]Couronne d’apparat",
@@ -2955,13 +2955,13 @@
     "jaJP": "グランド・クラウン",
     "ptBR": "[fs]Grande Coroa",
     "ruRU": "[fs]большая корона",
-    "zhCN": "宝冠盔"
+    "zhCN": "★宝冠盔★"
   },
   {
     "id": 2098,
     "Key": "xhl",
     "enUS": "Basinet",
-    "zhTW": "輕盔",
+    "zhTW": "★輕盔★",
     "deDE": "[ms]Kesselhelm",
     "esES": "[ms]Bacinete",
     "frFR": "[ms]Bassinet",
@@ -2972,13 +2972,13 @@
     "jaJP": "バシネット",
     "ptBR": "[ms]Bacinete",
     "ruRU": "[ms]стальной шлем",
-    "zhCN": "喙面盔"
+    "zhCN": "★喙面盔★"
   },
   {
     "id": 2099,
     "Key": "xlm",
     "enUS": "Casque",
-    "zhTW": "兜盔",
+    "zhTW": "★兜盔★",
     "deDE": "[ms]Spitzhelm",
     "esES": "[ms]Morrión",
     "frFR": "[ms]Casque",
@@ -2989,13 +2989,13 @@
     "jaJP": "カスク",
     "ptBR": "[ms]Casquete",
     "ruRU": "[fs]каска",
-    "zhCN": "护鼻盔"
+    "zhCN": "★护鼻盔★"
   },
   {
     "id": 2100,
     "Key": "xkp",
     "enUS": "Sallet",
-    "zhTW": "便盔",
+    "zhTW": "★便盔★",
     "deDE": "[ms]Schaller",
     "esES": "[fs]Celada",
     "frFR": "[fs]Salade",
@@ -3006,13 +3006,13 @@
     "jaJP": "サレット",
     "ptBR": "[fs]Celada",
     "ruRU": "[ms]кабассет",
-    "zhCN": "轻盔"
+    "zhCN": "★轻盔★"
   },
   {
     "id": 2101,
     "Key": "xap",
     "enUS": "War Hat",
-    "zhTW": "戰帽",
+    "zhTW": "★戰帽★",
     "deDE": "[ms]Kriegshut",
     "esES": "[fs]Cofia de guerra",
     "frFR": "[ms]Chapeau de guerre",
@@ -3023,13 +3023,13 @@
     "jaJP": "ウォーハット",
     "ptBR": "[ms]Chapéu Bélico",
     "ruRU": "[ms]воинский наголовник",
-    "zhCN": "战争帽"
+    "zhCN": "★战争帽★"
   },
   {
     "id": 2102,
     "Key": "8rx",
     "enUS": "Chu-Ko-Nu",
-    "zhTW": "諸葛弩",
+    "zhTW": "★諸葛弩★",
     "deDE": "[fs]Chu-Ko-Nu",
     "esES": "[ms]Chu-ko-nu",
     "frFR": "[fs]Chu-Ko-Nu",
@@ -3040,13 +3040,13 @@
     "jaJP": "連弩",
     "ptBR": "[fs]Chu-ko-nu",
     "ruRU": "[ms]чо-ко-ну",
-    "zhCN": "巧工弩"
+    "zhCN": "★巧工弩★"
   },
   {
     "id": 2103,
     "Key": "8hx",
     "enUS": "Ballista",
-    "zhTW": "砲弩",
+    "zhTW": "★砲弩★",
     "deDE": "[fs]Balliste",
     "esES": "[fs]Balista",
     "frFR": "[fs]Baliste",
@@ -3057,13 +3057,13 @@
     "jaJP": "バリスタ",
     "ptBR": "[fs]Balista",
     "ruRU": "[fs]баллиста",
-    "zhCN": "弩炮"
+    "zhCN": "★弩炮★"
   },
   {
     "id": 2104,
     "Key": "8mx",
     "enUS": "Siege Crossbow",
-    "zhTW": "攻城弩",
+    "zhTW": "★攻城弩★",
     "deDE": "[fs]Belagerungsarmbrust",
     "esES": "[fs]Ballesta de asedio",
     "frFR": "[fs]Arbalète de siège",
@@ -3074,13 +3074,13 @@
     "jaJP": "シージ・クロスボウ",
     "ptBR": "[fs]Besta de Cerco",
     "ruRU": "[ms]осадный арбалет",
-    "zhCN": "攻城弩"
+    "zhCN": "★攻城弩★"
   },
   {
     "id": 2105,
     "Key": "8lx",
     "enUS": "Arbalest",
-    "zhTW": "鋼弩",
+    "zhTW": "★鋼弩★",
     "deDE": "[fs]Arbaleste",
     "esES": "[fs]Arbalesta",
     "frFR": "[fs]Arbalestre",
@@ -3091,13 +3091,13 @@
     "jaJP": "アーバレスト",
     "ptBR": "[fs]Arcobalista",
     "ruRU": "[ms]самострел",
-    "zhCN": "巨弩"
+    "zhCN": "★巨弩★"
   },
   {
     "id": 2106,
     "Key": "8lw",
     "enUS": "Gothic Bow",
-    "zhTW": "哥德弓",
+    "zhTW": "★哥德弓★",
     "deDE": "[ms]Prunkbogen",
     "esES": "[ms]Arco gótico",
     "frFR": "[ms]Arc gothique",
@@ -3108,13 +3108,13 @@
     "jaJP": "ゴシック・ボウ",
     "ptBR": "[ms]Arco Gótico",
     "ruRU": "[ms]готический лук",
-    "zhCN": "哥特弓"
+    "zhCN": "★哥特弓★"
   },
   {
     "id": 2107,
     "Key": "8sw",
     "enUS": "Rune Bow",
-    "zhTW": "符文弓",
+    "zhTW": "★符文弓★",
     "deDE": "[ms]Runenbogen",
     "esES": "[ms]Arco rúnico",
     "frFR": "[ms]Arc runique",
@@ -3125,13 +3125,13 @@
     "jaJP": "ルーン・ボウ",
     "ptBR": "[ms]Arco Rúnico",
     "ruRU": "[ms]рунический лук",
-    "zhCN": "符文弓"
+    "zhCN": "★符文弓★"
   },
   {
     "id": 2108,
     "Key": "8l8",
     "enUS": "Large Siege Bow",
-    "zhTW": "攻城長弓",
+    "zhTW": "★攻城長弓★",
     "deDE": "[ms]langer Belagerungsbogen",
     "esES": "[ms]Arco grande de asedio",
     "frFR": "[ms]Grand arc de siège",
@@ -3142,13 +3142,13 @@
     "jaJP": "ラージ・シージ・ボウ",
     "ptBR": "[fs]Besta de Cerco Grande",
     "ruRU": "[ms]большой осадный лук",
-    "zhCN": "大型攻城弓"
+    "zhCN": "★大型攻城弓★"
   },
   {
     "id": 2109,
     "Key": "8s8",
     "enUS": "Short Siege Bow",
-    "zhTW": "攻城短弓",
+    "zhTW": "★攻城短弓★",
     "deDE": "[ms]kurzer Belagerungsbogen",
     "esES": "[ms]Arco corto de asedio",
     "frFR": "[ms]Arc court de siège",
@@ -3159,13 +3159,13 @@
     "jaJP": "ショート・シージ・ボウ",
     "ptBR": "[fs]Besta de Cerco Curta",
     "ruRU": "[ms]короткий осадный лук",
-    "zhCN": "小型攻城弓"
+    "zhCN": "★小型攻城弓★"
   },
   {
     "id": 2110,
     "Key": "8cb",
     "enUS": "Double Bow",
-    "zhTW": "雙曲弓",
+    "zhTW": "★雙曲弓★",
     "deDE": "[ms]Doppelbogen",
     "esES": "[ms]Arco doble",
     "frFR": "[ms]Arc double",
@@ -3176,13 +3176,13 @@
     "jaJP": "ダブル・ボウ",
     "ptBR": "[ms]Arco Duplo",
     "ruRU": "[ms]двойной лук",
-    "zhCN": "双臂弓"
+    "zhCN": "★双臂弓★"
   },
   {
     "id": 2111,
     "Key": "8lb",
     "enUS": "Cedar Bow",
-    "zhTW": "杉木弓",
+    "zhTW": "★杉木弓★",
     "deDE": "[ms]Zedernbogen",
     "esES": "[ms]Arco de cedro",
     "frFR": "[ms]Arc de cèdre",
@@ -3193,13 +3193,13 @@
     "jaJP": "シーダー・ボウ",
     "ptBR": "[ms]Arco de Cedro",
     "ruRU": "[ms]кедровый лук",
-    "zhCN": "雪松弓"
+    "zhCN": "★雪松弓★"
   },
   {
     "id": 2112,
     "Key": "8hb",
     "enUS": "Razor Bow",
-    "zhTW": "剃刀弓",
+    "zhTW": "★剃刀弓★",
     "deDE": "[ms]Klingenbogen",
     "esES": "[ms]Arco de cuchilla",
     "frFR": "[ms]Arc rasoir",
@@ -3210,13 +3210,13 @@
     "jaJP": "レイザー・ボウ",
     "ptBR": "[ms]Arco Navalha",
     "ruRU": "[ms]бритвенный лук",
-    "zhCN": "刀锋弓"
+    "zhCN": "★刀锋弓★"
   },
   {
     "id": 2113,
     "Key": "8sb",
     "enUS": "Edge Bow",
-    "zhTW": "銳弓",
+    "zhTW": "★銳弓★",
     "deDE": "[ms]Schneidebogen",
     "esES": "[ms]Arco afilado",
     "frFR": "[ms]Arc tranchant",
@@ -3227,13 +3227,13 @@
     "jaJP": "エッジ・ボウ",
     "ptBR": "[ms]Arco Cortante",
     "ruRU": "[ms]кромчатый лук",
-    "zhCN": "刃弓"
+    "zhCN": "★刃弓★"
   },
   {
     "id": 2114,
     "Key": "8ws",
     "enUS": "Rune Staff",
-    "zhTW": "符文法杖",
+    "zhTW": "★符文法杖★",
     "deDE": "[ms]Runenstab",
     "esES": "[ms]Bastón rúnico",
     "frFR": "[ms]Bâton runique",
@@ -3244,13 +3244,13 @@
     "jaJP": "ルーン・スタッフ",
     "ptBR": "[ms]Cajado Rúnico",
     "ruRU": "[ms]рунический посох",
-    "zhCN": "符文杖"
+    "zhCN": "★符文杖★"
   },
   {
     "id": 2115,
     "Key": "8bs",
     "enUS": "Gothic Staff",
-    "zhTW": "哥德法杖",
+    "zhTW": "★哥德法杖★",
     "deDE": "[ms]Prunkstab",
     "esES": "[ms]Bastón gótico",
     "frFR": "[ms]Bâton gothique",
@@ -3267,7 +3267,7 @@
     "id": 2116,
     "Key": "8cs",
     "enUS": "Cedar Staff",
-    "zhTW": "杉木法杖",
+    "zhTW": "★杉木法杖★",
     "deDE": "[ms]Zedernstab",
     "esES": "[ms]Bastón de cedro",
     "frFR": "[ms]Bâton de cèdre",
@@ -3284,7 +3284,7 @@
     "id": 2117,
     "Key": "8ls",
     "enUS": "Quarterstaff",
-    "zhTW": "長棍",
+    "zhTW": "★長棍★",
     "deDE": "[ms]Kampfstab",
     "esES": "[ms]Bastón de mando",
     "frFR": "[fs]Canne de combat",
@@ -3295,13 +3295,13 @@
     "jaJP": "クォーター・スタッフ",
     "ptBR": "[ms]Cajado de Combate",
     "ruRU": "[ms]окованный посох",
-    "zhCN": "铁头棒"
+    "zhCN": "★铁头棒★"
   },
   {
     "id": 2118,
     "Key": "8ss",
     "enUS": "Jo Staff",
-    "zhTW": "棍杖",
+    "zhTW": "★棍杖★",
     "deDE": "[ms]Schlagstab",
     "esES": "[ms]Bastón de jo",
     "frFR": "[ms]Bâton de Jo",
@@ -3312,13 +3312,13 @@
     "jaJP": "戦杖",
     "ptBR": "[ms]Cajado Jo",
     "ruRU": "[ms]посох дзе",
-    "zhCN": "杖棍"
+    "zhCN": "★杖棍★"
   },
   {
     "id": 2119,
     "Key": "9wc",
     "enUS": "Grim Scythe",
-    "zhTW": "陰森鐮刀",
+    "zhTW": "★陰森鐮刀★",
     "deDE": "[fs]Schlachtensense",
     "esES": "[fs]Guadaña lúgubre",
     "frFR": "[fs]Faux macabre",
@@ -3329,13 +3329,13 @@
     "jaJP": "グリム・サイス",
     "ptBR": "[fs]Foice Sinistra",
     "ruRU": "[fs]жуткая коса",
-    "zhCN": "恐怖镰刀"
+    "zhCN": "★恐怖镰刀★"
   },
   {
     "id": 2120,
     "Key": "9h9",
     "enUS": "Bec-de-Corbin",
-    "zhTW": "渡鴉喙",
+    "zhTW": "★渡鴉喙★",
     "deDE": "[fs]Helmbarte",
     "esES": "[ms]Bec de corbin",
     "frFR": "[ms]Bec-de-Corbeau",
@@ -3346,13 +3346,13 @@
     "jaJP": "ベク・ド・コルバン",
     "ptBR": "[fs]Bec-de-corbin",
     "ruRU": "[ms]чекан",
-    "zhCN": "鸦喙锤戟"
+    "zhCN": "★鸦喙锤戟★"
   },
   {
     "id": 2121,
     "Key": "9pa",
     "enUS": "Partizan",
-    "zhTW": "闊頭槍",
+    "zhTW": "★闊頭槍★",
     "deDE": "[fs]Partisane",
     "esES": "[fs]Partesana",
     "frFR": "[fs]Pertuisane",
@@ -3363,13 +3363,13 @@
     "jaJP": "パルチザン",
     "ptBR": "[fs]Partesana",
     "ruRU": "[ms]протазан",
-    "zhCN": "游侠戟"
+    "zhCN": "★游侠戟★"
   },
   {
     "id": 2122,
     "Key": "9s8",
     "enUS": "Battle Scythe",
-    "zhTW": "戰鬥鐮刀",
+    "zhTW": "★戰鬥鐮刀★",
     "deDE": "[fs]Kampfsense",
     "esES": "[fs]Guadaña de batalla",
     "frFR": "[fs]Faux de bataille",
@@ -3380,13 +3380,13 @@
     "jaJP": "バトル・サイス",
     "ptBR": "[fs]Foice de Batalha",
     "ruRU": "[fs]боевая коса",
-    "zhCN": "战斗镰刀"
+    "zhCN": "★战斗镰刀★"
   },
   {
     "id": 2123,
     "Key": "9vo",
     "enUS": "Bill",
-    "zhTW": "長柄鍥",
+    "zhTW": "★長柄鍥★",
     "deDE": "[fs]Pinne",
     "esES": "[ms]Hocino",
     "frFR": "[fs]Guisarme",
@@ -3397,13 +3397,13 @@
     "jaJP": "ビル",
     "ptBR": "[ms]Bico",
     "ruRU": "[fs]кирка",
-    "zhCN": "钩镰枪"
+    "zhCN": "★钩镰枪★"
   },
   {
     "id": 2124,
     "Key": "9b7",
     "enUS": "Lochaber Axe",
-    "zhTW": "鉤斧",
+    "zhTW": "★鉤斧★",
     "deDE": "[fs]Lochaberaxt",
     "esES": "[fs]Hacha de Lochaber",
     "frFR": "[fs]Lochabre",
@@ -3420,7 +3420,7 @@
     "id": 2125,
     "Key": "9p9",
     "enUS": "Lance",
-    "zhTW": "長槍",
+    "zhTW": "★長槍★",
     "deDE": "[fs]Lanze",
     "esES": "[fs]Asta",
     "frFR": "[fs]Haste",
@@ -3431,13 +3431,13 @@
     "jaJP": "ランス",
     "ptBR": "[fs]Lança de Combate",
     "ruRU": "[ns]массивное копье",
-    "zhCN": "骑枪"
+    "zhCN": "★骑枪★"
   },
   {
     "id": 2126,
     "Key": "9st",
     "enUS": "Yari",
-    "zhTW": "三尖槍",
+    "zhTW": "★三尖槍★",
     "deDE": "[fs]Yari",
     "esES": "[ms]Yari",
     "frFR": "[fs]Yari",
@@ -3448,13 +3448,13 @@
     "jaJP": "槍",
     "ptBR": "[fs]Yari",
     "ruRU": "[ms]яри",
-    "zhCN": "长枪"
+    "zhCN": "★长枪★"
   },
   {
     "id": 2127,
     "Key": "9br",
     "enUS": "War Fork",
-    "zhTW": "征戰軍叉",
+    "zhTW": "★征戰軍叉★",
     "deDE": "[fs]Kriegsforke",
     "esES": "[fs]Horquilla de guerra",
     "frFR": "[fs]Fourche de guerre",
@@ -3471,7 +3471,7 @@
     "id": 2128,
     "Key": "9tr",
     "enUS": "Fuscina",
-    "zhTW": "矛叉",
+    "zhTW": "★矛叉★",
     "deDE": "[ms]Kampfdreizack",
     "esES": "[fs]Fuscina",
     "frFR": "[fs]Fuscine",
@@ -3482,13 +3482,13 @@
     "jaJP": "三叉槍",
     "ptBR": "[fs]Fuscina",
     "ruRU": "[pl]вилы",
-    "zhCN": "叉戟枪"
+    "zhCN": "★叉戟枪★"
   },
   {
     "id": 2129,
     "Key": "9sr",
     "enUS": "War Spear",
-    "zhTW": "征戰長矛",
+    "zhTW": "★征戰長矛★",
     "deDE": "[ms]Kampfspeer",
     "esES": "[fs]Lanza de guerra",
     "frFR": "[fs]Lance de guerre",
@@ -3499,13 +3499,13 @@
     "jaJP": "ウォー・スピア",
     "ptBR": "[fs]Lança Bélica",
     "ruRU": "[ns]воинское копье",
-    "zhCN": "战矛"
+    "zhCN": "★战矛★"
   },
   {
     "id": 2130,
     "Key": "9ts",
     "enUS": "Harpoon",
-    "zhTW": "魚叉",
+    "zhTW": "★魚叉★",
     "deDE": "[fs]Harpune",
     "esES": "[ms]Arpón",
     "frFR": "[ms]Harpon",
@@ -3516,13 +3516,13 @@
     "jaJP": "ハープーン",
     "ptBR": "[ms]Arpão",
     "ruRU": "[ms]гарпун",
-    "zhCN": "鱼叉"
+    "zhCN": "★鱼叉★"
   },
   {
     "id": 2131,
     "Key": "9gl",
     "enUS": "Spiculum",
-    "zhTW": "尖刃槍",
+    "zhTW": "★尖刃槍★",
     "deDE": "[ms]Wurfstock",
     "esES": "[ms]Spiculum",
     "frFR": "[ms]Spiculum",
@@ -3533,13 +3533,13 @@
     "jaJP": "スピキュラム",
     "ptBR": "[ms]Spiculum",
     "ruRU": "[ms]спикулум",
-    "zhCN": "斧刃戟枪"
+    "zhCN": "★斧刃戟枪★"
   },
   {
     "id": 2132,
     "Key": "9s9",
     "enUS": "Simbilan",
-    "zhTW": "銳矛標槍",
+    "zhTW": "★銳矛標槍★",
     "deDE": "[ms]Simbilan",
     "esES": "[ms]Simbilan",
     "frFR": "[ms]Simbilan",
@@ -3550,13 +3550,13 @@
     "jaJP": "シンビラン",
     "ptBR": "[ms]Simbilan",
     "ruRU": "[ms]симбилан",
-    "zhCN": "重梭镖"
+    "zhCN": "★重梭镖★"
   },
   {
     "id": 2133,
     "Key": "9pi",
     "enUS": "Great Pilum",
-    "zhTW": "重型標槍",
+    "zhTW": "★重型標槍★",
     "deDE": "[ms]großer Spieß",
     "esES": "[ms]Gran pilum",
     "frFR": "[ms]Grand Pilum",
@@ -3567,13 +3567,13 @@
     "jaJP": "グレート・ピルム",
     "ptBR": "[ms]Grande Pilum",
     "ruRU": "[ms]большой пилум",
-    "zhCN": "重标枪"
+    "zhCN": "★重标枪★"
   },
   {
     "id": 2134,
     "Key": "9ja",
     "enUS": "War Javelin",
-    "zhTW": "征戰標槍",
+    "zhTW": "★征戰標槍★",
     "deDE": "[ms]Kriegswurfspieß",
     "esES": "[fs]Jabalina de guerra",
     "frFR": "[ms]Javelot de guerre",
@@ -3584,13 +3584,13 @@
     "jaJP": "ウォー・ジャベリン",
     "ptBR": "[ms]Dardo Bélico",
     "ruRU": "[ns]воинское копьецо",
-    "zhCN": "战争标枪"
+    "zhCN": "★战争标枪★"
   },
   {
     "id": 2135,
     "Key": "9b8",
     "enUS": "Hurlbat",
-    "zhTW": "投斧",
+    "zhTW": "★投斧★",
     "deDE": "[fs]Saufeder",
     "esES": "[ms]Hurlbat",
     "frFR": "[fs]Hurle-hache",
@@ -3601,13 +3601,13 @@
     "jaJP": "ハルバット",
     "ptBR": "[ms]Machado Lançável",
     "ruRU": "[ms]метательная бита",
-    "zhCN": "飞蝠斧"
+    "zhCN": "★飞蝠斧★"
   },
   {
     "id": 2136,
     "Key": "9bk",
     "enUS": "War Dart",
-    "zhTW": "征戰飛鏢",
+    "zhTW": "★征戰飛鏢★",
     "deDE": "[ms]Kriegspfeil",
     "esES": "[ms]Dardo de guerra",
     "frFR": "[fs]Fléchette de guerre",
@@ -3618,13 +3618,13 @@
     "jaJP": "ウォー・ダーツ",
     "ptBR": "[fs]Seta Bélica",
     "ruRU": "[ms]воинский дротик",
-    "zhCN": "战镖"
+    "zhCN": "★战镖★"
   },
   {
     "id": 2137,
     "Key": "9ta",
     "enUS": "Francisca",
-    "zhTW": "法蘭西飛斧",
+    "zhTW": "★法蘭西飛斧★",
     "deDE": "[fs]Frankenaxt",
     "esES": "[fs]Francisca",
     "frFR": "[fs]Francisque",
@@ -3635,13 +3635,13 @@
     "jaJP": "フランキスカ",
     "ptBR": "[ms]Franquisque",
     "ruRU": "[fs]франциска",
-    "zhCN": "法兰飞斧"
+    "zhCN": "★法兰飞斧★"
   },
   {
     "id": 2138,
     "Key": "9tk",
     "enUS": "Battle Dart",
-    "zhTW": "戰鬥飛鏢",
+    "zhTW": "★戰鬥飛鏢★",
     "deDE": "[ms]Kurzpfeil",
     "esES": "[ms]Dardo de batalla",
     "frFR": "[fs]Fléchette de bataille",
@@ -3652,13 +3652,13 @@
     "jaJP": "バトル・ダーツ",
     "ptBR": "[fs]Seta de Batalha",
     "ruRU": "[ms]боевой дротик",
-    "zhCN": "战斗镖"
+    "zhCN": "★战斗镖★"
   },
   {
     "id": 2140,
     "Key": "9kr",
     "enUS": "Cinquedeas",
-    "zhTW": "闊身短劍",
+    "zhTW": "★闊身短劍★",
     "deDE": "[ms]Cinquedea",
     "esES": "[fs]Cinquedea",
     "frFR": "[fp]Cinquedeas",
@@ -3669,13 +3669,13 @@
     "jaJP": "チンクエデア",
     "ptBR": "[fs]Cinquedeas",
     "ruRU": "[fs]чинкуэда",
-    "zhCN": "五指短剑"
+    "zhCN": "★五指短剑★"
   },
   {
     "id": 2141,
     "Key": "9di",
     "enUS": "Rondel",
-    "zhTW": "圓柄匕首",
+    "zhTW": "★圓柄匕首★",
     "deDE": "[ms]Langdolch",
     "esES": "[ms]Rondel",
     "frFR": "[fs]Dague à rouelles",
@@ -3686,13 +3686,13 @@
     "jaJP": "ロンデル",
     "ptBR": "[ms]Rondel",
     "ruRU": "[ms]рондель",
-    "zhCN": "袖匕"
+    "zhCN": "★袖匕★"
   },
   {
     "id": 2142,
     "Key": "9dg",
     "enUS": "Poignard",
-    "zhTW": "刺擊短劍",
+    "zhTW": "★刺擊短劍★",
     "deDE": "[ms]Poignard",
     "esES": "[ms]Puñal",
     "frFR": "[ms]Poignard",
@@ -3703,13 +3703,13 @@
     "jaJP": "ポワニャール",
     "ptBR": "[ms]Punhal",
     "ruRU": "[ms]пуаньяр",
-    "zhCN": "锐匕"
+    "zhCN": "★锐匕★"
   },
   {
     "id": 2143,
     "Key": "9gd",
     "enUS": "Executioner Sword",
-    "zhTW": "處刑劍",
+    "zhTW": "★處刑劍★",
     "deDE": "[ns]Scharfrichterschwert",
     "esES": "[fs]Espada de ejecución",
     "frFR": "[fs]Épée d’exécuteur",
@@ -3720,13 +3720,13 @@
     "jaJP": "処刑人の剣",
     "ptBR": "[fs]Espada do Carrasco",
     "ruRU": "[ms]палаческий меч",
-    "zhCN": "行刑剑"
+    "zhCN": "★行刑剑★"
   },
   {
     "id": 2144,
     "Key": "9fb",
     "enUS": "Zweihander",
-    "zhTW": "日耳曼大劍",
+    "zhTW": "★日耳曼大劍★",
     "deDE": "[ms]Bidenhänder",
     "esES": "[fs]Zweihänder",
     "frFR": "[ms]Estramaçon",
@@ -3737,13 +3737,13 @@
     "jaJP": "ツヴァイヘンダー",
     "ptBR": "[fs]Bihänder",
     "ruRU": "[ms]цвайхандер",
-    "zhCN": "双手重剑"
+    "zhCN": "★双手重剑★"
   },
   {
     "id": 2145,
     "Key": "9gs",
     "enUS": "Tusk Sword",
-    "zhTW": "長牙劍",
+    "zhTW": "★長牙劍★",
     "deDE": "[ns]Stoßschwert",
     "esES": "[fs]Espada de colmillo",
     "frFR": "[fs]Épée d’ivoire",
@@ -3754,13 +3754,13 @@
     "jaJP": "タスク・ソード",
     "ptBR": "[fs]Espada de Presas",
     "ruRU": "[ms]бивенный меч",
-    "zhCN": "獠牙剑"
+    "zhCN": "★獠牙剑★"
   },
   {
     "id": 2146,
     "Key": "9cm",
     "enUS": "Dacian Falx",
-    "zhTW": "達西安鐮刀",
+    "zhTW": "★達西安鐮刀★",
     "deDE": "[fs]dakische Sichel",
     "esES": "[fs]Falx dacia",
     "frFR": "[fs]Faux de Dacian",
@@ -3771,13 +3771,13 @@
     "jaJP": "ダシアン・ファルクス",
     "ptBR": "[fs]Falx Dácia",
     "ruRU": "[ms]дакийский фалькс",
-    "zhCN": "达契亚镰剑"
+    "zhCN": "★达契亚镰剑★"
   },
   {
     "id": 2147,
     "Key": "92h",
     "enUS": "Espandon",
-    "zhTW": "雙手重劍",
+    "zhTW": "★雙手重劍★",
     "deDE": "[ns]Espandon",
     "esES": "[ms]Espadón",
     "frFR": "[ms]Espadon",
@@ -3788,13 +3788,13 @@
     "jaJP": "エスパドン",
     "ptBR": "[fs]Espandon",
     "ruRU": "[ms]эспадон",
-    "zhCN": "西铁大剑"
+    "zhCN": "★西铁大剑★"
   },
   {
     "id": 2148,
     "Key": "9wd",
     "enUS": "Ancient Sword",
-    "zhTW": "上古劍",
+    "zhTW": "★上古劍★",
     "deDE": "[ns]altes Schwert",
     "esES": "[fs]Espada antigua",
     "frFR": "[fs]Épée ancienne",
@@ -3805,13 +3805,13 @@
     "jaJP": "エンシェント・ソード",
     "ptBR": "[fs]Espada Ancestral",
     "ruRU": "[ms]древний меч",
-    "zhCN": "古代剑"
+    "zhCN": "★古代剑★"
   },
   {
     "id": 2149,
     "Key": "9ls",
     "enUS": "Rune Sword",
-    "zhTW": "符文劍",
+    "zhTW": "★符文劍★",
     "deDE": "[ns]Runenschwert",
     "esES": "[fs]Espada rúnica",
     "frFR": "[fs]Épée runique",
@@ -3822,13 +3822,13 @@
     "jaJP": "ルーン・ソード",
     "ptBR": "[fs]Espada Rúnica",
     "ruRU": "[ms]рунический меч",
-    "zhCN": "符文剑"
+    "zhCN": "★符文剑★"
   },
   {
     "id": 2150,
     "Key": "9bs",
     "enUS": "Battle Sword",
-    "zhTW": "戰鬥長劍",
+    "zhTW": "★戰鬥長劍★",
     "deDE": "[ns]Kampfschwert",
     "esES": "[fs]Espada de batalla",
     "frFR": "[fs]Épée de bataille",
@@ -3839,13 +3839,13 @@
     "jaJP": "バトル・ソード",
     "ptBR": "[fs]Espada de Batalha",
     "ruRU": "[ms]боевой меч",
-    "zhCN": "战斗剑"
+    "zhCN": "★战斗剑★"
   },
   {
     "id": 2151,
     "Key": "9cr",
     "enUS": "Dimensional Blade",
-    "zhTW": "次元刃",
+    "zhTW": "★次元刃★",
     "deDE": "[fs]Dimensionenklinge",
     "esES": "[fs]Espada dimensional",
     "frFR": "[fs]Lame dimensionnelle",
@@ -3856,13 +3856,13 @@
     "jaJP": "ディメンショナル・ブレイド",
     "ptBR": "[fs]Lâmina Dimensional",
     "ruRU": "[ms]межпространственный клинок",
-    "zhCN": "次元之刃"
+    "zhCN": "★次元之刃★"
   },
   {
     "id": 2152,
     "Key": "9fc",
     "enUS": "Tulwar",
-    "zhTW": "印度彎刀",
+    "zhTW": "★印度彎刀★",
     "deDE": "[ns]Tulwar",
     "esES": "[ms]Tulwar",
     "frFR": "[ms]Tulwar",
@@ -3873,13 +3873,13 @@
     "jaJP": "タルワール",
     "ptBR": "[ms]Talwar",
     "ruRU": "[ms]тальвар",
-    "zhCN": "塔瓦弯刀"
+    "zhCN": "★塔瓦弯刀★"
   },
   {
     "id": 2153,
     "Key": "9sb",
     "enUS": "Shamshir",
-    "zhTW": "波斯彎刀",
+    "zhTW": "★波斯彎刀★",
     "deDE": "[ns]Schamschir",
     "esES": "[ms]Shamshir",
     "frFR": "[ms]Shamshir",
@@ -3890,13 +3890,13 @@
     "jaJP": "シャムシール",
     "ptBR": "[ms]Shamshir",
     "ruRU": "[ms]шамшир",
-    "zhCN": "沙漠弯刀"
+    "zhCN": "★沙漠弯刀★"
   },
   {
     "id": 2154,
     "Key": "9sm",
     "enUS": "Cutlass",
-    "zhTW": "水手刀",
+    "zhTW": "★水手刀★",
     "deDE": "[ms]Hacksäbel",
     "esES": "[ms]Alfanje",
     "frFR": "[ms]Coutelas",
@@ -3907,13 +3907,13 @@
     "jaJP": "カトラス",
     "ptBR": "[ms]Alfanje",
     "ruRU": "[fs]абордажная сабля",
-    "zhCN": "短弯刀"
+    "zhCN": "★短弯刀★"
   },
   {
     "id": 2155,
     "Key": "9ss",
     "enUS": "Gladius",
-    "zhTW": "羅馬短劍",
+    "zhTW": "★羅馬短劍★",
     "deDE": "[ms]Gladius",
     "esES": "[ms]Gladius",
     "frFR": "[ms]Glaive",
@@ -3924,13 +3924,13 @@
     "jaJP": "グラディウス",
     "ptBR": "[ms]Gladius",
     "ruRU": "[ms]гладиус",
-    "zhCN": "角斗短剑"
+    "zhCN": "★角斗短剑★"
   },
   {
     "id": 2156,
     "Key": "9gm",
     "enUS": "Martel de Fer",
-    "zhTW": "長柄戰鎚",
+    "zhTW": "★長柄戰鎚★",
     "deDE": "[ms]Eisenhammer",
     "esES": "[ms]Martel de fer",
     "frFR": "[ms]Martel de Fer",
@@ -3941,13 +3941,13 @@
     "jaJP": "マーテル・ドゥ・フェール",
     "ptBR": "[ms]Martel de Fer",
     "ruRU": "[ms]мартель-де-фер",
-    "zhCN": "尖头锤"
+    "zhCN": "★尖头锤★"
   },
   {
     "id": 2157,
     "Key": "9m9",
     "enUS": "War Club",
-    "zhTW": "征戰重鎚",
+    "zhTW": "★征戰重鎚★",
     "deDE": "[fs]Kriegskeule",
     "esES": "[fs]Porra de guerra",
     "frFR": "[fs]Massue de guerre",
@@ -3958,13 +3958,13 @@
     "jaJP": "ウォー・クラブ",
     "ptBR": "[fs]Clava Bélica",
     "ruRU": "[fs]воинская дубина",
-    "zhCN": "战棒"
+    "zhCN": "★战棒★"
   },
   {
     "id": 2158,
     "Key": "9wh",
     "enUS": "Battle Hammer",
-    "zhTW": "戰鬥鐵鎚",
+    "zhTW": "★戰鬥鐵鎚★",
     "deDE": "[ms]Kampfhammer",
     "esES": "[ms]Martillo de batalla",
     "frFR": "[ms]Marteau de bataille",
@@ -3975,13 +3975,13 @@
     "jaJP": "バトル・ハンマー",
     "ptBR": "[ms]Martelo de Batalha",
     "ruRU": "[ms]боевой молот",
-    "zhCN": "战斗锤"
+    "zhCN": "★战斗锤★"
   },
   {
     "id": 2159,
     "Key": "9fl",
     "enUS": "Knout",
-    "zhTW": "刑罪連枷",
+    "zhTW": "★刑罪連枷★",
     "deDE": "[fs]Knute",
     "esES": "[ms]Knut",
     "frFR": "[ms]Knout",
@@ -3992,13 +3992,13 @@
     "jaJP": "ノウト",
     "ptBR": "[ms]Látego",
     "ruRU": "[ms]кнут",
-    "zhCN": "链子锤"
+    "zhCN": "★链子锤★"
   },
   {
     "id": 2160,
     "Key": "9mt",
     "enUS": "Jagged Star",
-    "zhTW": "鋸齒釘頭鎚",
+    "zhTW": "★鋸齒釘頭鎚★",
     "deDE": "[ms]Zackenstern",
     "esES": "[fs]Estrella dentada",
     "frFR": "[fs]Étoile crénelée",
@@ -4009,13 +4009,13 @@
     "jaJP": "ジャグド・スター",
     "ptBR": "[fs]Estrela Serrilhada",
     "ruRU": "[fs]утренняя звезда",
-    "zhCN": "锯齿星锤"
+    "zhCN": "★锯齿星锤★"
   },
   {
     "id": 2161,
     "Key": "9ma",
     "enUS": "Flanged Mace",
-    "zhTW": "凸緣釘鎚",
+    "zhTW": "★凸緣釘鎚★",
     "deDE": "[ms]Kriegsknüppel",
     "esES": "[fs]Maza rebordeada",
     "frFR": "[fs]Masse à ailettes",
@@ -4026,13 +4026,13 @@
     "jaJP": "フランジ・メイス",
     "ptBR": "[fs]Maça Bordejada",
     "ruRU": "[fs]шипастая булава",
-    "zhCN": "凸缘钉锤"
+    "zhCN": "★凸缘钉锤★"
   },
   {
     "id": 2162,
     "Key": "9sp",
     "enUS": "Barbed Club",
-    "zhTW": "倒刺棍棒",
+    "zhTW": "★倒刺棍棒★",
     "deDE": "[fs]Stachelkeule",
     "esES": "[fs]Porra con púas",
     "frFR": "[fs]Massue barbelée",
@@ -4043,13 +4043,13 @@
     "jaJP": "バーブド・クラブ",
     "ptBR": "[fs]Clava Farpada",
     "ruRU": "[fs]колючая дубина",
-    "zhCN": "钉刺尖棒"
+    "zhCN": "★钉刺尖棒★"
   },
   {
     "id": 2163,
     "Key": "9ws",
     "enUS": "Divine Scepter",
-    "zhTW": "聖恩權杖",
+    "zhTW": "★聖恩權杖★",
     "deDE": "[ns]göttliches Szepter",
     "esES": "[ms]Cetro divino",
     "frFR": "[ms]Sceptre divin",
@@ -4060,13 +4060,13 @@
     "jaJP": "ディバイン・セプター",
     "ptBR": "[ms]Cetro Divino",
     "ruRU": "[ms]божественный скипетр",
-    "zhCN": "神圣权杖"
+    "zhCN": "★神圣权杖★"
   },
   {
     "id": 2164,
     "Key": "9qs",
     "enUS": "Holy Water Sprinkler",
-    "zhTW": "聖水禮杖",
+    "zhTW": "★聖水禮杖★",
     "deDE": "[ms]Weihwasserstab",
     "esES": "[ms]Hisopo de agua bendita",
     "frFR": "[ms]Dispenseur d’eau bénite",
@@ -4077,13 +4077,13 @@
     "jaJP": "ホーリー・セプター",
     "ptBR": "[ms]Aspersor de Água Benta",
     "ruRU": "[ms]источник святой воды",
-    "zhCN": "圣水喷杖"
+    "zhCN": "★圣水喷杖★"
   },
   {
     "id": 2165,
     "Key": "9sc",
     "enUS": "Rune Scepter",
-    "zhTW": "符文權杖",
+    "zhTW": "★符文權杖★",
     "deDE": "[ns]Runenszepter",
     "esES": "[ms]Cetro rúnico",
     "frFR": "[ms]Sceptre runique",
@@ -4094,13 +4094,13 @@
     "jaJP": "ルーン・セプター",
     "ptBR": "[ms]Cetro Rúnico",
     "ruRU": "[ms]рунный скипетр",
-    "zhCN": "符文权杖"
+    "zhCN": "★符文权杖★"
   },
   {
     "id": 2166,
     "Key": "9cl",
     "enUS": "Cudgel",
-    "zhTW": "鬥棍",
+    "zhTW": "★鬥棍★",
     "deDE": "[ms]Knüttel",
     "esES": "[ms]Garrote",
     "frFR": "[ms]Casse-tête",
@@ -4111,13 +4111,13 @@
     "jaJP": "カジェル",
     "ptBR": "[ms]Tacape",
     "ruRU": "[fs]палица",
-    "zhCN": "大棒"
+    "zhCN": "★大棒★"
   },
   {
     "id": 2167,
     "Key": "9gw",
     "enUS": "Grave Wand",
-    "zhTW": "墓地魔杖",
+    "zhTW": "★墓地魔杖★",
     "deDE": "[ms]Gruftstab",
     "esES": "[fs]Vara sepulcral",
     "frFR": "[fs]Baguette de tombeau",
@@ -4128,13 +4128,13 @@
     "jaJP": "グレイブ・ワンド",
     "ptBR": "[fs]Varinha Sepulcral",
     "ruRU": "[ms]загробный жезл",
-    "zhCN": "陪葬魔杖"
+    "zhCN": "★陪葬魔杖★"
   },
   {
     "id": 2168,
     "Key": "9bw",
     "enUS": "Tomb Wand",
-    "zhTW": "古墓魔杖",
+    "zhTW": "★古墓魔杖★",
     "deDE": "[ms]Grabesstab",
     "esES": "[fs]Vara fúnebre",
     "frFR": "[fs]Baguette de tombe",
@@ -4145,13 +4145,13 @@
     "jaJP": "トゥーム・ワンド",
     "ptBR": "[fs]Varinha Tumular",
     "ruRU": "[ms]могильный жезл",
-    "zhCN": "随葬魔杖"
+    "zhCN": "★随葬魔杖★"
   },
   {
     "id": 2169,
     "Key": "9yw",
     "enUS": "Petrified Wand",
-    "zhTW": "石木魔杖",
+    "zhTW": "★石木魔杖★",
     "deDE": "[ms]versteinerter Stab",
     "esES": "[fs]Vara petrificada",
     "frFR": "[fs]Baguette pétrifiée",
@@ -4162,13 +4162,13 @@
     "jaJP": "ペトリファイド・ワンド",
     "ptBR": "[fs]Varinha Petrificada",
     "ruRU": "[ms]окаменелый жезл",
-    "zhCN": "石化魔杖"
+    "zhCN": "★石化魔杖★"
   },
   {
     "id": 2170,
     "Key": "9wn",
     "enUS": "Burnt Wand",
-    "zhTW": "焦木魔杖",
+    "zhTW": "★焦木魔杖★",
     "deDE": "[ms]verbrannter Stab",
     "esES": "[fs]Vara quemada",
     "frFR": "[fs]Baguette brûlée",
@@ -4179,7 +4179,7 @@
     "jaJP": "バーント・ワンド",
     "ptBR": "[fs]Varinha Queimada",
     "ruRU": "[ms]обгорелый жезл",
-    "zhCN": "烧制魔杖"
+    "zhCN": "★烧制魔杖★"
   },
   {
     "id": 2171,
@@ -4202,7 +4202,7 @@
     "id": 2172,
     "Key": "9ga",
     "enUS": "Gothic Axe",
-    "zhTW": "哥德斧",
+    "zhTW": "★哥德斧★",
     "deDE": "[fs]Prunkaxt",
     "esES": "[fs]Hacha gótica",
     "frFR": "[fs]Hache gothique",
@@ -4213,7 +4213,7 @@
     "jaJP": "ゴシック・アックス",
     "ptBR": "[ms]Machado Gótico",
     "ruRU": "[ms]готический топор",
-    "zhCN": "哥特斧"
+    "zhCN": "★哥特斧★"
   },
   {
     "id": 2173,
@@ -4236,7 +4236,7 @@
     "id": 2174,
     "Key": "9ba",
     "enUS": "Bearded Axe",
-    "zhTW": "鉤斧",
+    "zhTW": "★鉤斧★",
     "deDE": "[fs]Schlagaxt",
     "esES": "[fs]Hacha barbuda",
     "frFR": "[fs]Hache ébarbée",
@@ -4247,13 +4247,13 @@
     "jaJP": "ビアデッド・アックス",
     "ptBR": "[ms]Machado Farpado",
     "ruRU": "[ms]скеггокс",
-    "zhCN": "芒刺斧"
+    "zhCN": "★芒刺斧★"
   },
   {
     "id": 2175,
     "Key": "9la",
     "enUS": "Military Axe",
-    "zhTW": "軍斧",
+    "zhTW": "★軍斧★",
     "deDE": "[fs]Militäraxt",
     "esES": "[fs]Hacha militar",
     "frFR": "[fs]Hache militaire",
@@ -4264,13 +4264,13 @@
     "jaJP": "ミリタリー・アックス",
     "ptBR": "[ms]Machado Militar",
     "ruRU": "[ms]солдатский топор",
-    "zhCN": "军斧"
+    "zhCN": "★军斧★"
   },
   {
     "id": 2176,
     "Key": "9wa",
     "enUS": "Naga",
-    "zhTW": "那伽斧",
+    "zhTW": "★那伽斧★",
     "deDE": "[fs]Dao",
     "esES": "[fs]Naga",
     "frFR": "Naga",
@@ -4281,7 +4281,7 @@
     "jaJP": "ナーガ",
     "ptBR": "[ms]Naga",
     "ruRU": "[fs]нага",
-    "zhCN": "蛇妖斧"
+    "zhCN": "★蛇妖斧★"
   },
   {
     "id": 2177,
@@ -4304,7 +4304,7 @@
     "id": 2178,
     "Key": "92a",
     "enUS": "Twin Axe",
-    "zhTW": "雙面斧",
+    "zhTW": "★雙面斧★",
     "deDE": "[fs]Zwillingsaxt",
     "esES": "[fs]Hacha gemela",
     "frFR": "[fs]Hache jumelle",
@@ -4315,13 +4315,13 @@
     "jaJP": "ツイン・アックス",
     "ptBR": "[ms]Machado Gêmeo",
     "ruRU": "[ms]двойной топор",
-    "zhCN": "双锋斧"
+    "zhCN": "★双锋斧★"
   },
   {
     "id": 2179,
     "Key": "9ax",
     "enUS": "Cleaver",
-    "zhTW": "斬斧",
+    "zhTW": "★斬斧★",
     "deDE": "[fs]Spaltaxt",
     "esES": "[fs]Tajadera",
     "frFR": "[ms]Couperet",
@@ -4332,13 +4332,13 @@
     "jaJP": "クリーバー",
     "ptBR": "[ms]Cutelo",
     "ruRU": "[ms]колун",
-    "zhCN": "剁肉斧"
+    "zhCN": "★剁肉斧★"
   },
   {
     "id": 2180,
     "Key": "9ha",
     "enUS": "Hatchet",
-    "zhTW": "短斧",
+    "zhTW": "★短斧★",
     "deDE": "[ns]Kriegsbeil",
     "esES": "[fs]Hachuela",
     "frFR": "[fs]Hachette",
@@ -4349,13 +4349,13 @@
     "jaJP": "ハチェット",
     "ptBR": "[fs]Machadinha",
     "ruRU": "[ms]пальштаб",
-    "zhCN": "小斧"
+    "zhCN": "★小斧★"
   },
   {
     "id": 2181,
     "Key": "9b9",
     "enUS": "Gothic Sword",
-    "zhTW": "哥德劍",
+    "zhTW": "★哥德劍★",
     "deDE": "[ns]Prunkschwert",
     "esES": "[fs]Espada gótica",
     "frFR": "[fs]Épée gothique",
@@ -4366,7 +4366,7 @@
     "jaJP": "ゴシック・ソード",
     "ptBR": "[fs]Espada Gótica",
     "ruRU": "[ms]готический меч",
-    "zhCN": "哥特剑"
+    "zhCN": "★哥特剑★"
   },
   {
     "id": 2182,
@@ -7908,7 +7908,7 @@
     "id": 2520,
     "Key": "Crowbill",
     "enUS": "Crowbill",
-    "zhTW": "鴉嘴鎬",
+    "zhTW": "★鴉嘴鎬★",
     "deDE": "Bogenpicke",
     "esES": "[ms]Pico de cuervo",
     "frFR": "[ms]Bec-de-corbeau",
@@ -7919,7 +7919,7 @@
     "jaJP": "クロウビル",
     "ptBR": "Picareta",
     "ruRU": "[ms]клевец",
-    "zhCN": "鸦嘴锄"
+    "zhCN": "★鸦嘴锄★"
   },
   {
     "id": 2521,
@@ -11121,7 +11121,7 @@
     "id": 10021,
     "Key": "xhm",
     "enUS": "Winged Helm",
-    "zhTW": "翼盔",
+    "zhTW": "★翼盔★",
     "deDE": "Flügelhelm",
     "esES": "[ms]Yelmo alado",
     "frFR": "[ms]Heaume ailé",
@@ -11132,7 +11132,7 @@
     "jaJP": "ウィングド・ヘルム",
     "ptBR": "[ms]Elmo Alado",
     "ruRU": "[ms]крылатый шлем",
-    "zhCN": "翼盔"
+    "zhCN": "★翼盔★"
   },
   {
     "id": 10022,
@@ -12260,7 +12260,7 @@
     "id": 11010,
     "Key": "7wa",
     "enUS": "Berserker Axe",
-    "zhTW": "狂戰斧",
+    "zhTW": "★★狂戰斧★★",
     "deDE": "[fs]Berserkeraxt",
     "esES": "[fs]Hacha de berserker",
     "frFR": "[fs]Hache de beserker",
@@ -12271,13 +12271,13 @@
     "jaJP": "バーサーカー・アックス",
     "ptBR": "[ms]Machado do Berserker",
     "ruRU": "Секира берсерка",
-    "zhCN": "狂战士战斧"
+    "zhCN": "★★狂战士战斧★★"
   },
   {
     "id": 11012,
     "Key": "xhg",
     "enUS": "War Gauntlets",
-    "zhTW": "征戰護手",
+    "zhTW": "★征戰護手★",
     "deDE": "Kriegspanzerhandschuhe",
     "esES": "[mp]Guanteletes de guerra",
     "frFR": "[mp]Gantelets de guerre",
@@ -12288,13 +12288,13 @@
     "jaJP": "ウォー・ガントレット",
     "ptBR": "[fp]Manoplas Bélicas",
     "ruRU": "[pl]воинские рукавицы",
-    "zhCN": "战争护手"
+    "zhCN": "★战争护手★"
   },
   {
     "id": 11028,
     "Key": "9bl",
     "enUS": "Stiletto",
-    "zhTW": "窄刃匕首",
+    "zhTW": "★窄刃匕首★",
     "deDE": "[ns]Stilett",
     "esES": "[ms]Stiletto",
     "frFR": "[ms]Stylet",
@@ -12305,7 +12305,7 @@
     "jaJP": "スティレット",
     "ptBR": "[ms]Estilete",
     "ruRU": "[ms]стилет",
-    "zhCN": "小剑"
+    "zhCN": "★小剑★"
   },
   {
     "id": 11146,
@@ -12617,7 +12617,7 @@
     "id": 20187,
     "Key": "9ar",
     "enUS": "Quhab",
-    "zhTW": "格鬥刃",
+    "zhTW": "★格鬥刃★",
     "deDE": "[ns]Quhab",
     "esES": "[ms]Quhab",
     "frFR": "[ms]Quhab",
@@ -12628,13 +12628,13 @@
     "jaJP": "クハブ",
     "ptBR": "[ms]Quhab",
     "ruRU": "[ms]кухаб",
-    "zhCN": "拳刃"
+    "zhCN": "★拳刃★"
   },
   {
     "id": 20188,
     "Key": "9wb",
     "enUS": "Wrist Spike",
-    "zhTW": "腕刺",
+    "zhTW": "★腕刺★",
     "deDE": "[ms]Unterarmdorn",
     "esES": "[fs]Punta de muñeca",
     "frFR": "[fs]Pique de poignet",
@@ -12645,13 +12645,13 @@
     "jaJP": "リスト・スパイク",
     "ptBR": "[ms]Espeto de Pulso",
     "ruRU": "[ms]наручный кинжал",
-    "zhCN": "腕刺"
+    "zhCN": "★腕刺★"
   },
   {
     "id": 20189,
     "Key": "9xf",
     "enUS": "Fascia",
-    "zhTW": "格鬥爪",
+    "zhTW": "★格鬥爪★",
     "deDE": "[fs]Faszie",
     "esES": "[fs]Fascia",
     "frFR": "[ms]Fascia",
@@ -12662,13 +12662,13 @@
     "jaJP": "ファシア",
     "ptBR": "[fs]Fáscia",
     "ruRU": "[fs]фасция",
-    "zhCN": "刀刃拳套"
+    "zhCN": "★刀刃拳套★"
   },
   {
     "id": 20190,
     "Key": "9cs",
     "enUS": "Hand Scythe",
-    "zhTW": "手鐮",
+    "zhTW": "★手鐮★",
     "deDE": "[fs]Handsichel",
     "esES": "[fs]Guadaña de mano",
     "frFR": "[fs]Petite faux",
@@ -12679,13 +12679,13 @@
     "jaJP": "ハンド・サイス",
     "ptBR": "[fs]Foice Manual",
     "ruRU": "[ms]ручной серп",
-    "zhCN": "手镰"
+    "zhCN": "★手镰★"
   },
   {
     "id": 20191,
     "Key": "9lw",
     "enUS": "Greater Claws",
-    "zhTW": "巨爪",
+    "zhTW": "★巨爪★",
     "deDE": "[pl]Großkrallen",
     "esES": "[fp]Garras enormes",
     "frFR": "[fp]Grandes griffes",
@@ -12696,13 +12696,13 @@
     "jaJP": "グレーター・クロー",
     "ptBR": "[fp]Garras Superiores",
     "ruRU": "[pl]длинные когти",
-    "zhCN": "大型手爪刀"
+    "zhCN": "★大型手爪刀★"
   },
   {
     "id": 20192,
     "Key": "9tw",
     "enUS": "Greater Talons",
-    "zhTW": "巨鷹爪",
+    "zhTW": "★巨鷹爪★",
     "deDE": "[pl]Großklauen",
     "esES": "[fp]Garfas enormes",
     "frFR": "[fp]Grandes serres",
@@ -12713,13 +12713,13 @@
     "jaJP": "グレーター・タロン",
     "ptBR": "[fp]Patas Superiores",
     "ruRU": "[pl]длинные птичьи когти",
-    "zhCN": "大型刃爪"
+    "zhCN": "★大型刃爪★"
   },
   {
     "id": 20193,
     "Key": "9qr",
     "enUS": "Scissors Quhab",
-    "zhTW": "格鬥剪刃",
+    "zhTW": "★格鬥剪刃★",
     "deDE": "[ns]Scherenquhab",
     "esES": "[ms]Quhab tijera",
     "frFR": "[fs]Serpe Quhab",
@@ -12730,13 +12730,13 @@
     "jaJP": "シザー・クハブ",
     "ptBR": "[ms]Quhab Tesoura",
     "ruRU": "[ms]кухаб-ножницы",
-    "zhCN": "剪咬拳刃"
+    "zhCN": "★剪咬拳刃★"
   },
   {
     "id": 20194,
     "Key": "7ar",
     "enUS": "Suwayyah",
-    "zhTW": "穿擊拳刃",
+    "zhTW": "★★穿擊拳刃★★",
     "deDE": "[ns]Suwayyah",
     "esES": "[ms]Suwayyah",
     "frFR": "[fs]Suwayyah",
@@ -12747,13 +12747,13 @@
     "jaJP": "スウェイヤ",
     "ptBR": "[ms]Suwayyah",
     "ruRU": "[fs]сувайя",
-    "zhCN": "手推剑"
+    "zhCN": "★★手推剑★★"
   },
   {
     "id": 20195,
     "Key": "7wb",
     "enUS": "Wrist Sword",
-    "zhTW": "腕劍",
+    "zhTW": "★★腕劍★★",
     "deDE": "[ns]Unterarmschwert",
     "esES": "[fs]Espada de muñeca",
     "frFR": "[fs]Épée de poignet",
@@ -12764,13 +12764,13 @@
     "jaJP": "リスト・ソード",
     "ptBR": "[fs]Espada de Pulso",
     "ruRU": "[ms]наручный меч",
-    "zhCN": "腕剑"
+    "zhCN": "★★腕剑★★"
   },
   {
     "id": 20196,
     "Key": "7xf",
     "enUS": "War Fist",
-    "zhTW": "征戰拳套",
+    "zhTW": "★★征戰拳套★★",
     "deDE": "[fs]Kriegsfaust",
     "esES": "[ms]Puño de guerra",
     "frFR": "[ms]Poing de guerre",
@@ -12781,13 +12781,13 @@
     "jaJP": "ウォーフィスト",
     "ptBR": "[ms]Punho Bélico",
     "ruRU": "[ms]воинский кулак",
-    "zhCN": "战争拳套"
+    "zhCN": "★★战争拳套★★"
   },
   {
     "id": 20197,
     "Key": "7cs",
     "enUS": "Battle Cestus",
-    "zhTW": "戰鬥刃拳",
+    "zhTW": "★★戰鬥刃拳★★",
     "deDE": "[ms]Kampfcestus",
     "esES": "[ms]Cestus de batalla",
     "frFR": "[ms]Cestus de bataille",
@@ -12798,13 +12798,13 @@
     "jaJP": "バトル・セスタス",
     "ptBR": "[ms]Cestus de Batalha",
     "ruRU": "[ms]боевой цестус",
-    "zhCN": "战斗缠刃拳套"
+    "zhCN": "★★战斗缠刃拳套★★"
   },
   {
     "id": 20198,
     "Key": "7lw",
     "enUS": "Feral Claws",
-    "zhTW": "蠻獸爪",
+    "zhTW": "★★蠻獸爪★★",
     "deDE": "[pl]Barbarenkrallen",
     "esES": "[fp]Garras ferales",
     "frFR": "[fp]Griffes sauvages",
@@ -12815,13 +12815,13 @@
     "jaJP": "フェラル・クロー",
     "ptBR": "[fp]Garras Selvagens",
     "ruRU": "[pl]звериные когти",
-    "zhCN": "狂野钩爪"
+    "zhCN": "★★狂野钩爪★★"
   },
   {
     "id": 20199,
     "Key": "7tw",
     "enUS": "Runic Talons",
-    "zhTW": "符紋爪",
+    "zhTW": "★★符紋爪★★",
     "deDE": "[pl]Runenklauen",
     "esES": "[fp]Garfas rúnicas",
     "frFR": "[fp]Serres runiques",
@@ -12832,13 +12832,13 @@
     "jaJP": "ルーニック・タロン",
     "ptBR": "[fp]Garras Rúnicas",
     "ruRU": "[pl]рунные птичьи когти",
-    "zhCN": "符文刃爪"
+    "zhCN": "★★符文刃爪★★"
   },
   {
     "id": 20200,
     "Key": "7qr",
     "enUS": "Scissors Suwayyah",
-    "zhTW": "穿擊剪刃",
+    "zhTW": "★★穿擊剪刃★★",
     "deDE": "[ns]Scherensuwayyah",
     "esES": "[ms]Suwayyah tijera",
     "frFR": "[fs]Serpe Suwayyah",
@@ -12849,13 +12849,13 @@
     "jaJP": "シザー・スウェイヤ",
     "ptBR": "[ms]Suwayyah Tesoura",
     "ruRU": "[fs]сувайя-ножницы",
-    "zhCN": "剪咬手推剑"
+    "zhCN": "★★剪咬手推剑★★"
   },
   {
     "id": 20201,
     "Key": "7ha",
     "enUS": "Tomahawk",
-    "zhTW": "輕斧",
+    "zhTW": "★★輕斧★★",
     "deDE": "[ns]Tomahawk",
     "esES": "[ms]Tomahawk",
     "frFR": "[ms]Tomahawk",
@@ -12866,13 +12866,13 @@
     "jaJP": "トマホーク",
     "ptBR": "[ms]Tomahawk",
     "ruRU": "[ms]томагавк",
-    "zhCN": "土著战斧"
+    "zhCN": "★★土著战斧★★"
   },
   {
     "id": 20202,
     "Key": "7ax",
     "enUS": "Small Crescent",
-    "zhTW": "彎月斧",
+    "zhTW": "★★彎月斧★★",
     "deDE": "[fs]Kleine Sichel",
     "esES": "[fs]Medialuna pequeña",
     "frFR": "[ms]Petit croissant",
@@ -12883,13 +12883,13 @@
     "jaJP": "スモール・クレセント",
     "ptBR": "[ms]Crescente Pequeno",
     "ruRU": "[ms]малый серповидный топор",
-    "zhCN": "新月斧"
+    "zhCN": "★★新月斧★★"
   },
   {
     "id": 20203,
     "Key": "72a",
     "enUS": "Ettin Axe",
-    "zhTW": "雙頭斧",
+    "zhTW": "★★雙頭斧★★",
     "deDE": "[fs]Ettinaxt",
     "esES": "[fs]Hacha de Ettin",
     "frFR": "[fs]Hache d’Ettin",
@@ -12900,13 +12900,13 @@
     "jaJP": "エッティン・アックス",
     "ptBR": "[ms]Machado de Ettin",
     "ruRU": "[ms]эттинский топор",
-    "zhCN": "双头巨人斧"
+    "zhCN": "★★双头巨人斧★★"
   },
   {
     "id": 20204,
     "Key": "7mp",
     "enUS": "War Spike",
-    "zhTW": "征戰鎬",
+    "zhTW": "★★征戰鎬★★",
     "deDE": "[ms]Kriegsdorn",
     "esES": "[fs]Punta de guerra",
     "frFR": "[fs]Pointe de guerre",
@@ -12917,13 +12917,13 @@
     "jaJP": "ウォー・スパイク",
     "ptBR": "[ms]Espeto Bélico",
     "ruRU": "[ms]воинский шип",
-    "zhCN": "战争尖斧"
+    "zhCN": "★★战争尖斧★★"
   },
   {
     "id": 20206,
     "Key": "7la",
     "enUS": "Feral Axe",
-    "zhTW": "蠻野斧",
+    "zhTW": "★★蠻野斧★★",
     "deDE": "[fs]Barbarenaxt",
     "esES": "[fs]Hacha feral",
     "frFR": "[fs]Hache sauvage",
@@ -12934,13 +12934,13 @@
     "jaJP": "フェラル・アックス",
     "ptBR": "[ms]Machado Selvagem",
     "ruRU": "[ms]звериный топор",
-    "zhCN": "狂野利斧"
+    "zhCN": "★★狂野利斧★★"
   },
   {
     "id": 20207,
     "Key": "7ba",
     "enUS": "Silver-edged Axe",
-    "zhTW": "銀刃斧",
+    "zhTW": "★★銀刃斧★★",
     "deDE": "Versilberte Axt",
     "esES": "[fs]Hacha de filo plateado",
     "frFR": "[fs]Hache d’argent",
@@ -12951,13 +12951,13 @@
     "jaJP": "シルバーエッジド・アックス",
     "ptBR": "[ms]Machado de Prata",
     "ruRU": "[ms]посеребренный топор",
-    "zhCN": "镀银斧"
+    "zhCN": "★★镀银斧★★"
   },
   {
     "id": 20208,
     "Key": "7bt",
     "enUS": "Decapitator",
-    "zhTW": "斬首斧",
+    "zhTW": "★★斬首斧★★",
     "deDE": "[ms]Enthaupter",
     "esES": "[fs]Decapitadora",
     "frFR": "[fs]Décapiteuse",
@@ -12968,13 +12968,13 @@
     "jaJP": "ディキャピテイター",
     "ptBR": "[ms]Decapitador",
     "ruRU": "[ms]главорез",
-    "zhCN": "刽子手之斧"
+    "zhCN": "★★刽子手之斧★★"
   },
   {
     "id": 20209,
     "Key": "7ga",
     "enUS": "Champion Axe",
-    "zhTW": "豪傑斧",
+    "zhTW": "★★豪傑斧★★",
     "deDE": "[fs]Heldenaxt",
     "esES": "[fs]Hacha del campeón",
     "frFR": "[fs]Hache de champion",
@@ -12985,13 +12985,13 @@
     "jaJP": "チャンピオン・アックス",
     "ptBR": "[ms]Machado Campeão",
     "ruRU": "[ms]элитный топор",
-    "zhCN": "冠军斧"
+    "zhCN": "★★冠军斧★★"
   },
   {
     "id": 20210,
     "Key": "7gi",
     "enUS": "Glorious Axe",
-    "zhTW": "榮光斧",
+    "zhTW": "★★榮光斧★★",
     "deDE": "[fs]Ruhmesaxt",
     "esES": "[fs]Hacha gloriosa",
     "frFR": "[fs]Hache glorieuse",
@@ -13002,13 +13002,13 @@
     "jaJP": "グローリアス・アックス",
     "ptBR": "[ms]Machado Glorioso",
     "ruRU": "[ms]славный топор",
-    "zhCN": "荣耀之斧"
+    "zhCN": "★★荣耀之斧★★"
   },
   {
     "id": 20211,
     "Key": "7wn",
     "enUS": "Polished Wand",
-    "zhTW": "拋光魔杖",
+    "zhTW": "★★拋光魔杖★★",
     "deDE": "[ms]Polierter Stab",
     "esES": "[fs]Vara pulida",
     "frFR": "[fs]Baguette lisse",
@@ -13019,13 +13019,13 @@
     "jaJP": "ポリッシュド・ワンド",
     "ptBR": "[fs]Varinha Polida",
     "ruRU": "[ms]отполированный жезл",
-    "zhCN": "洗练魔杖"
+    "zhCN": "★★洗练魔杖★★"
   },
   {
     "id": 20212,
     "Key": "7yw",
     "enUS": "Ghost Wand",
-    "zhTW": "鬼魂魔杖",
+    "zhTW": "★★鬼魂魔杖★★",
     "deDE": "[ms]Geisterstab",
     "esES": "[fs]Vara fantasmal",
     "frFR": "[fs]Baguette fantôme",
@@ -13036,13 +13036,13 @@
     "jaJP": "ゴースト・ワンド",
     "ptBR": "[fs]Varinha Fantasma",
     "ruRU": "[ms]призрачный жезл",
-    "zhCN": "幽灵魔杖"
+    "zhCN": "★★幽灵魔杖★★"
   },
   {
     "id": 20213,
     "Key": "7bw",
     "enUS": "Lich Wand",
-    "zhTW": "巫妖魔杖",
+    "zhTW": "★★巫妖魔杖★★",
     "deDE": "[ms]Lichstab",
     "esES": "[fs]Vara de exánime",
     "frFR": "[fs]Baguette de liche",
@@ -13053,13 +13053,13 @@
     "jaJP": "リッチ・ワンド",
     "ptBR": "[fs]Varinha do Lich",
     "ruRU": "[ms]некромантский жезл",
-    "zhCN": "尸妖魔杖"
+    "zhCN": "★★尸妖魔杖★★"
   },
   {
     "id": 20214,
     "Key": "7gw",
     "enUS": "Unearthed Wand",
-    "zhTW": "埋骨魔杖",
+    "zhTW": "★★埋骨魔杖★★",
     "deDE": "[ms]Ausgegrabener Stab",
     "esES": "[fs]Vara desenterrada",
     "frFR": "[fs]Baguette exhumée",
@@ -13070,13 +13070,13 @@
     "jaJP": "アンアースド・ワンド",
     "ptBR": "[fs]Varinha Descoberta",
     "ruRU": "[ms]выкопанный жезл",
-    "zhCN": "出土魔杖"
+    "zhCN": "★★出土魔杖★★"
   },
   {
     "id": 20215,
     "Key": "7cl",
     "enUS": "Truncheon",
-    "zhTW": "打擊棍",
+    "zhTW": "★★打擊棍★★",
     "deDE": "[ms]Schlagstock",
     "esES": "[fs]Tranca",
     "frFR": "[ms]Assommoir",
@@ -13087,13 +13087,13 @@
     "jaJP": "トランシャン",
     "ptBR": "[ms]Porrete",
     "ruRU": "[ms]буздыган",
-    "zhCN": "戒律棒"
+    "zhCN": "★★戒律棒★★"
   },
   {
     "id": 20216,
     "Key": "7sc",
     "enUS": "Mighty Scepter",
-    "zhTW": "強威權杖",
+    "zhTW": "★★強威權杖★★",
     "deDE": "[ns]Mächtiges Szepter",
     "esES": "[ms]Cetro poderoso",
     "frFR": "[ms]Sceptre de puissance",
@@ -13104,13 +13104,13 @@
     "jaJP": "マイティ・セプター",
     "ptBR": "[ms]Cetro Poderoso",
     "ruRU": "[ms]могучий скипетр",
-    "zhCN": "强威权杖"
+    "zhCN": "★★强威权杖★★"
   },
   {
     "id": 20217,
     "Key": "7qs",
     "enUS": "Seraph Rod",
-    "zhTW": "熾天使節杖",
+    "zhTW": "★★熾天使節杖★★",
     "deDE": "[ms]Seraphimstab",
     "esES": "[fs]Vara de serafín",
     "frFR": "[fs]Baguette séraphine",
@@ -13121,13 +13121,13 @@
     "jaJP": "セラフ・ロッド",
     "ptBR": "[ms]Bastão do Serafim",
     "ruRU": "[ms]серафимов скипетр",
-    "zhCN": "炽天使杖"
+    "zhCN": "★★炽天使杖★★"
   },
   {
     "id": 20218,
     "Key": "7ws",
     "enUS": "Caduceus",
-    "zhTW": "神使權杖",
+    "zhTW": "★★神使權杖★★",
     "deDE": "[ms]Schlangenstab",
     "esES": "[ms]Caduceo",
     "frFR": "[ms]Caducée",
@@ -13138,13 +13138,13 @@
     "jaJP": "カドゥケウス",
     "ptBR": "[ms]Caduceus",
     "ruRU": "[ms]кадуцей",
-    "zhCN": "使者杖"
+    "zhCN": "★★使者杖★★"
   },
   {
     "id": 20219,
     "Key": "7sp",
     "enUS": "Tyrant Club",
-    "zhTW": "暴君棍棒",
+    "zhTW": "★★暴君棍棒★★",
     "deDE": "[ms]Tyrannentöter",
     "esES": "[fs]Porra de tirano",
     "frFR": "[fs]Masse du Tyran",
@@ -13155,13 +13155,13 @@
     "jaJP": "タイラント・クラブ",
     "ptBR": "[fs]Clava Tirânica",
     "ruRU": "[fs]тираническая дубина",
-    "zhCN": "暴君棒"
+    "zhCN": "★★暴君棒★★"
   },
   {
     "id": 20220,
     "Key": "7ma",
     "enUS": "Reinforced Mace",
-    "zhTW": "強化釘鎚",
+    "zhTW": "★★強化釘鎚★★",
     "deDE": "[ms]Verstärkter Streitkolben",
     "esES": "[fs]Maza reforzada",
     "frFR": "[fs]Masse renforcée",
@@ -13172,13 +13172,13 @@
     "jaJP": "リインフォースド・メイス",
     "ptBR": "[fs]Maça Reforçada",
     "ruRU": "[fs]укрепленная булава",
-    "zhCN": "加固锤"
+    "zhCN": "★★加固锤★★"
   },
   {
     "id": 20221,
     "Key": "7mt",
     "enUS": "Devil Star",
-    "zhTW": "妖鬼釘頭鎚",
+    "zhTW": "★★妖鬼釘頭鎚★★",
     "deDE": "[ms]Teufelsstern",
     "esES": "[fs]Estrella diabólica",
     "frFR": "[fs]Étoile démoniaque",
@@ -13189,13 +13189,13 @@
     "jaJP": "デビル・スター",
     "ptBR": "[fs]Estrela Diabólica",
     "ruRU": "[fs]дьявольская звезда",
-    "zhCN": "恶魔流星"
+    "zhCN": "★★恶魔流星★★"
   },
   {
     "id": 20222,
     "Key": "7fl",
     "enUS": "Scourge",
-    "zhTW": "罪罰連枷",
+    "zhTW": "★★罪罰連枷★★",
     "deDE": "[fs]Geißel",
     "esES": "[ms]Azote",
     "frFR": "[ms]Fouet",
@@ -13206,13 +13206,13 @@
     "jaJP": "スコージ",
     "ptBR": "[ms]Flagelo",
     "ruRU": "[fs]плеть",
-    "zhCN": "天罚之锤"
+    "zhCN": "★★天罚之锤★★"
   },
   {
     "id": 20223,
     "Key": "7wh",
     "enUS": "Legendary Mallet",
-    "zhTW": "傳說戰鎚",
+    "zhTW": "★★傳說戰鎚★★",
     "deDE": "[ms]Legendärer Hammer",
     "esES": "[ms]Mazo legendario",
     "frFR": "[ms]Maillet légendaire",
@@ -13223,13 +13223,13 @@
     "jaJP": "レジェンダリー・マレット",
     "ptBR": "[fs]Marreta Lendária",
     "ruRU": "[fs]легендарная колотушка",
-    "zhCN": "传奇重锤"
+    "zhCN": "★★传奇重锤★★"
   },
   {
     "id": 20224,
     "Key": "7m7",
     "enUS": "Ogre Maul",
-    "zhTW": "巨魔重鎚",
+    "zhTW": "★★巨魔重鎚★★",
     "deDE": "[ms]Ogerhammer",
     "esES": "[fs]Almádena de ogro",
     "frFR": "[fs]Masse ogre",
@@ -13240,13 +13240,13 @@
     "jaJP": "オーガ・モール",
     "ptBR": "[ms]Malho Ogro",
     "ruRU": "[fs]устрашающая кувалда",
-    "zhCN": "食人魔锤"
+    "zhCN": "★★食人魔锤★★"
   },
   {
     "id": 20225,
     "Key": "7gm",
     "enUS": "Thunder Maul",
-    "zhTW": "雷霆重鎚",
+    "zhTW": "★★雷霆重鎚★★",
     "deDE": "[ms]Donnerhammer",
     "esES": "[fs]Almádena del trueno",
     "frFR": "[fs]Bombardone",
@@ -13257,13 +13257,13 @@
     "jaJP": "サンダー・モール",
     "ptBR": "[ms]Malho Trovejante",
     "ruRU": "[fs]громовая кувалда",
-    "zhCN": "雷霆之锤"
+    "zhCN": "★★雷霆之锤★★"
   },
   {
     "id": 20226,
     "Key": "7ss",
     "enUS": "Falcata",
-    "zhTW": "法卡塔劍",
+    "zhTW": "★★猎鹰剑★★",
     "deDE": "[fs]Falkata",
     "esES": "[fs]Falcata",
     "frFR": "[fs]Falcata",
@@ -13274,13 +13274,13 @@
     "jaJP": "ファルカタ",
     "ptBR": "[fs]Falcata",
     "ruRU": "[fs]фальката",
-    "zhCN": "猎鹰剑"
+    "zhCN": "★★猎鹰剑★★"
   },
   {
     "id": 20227,
     "Key": "7sm",
     "enUS": "Ataghan",
-    "zhTW": "土耳其彎刀",
+    "zhTW": "★★土耳其彎刀★★",
     "deDE": "[ns]Yatagan",
     "esES": "[ms]Yatagán",
     "frFR": "[ms]Ataghan",
@@ -13291,13 +13291,13 @@
     "jaJP": "ヤタガン",
     "ptBR": "[ms]Atagã",
     "ruRU": "[ms]ятаган",
-    "zhCN": "叶根刀"
+    "zhCN": "★★叶根刀★★"
   },
   {
     "id": 20228,
     "Key": "7sb",
     "enUS": "Elegant Blade",
-    "zhTW": "典雅彎刀",
+    "zhTW": "★★典雅彎刀★★",
     "deDE": "[fs]Elegante Klinge",
     "esES": "[fs]Espada elegante",
     "frFR": "[fs]Lame élégante",
@@ -13308,13 +13308,13 @@
     "jaJP": "エレガント・ブレイド",
     "ptBR": "[fs]Lâmina Elegante",
     "ruRU": "[ms]изящный клинок",
-    "zhCN": "精致剑"
+    "zhCN": "★★精致剑★★"
   },
   {
     "id": 20229,
     "Key": "7fc",
     "enUS": "Hydra Edge",
-    "zhTW": "多頭蛇刃",
+    "zhTW": "★★九頭蛇刃★★",
     "deDE": "[fs]Hydraschneide",
     "esES": "[ms]Filo de hidra",
     "frFR": "[ms]Tranchant de l’hydre",
@@ -13325,13 +13325,13 @@
     "jaJP": "ヒュドラ・エッジ",
     "ptBR": "[fs]Lâmina da Hidra",
     "ruRU": "[ms]гидровый клинок",
-    "zhCN": "九头蛇刃"
+    "zhCN": "★★九头蛇刃★★"
   },
   {
     "id": 20230,
     "Key": "7cr",
     "enUS": "Phase Blade",
-    "zhTW": "幻化之刃",
+    "zhTW": "★★幻化之刃★★",
     "deDE": "[fs]Phasenklinge",
     "esES": "[fs]Espada de fase",
     "frFR": "[fs]Épée de phase",
@@ -13342,13 +13342,13 @@
     "jaJP": "フェーズ・ブレイド",
     "ptBR": "[fs]Lâmina Fásica",
     "ruRU": "[ms]фазовый клинок",
-    "zhCN": "相位之刃"
+    "zhCN": "★★相位之刃★★"
   },
   {
     "id": 20231,
     "Key": "7bs",
     "enUS": "Conquest Sword",
-    "zhTW": "征服之劍",
+    "zhTW": "★★征服之劍★★",
     "deDE": "[ns]Erobererschwert",
     "esES": "[fs]Espada de la conquista",
     "frFR": "[fs]Épée de conquête",
@@ -13359,13 +13359,13 @@
     "jaJP": "コンクエスト・ソード",
     "ptBR": "[fs]Espada Conquistadora",
     "ruRU": "[ms]победный меч",
-    "zhCN": "征服剑"
+    "zhCN": "★★征服剑★★"
   },
   {
     "id": 20232,
     "Key": "7ls",
     "enUS": "Cryptic Sword",
-    "zhTW": "絕秘劍",
+    "zhTW": "★★絕秘劍★★",
     "deDE": "[ns]Rätselhaftes Schwert",
     "esES": "[fs]Espada críptica",
     "frFR": "[fs]Épée mystérieuse",
@@ -13376,13 +13376,13 @@
     "jaJP": "クリプティック・ソード",
     "ptBR": "[fs]Espada Enigmática",
     "ruRU": "[ms]таинственный меч",
-    "zhCN": "秘文剑"
+    "zhCN": "★★秘文剑★★"
   },
   {
     "id": 20233,
     "Key": "7wd",
     "enUS": "Mythical Sword",
-    "zhTW": "秘儀劍",
+    "zhTW": "★★秘儀劍★★",
     "deDE": "[ns]Mythisches Schwert",
     "esES": "[fs]Espada mítica",
     "frFR": "[fs]Épée mythique",
@@ -13393,13 +13393,13 @@
     "jaJP": "ミシカル・ソード",
     "ptBR": "[fs]Espada Mítica",
     "ruRU": "[ms]мифический меч",
-    "zhCN": "神话剑"
+    "zhCN": "★★神话剑★★"
   },
   {
     "id": 20234,
     "Key": "72h",
     "enUS": "Legend Sword",
-    "zhTW": "傳說劍",
+    "zhTW": "★★傳說劍★★",
     "deDE": "[ns]Legendenschwert",
     "esES": "[fs]Espada de leyenda",
     "frFR": "[fs]Épée légendaire",
@@ -13410,13 +13410,13 @@
     "jaJP": "レジェンド・ソード",
     "ptBR": "[fs]Espada Lendária",
     "ruRU": "[ms]легендарный меч",
-    "zhCN": "传说剑"
+    "zhCN": "★★传说剑★★"
   },
   {
     "id": 20235,
     "Key": "7cm",
     "enUS": "Highland Blade",
-    "zhTW": "高地劍",
+    "zhTW": "★★高地劍★★",
     "deDE": "[fs]Hochlandklinge",
     "esES": "[fs]Espada de las Tierras Altas",
     "frFR": "[fs]Épée des Hautes-Terres",
@@ -13427,13 +13427,13 @@
     "jaJP": "ハイランド・ブレイド",
     "ptBR": "[fs]Lâmina Altaneira",
     "ruRU": "[ms]высокогорный меч",
-    "zhCN": "高地剑"
+    "zhCN": "★★高地剑★★"
   },
   {
     "id": 20236,
     "Key": "7gs",
     "enUS": "Balrog Blade",
-    "zhTW": "炎魔之刃",
+    "zhTW": "★★炎魔之刃★★",
     "deDE": "[fs]Balrogklinge",
     "esES": "[fs]Espada de Balrog",
     "frFR": "[fs]Épée de Balrog",
@@ -13444,13 +13444,13 @@
     "jaJP": "バルログ・ブレイド",
     "ptBR": "[fs]Lâmina de Balrog",
     "ruRU": "[ms]Балрогов клинок",
-    "zhCN": "炎魔剑"
+    "zhCN": "★★炎魔剑★★"
   },
   {
     "id": 20237,
     "Key": "7b7",
     "enUS": "Champion Sword",
-    "zhTW": "豪傑大劍",
+    "zhTW": "★★豪傑大劍★★",
     "deDE": "[ns]Heldenschwert",
     "esES": "[fs]Espada del campeón",
     "frFR": "[fs]Épée de champion",
@@ -13461,13 +13461,13 @@
     "jaJP": "チャンピオン・ソード",
     "ptBR": "[fs]Espada Campeã",
     "ruRU": "[ms]элитный меч",
-    "zhCN": "冠军剑"
+    "zhCN": "★★冠军剑★★"
   },
   {
     "id": 20238,
     "Key": "7fb",
     "enUS": "Colossus Sword",
-    "zhTW": "巨神劍",
+    "zhTW": "★★巨神劍★★",
     "deDE": "Kolossschwert",
     "esES": "[fs]Espada del coloso",
     "frFR": "[fs]Épée de colosse",
@@ -13478,13 +13478,13 @@
     "jaJP": "コロッサス・ソード",
     "ptBR": "[fs]Espada Colossal",
     "ruRU": "[ms]массивный меч",
-    "zhCN": "巨神之剑"
+    "zhCN": "★★巨神之剑★★"
   },
   {
     "id": 20239,
     "Key": "7gd",
     "enUS": "Colossus Blade",
-    "zhTW": "巨神刃",
+    "zhTW": "★★巨神刃★★",
     "deDE": "[fs]Kolossklinge",
     "esES": "[fs]Hoja del coloso",
     "frFR": "[fs]Lame de colosse",
@@ -13495,13 +13495,13 @@
     "jaJP": "コロッサス・ブレイド",
     "ptBR": "[fs]Lâmina Colossal",
     "ruRU": "[ms]массивный клинок",
-    "zhCN": "巨神之刃"
+    "zhCN": "★★巨神之刃★★"
   },
   {
     "id": 20240,
     "Key": "7dg",
     "enUS": "Bone Knife",
-    "zhTW": "骸骨小刀",
+    "zhTW": "★★骸骨小刀★★",
     "deDE": "[ns]Knochenmesser",
     "esES": "[ms]Cuchillo de hueso",
     "frFR": "[ms]Coutelas en os",
@@ -13512,13 +13512,13 @@
     "jaJP": "ボーン・ナイフ",
     "ptBR": "[fs]Faca Óssea",
     "ruRU": "[ms]костяной нож",
-    "zhCN": "骨刀"
+    "zhCN": "★★骨刀★★"
   },
   {
     "id": 20241,
     "Key": "7di",
     "enUS": "Mithril Point",
-    "zhTW": "秘銀尖刀",
+    "zhTW": "★★秘銀尖刀★★",
     "deDE": "[fs]Mithrilspitze",
     "esES": "[fs]Puya de mithril",
     "frFR": "[ms]Poinçon de Mithril",
@@ -13529,13 +13529,13 @@
     "jaJP": "ミスリル・ポイント",
     "ptBR": "[fs]Ponta de Mithril",
     "ruRU": "[ms]мифриловый кинжал",
-    "zhCN": "秘银刺"
+    "zhCN": "★★秘银刺★★"
   },
   {
     "id": 20242,
     "Key": "7kr",
     "enUS": "Fanged Knife",
-    "zhTW": "尖齒小刀",
+    "zhTW": "★★尖齒小刀★★",
     "deDE": "[ns]Fangzahnmesser",
     "esES": "[ms]Cuchillo canino",
     "frFR": "[ms]Coutelas cranté",
@@ -13546,13 +13546,13 @@
     "jaJP": "ファングド・ナイフ",
     "ptBR": "[fs]Faca Dentada",
     "ruRU": "[ms]нож-клык",
-    "zhCN": "牙刃刀"
+    "zhCN": "★★牙刃刀★★"
   },
   {
     "id": 20243,
     "Key": "7bl",
     "enUS": "Legend Spike",
-    "zhTW": "傳說尖刀",
+    "zhTW": "★★傳說尖刀★★",
     "deDE": "[ms]Legendendorn",
     "esES": "[fs]Punta de leyenda",
     "frFR": "[fs]Pique légendaire",
@@ -13563,13 +13563,13 @@
     "jaJP": "レジェンド・スパイク",
     "ptBR": "[ms]Espeto Lendário",
     "ruRU": "[ms]легендарный зубец",
-    "zhCN": "传说匕刺"
+    "zhCN": "★★传说匕刺★★"
   },
   {
     "id": 20244,
     "Key": "7tk",
     "enUS": "Flying Knife",
-    "zhTW": "高速飛刀",
+    "zhTW": "★★高速飛刀★★",
     "deDE": "[ns]Wurfmesser",
     "esES": "[ms]Cuchillo volador",
     "frFR": "[ms]Coutelas de lancer",
@@ -13580,13 +13580,13 @@
     "jaJP": "フライング・ナイフ",
     "ptBR": "[fs]Faca Voadora",
     "ruRU": "[ms]летающий нож",
-    "zhCN": "飞刀"
+    "zhCN": "★★飞刀★★"
   },
   {
     "id": 20245,
     "Key": "7ta",
     "enUS": "Flying Axe",
-    "zhTW": "高速飛斧",
+    "zhTW": "★★高速飛斧★★",
     "deDE": "[fs]Flugaxt",
     "esES": "[fs]Hacha voladora",
     "frFR": "[fs]Hache de jet",
@@ -13597,13 +13597,13 @@
     "jaJP": "フライング・アックス",
     "ptBR": "[ms]Machado Voador",
     "ruRU": "[ms]летающий топор",
-    "zhCN": "飞斧"
+    "zhCN": "★★飞斧★★"
   },
   {
     "id": 20246,
     "Key": "7bk",
     "enUS": "Winged Knife",
-    "zhTW": "刃翼飛刀",
+    "zhTW": "★★刃翼飛刀★★",
     "deDE": "[ms]Schwingendolch",
     "esES": "[ms]Cuchillo alado",
     "frFR": "[ms]Coutelas ailé",
@@ -13614,13 +13614,13 @@
     "jaJP": "ウィングド・ナイフ",
     "ptBR": "[fs]Faca Alada",
     "ruRU": "[ms]крыловидный нож",
-    "zhCN": "翼刀"
+    "zhCN": "★★翼刀★★"
   },
   {
     "id": 20247,
     "Key": "7b8",
     "enUS": "Winged Axe",
-    "zhTW": "刃翼飛斧",
+    "zhTW": "★★刃翼飛斧★★",
     "deDE": "[fs]Schwingenaxt",
     "esES": "[fs]Hacha alada",
     "frFR": "[fs]Hache ailée",
@@ -13631,13 +13631,13 @@
     "jaJP": "ウィングド・アックス",
     "ptBR": "[ms]Machado Alado",
     "ruRU": "[ms]крыловидный топор",
-    "zhCN": "翼斧"
+    "zhCN": "★★翼斧★★"
   },
   {
     "id": 20248,
     "Key": "7ja",
     "enUS": "Hyperion Javelin",
-    "zhTW": "亥伯龍標槍",
+    "zhTW": "★★亥伯龍標槍★★",
     "deDE": "[ms]Hyperionwurfspieß",
     "esES": "[fs]Jabalina de Hiperión",
     "frFR": "[ms]Javelot d’Hypérion",
@@ -13648,13 +13648,13 @@
     "jaJP": "ハイペリオン・ジャベリン",
     "ptBR": "[ms]Dardo Hipérion",
     "ruRU": "[ms]гиперионский дротик",
-    "zhCN": "亥伯龙标枪"
+    "zhCN": "★★亥伯龙标枪★★"
   },
   {
     "id": 20249,
     "Key": "7pi",
     "enUS": "Stygian Pilum",
-    "zhTW": "冥河標槍",
+    "zhTW": "★★冥河標槍★★",
     "deDE": "[ms]Stygischer Spieß",
     "esES": "[ms]Pilum estigio",
     "frFR": "[ms]Pilum stygien",
@@ -13665,7 +13665,7 @@
     "jaJP": "スティジャン・ピルム",
     "ptBR": "[ms]Pilum Estígio",
     "ruRU": "[ms]стигийский пилум",
-    "zhCN": "地狱长标枪"
+    "zhCN": "★★地狱长标枪★★"
   },
   {
     "id": 20250,
@@ -13688,7 +13688,7 @@
     "id": 20251,
     "Key": "7gl",
     "enUS": "Ghost Glaive",
-    "zhTW": "鬼魂刃槍",
+    "zhTW": "★★鬼魂刃槍★★",
     "deDE": "[fs]Geistergleve",
     "esES": "[fs]Guja fantasmal",
     "frFR": "[ms]Glaive fantôme",
@@ -13699,13 +13699,13 @@
     "jaJP": "ゴースト・グレイヴ",
     "ptBR": "[fs]Glaive Fantasma",
     "ruRU": "[fs]призрачная глефа",
-    "zhCN": "幽灵梭戟"
+    "zhCN": "★★幽灵梭戟★★"
   },
   {
     "id": 20252,
     "Key": "7ts",
     "enUS": "Winged Harpoon",
-    "zhTW": "飛翼魚叉",
+    "zhTW": "★★飛翼魚叉★★",
     "deDE": "[fs]Geflügelte Harpune",
     "esES": "[ms]Arpón alado",
     "frFR": "[ms]Harpon ailé",
@@ -13716,13 +13716,13 @@
     "jaJP": "ウィングド・ハープーン",
     "ptBR": "[ms]Arpão Alado",
     "ruRU": "[ms]крыловидный гарпун",
-    "zhCN": "双股叉"
+    "zhCN": "★★双股叉★★"
   },
   {
     "id": 20253,
     "Key": "7sr",
     "enUS": "Hyperion Spear",
-    "zhTW": "亥伯龍矛",
+    "zhTW": "★★亥伯龍矛★★",
     "deDE": "[ms]Hyperionspeer",
     "esES": "[fs]Lanza de Hiperión",
     "frFR": "[fs]Lance d’Hypérion",
@@ -13733,13 +13733,13 @@
     "jaJP": "ハイペリオン・スピア",
     "ptBR": "[fs]Lança Hipérion",
     "ruRU": "[ns]гиперионское копье",
-    "zhCN": "亥伯龙矛"
+    "zhCN": "★★亥伯龙矛★★"
   },
   {
     "id": 20254,
     "Key": "7tr",
     "enUS": "Stygian Pike",
-    "zhTW": "冥河戰矛",
+    "zhTW": "★★冥河戰矛★★",
     "deDE": "[fs]Stygische Pike",
     "esES": "[fs]Pica estigia",
     "frFR": "[fs]Pique stygienne",
@@ -13750,13 +13750,13 @@
     "jaJP": "スティジャン・パイク",
     "ptBR": "[ms]Pique Estígio",
     "ruRU": "[fs]стигийская пика",
-    "zhCN": "地狱长枪"
+    "zhCN": "★★地狱长枪★★"
   },
   {
     "id": 20255,
     "Key": "7br",
     "enUS": "Mancatcher",
-    "zhTW": "捕人叉",
+    "zhTW": "★★捕人叉★★",
     "deDE": "[ms]Menschenfänger",
     "esES": "[ms]Cazahombres",
     "frFR": "[ms]Prédateur",
@@ -13767,13 +13767,13 @@
     "jaJP": "マンキャッチャー",
     "ptBR": "[fs]Apanhadora",
     "ruRU": "[ms]ухват",
-    "zhCN": "捕人枪"
+    "zhCN": "★★捕人枪★★"
   },
   {
     "id": 20256,
     "Key": "7st",
     "enUS": "Ghost Spear",
-    "zhTW": "鬼魂長矛",
+    "zhTW": "★★鬼魂長矛★★",
     "deDE": "[ms]Geisterspeer",
     "esES": "[fs]Lanza fantasmal",
     "frFR": "[fs]Lance fantôme",
@@ -13784,13 +13784,13 @@
     "jaJP": "ゴースト・スピア",
     "ptBR": "[fs]Lança Fantasma",
     "ruRU": "[ns]призрачное копье",
-    "zhCN": "幽灵矛"
+    "zhCN": "★★幽灵矛★★"
   },
   {
     "id": 20257,
     "Key": "7p7",
     "enUS": "War Pike",
-    "zhTW": "征戰長槍",
+    "zhTW": "★★征戰長槍★★",
     "deDE": "[fs]Kriegspike",
     "esES": "[fs]Pica de guerra",
     "frFR": "[fs]Pique de guerre",
@@ -13801,13 +13801,13 @@
     "jaJP": "ウォーパイク",
     "ptBR": "[ms]Pique Bélico",
     "ruRU": "[fs]воинская пика",
-    "zhCN": "战争长枪"
+    "zhCN": "★★战争长枪★★"
   },
   {
     "id": 20258,
     "Key": "7o7",
     "enUS": "Ogre Axe",
-    "zhTW": "巨魔斧",
+    "zhTW": "★★巨魔斧★★",
     "deDE": "[fs]Ogeraxt",
     "esES": "[fs]Hacha de ogro",
     "frFR": "[fs]Hache ogre",
@@ -13818,13 +13818,13 @@
     "jaJP": "オーガ・アックス",
     "ptBR": "[ms]Machado Ogro",
     "ruRU": "[ms]устрашающий топор",
-    "zhCN": "食人魔斧"
+    "zhCN": "★★食人魔斧★★"
   },
   {
     "id": 20259,
     "Key": "7vo",
     "enUS": "Colossus Voulge",
-    "zhTW": "巨神長柄斧",
+    "zhTW": "★★巨神長柄斧★★",
     "deDE": "[fs]Kolossvulge",
     "esES": "[ms]Voulge del coloso",
     "frFR": "[ms]Vouge de colosse",
@@ -13835,13 +13835,13 @@
     "jaJP": "コロッサス・ヴォウジェ",
     "ptBR": "[fs]Voulge Colossal",
     "ruRU": "[ms]массивный вуж",
-    "zhCN": "巨型斧戟"
+    "zhCN": "★★巨型斧戟★★"
   },
   {
     "id": 20260,
     "Key": "7s8",
     "enUS": "Thresher",
-    "zhTW": "斬鐮",
+    "zhTW": "★★斬鐮★★",
     "deDE": "[ms]Drescher",
     "esES": "[fs]Trilladora",
     "frFR": "[fs]Batteuse",
@@ -13852,13 +13852,13 @@
     "jaJP": "スレッシャー",
     "ptBR": "[ms]Debulhador",
     "ruRU": "[ms]цеп",
-    "zhCN": "砍斧"
+    "zhCN": "★★砍斧★★"
   },
   {
     "id": 20261,
     "Key": "7pa",
     "enUS": "Cryptic Axe",
-    "zhTW": "絕秘斧",
+    "zhTW": "★★絕秘斧★★",
     "deDE": "[fs]Rätselhafte Axt",
     "esES": "[fs]Hacha críptica",
     "frFR": "[fs]Hache mystérieuse",
@@ -13869,13 +13869,13 @@
     "jaJP": "クリプティック・アックス",
     "ptBR": "[mp]Machado Enigmático",
     "ruRU": "[ms]таинственный топор",
-    "zhCN": "秘文斧"
+    "zhCN": "★★秘文斧★★"
   },
   {
     "id": 20262,
     "Key": "7h7",
     "enUS": "Great Poleaxe",
-    "zhTW": "巨型長柄斧",
+    "zhTW": "★★巨型長柄斧★★",
     "deDE": "[fs]Große Stangenaxt",
     "esES": "[fs]Gran hacha larga",
     "frFR": "[fs]Hache de bourreau",
@@ -13886,13 +13886,13 @@
     "jaJP": "グレート・ポールアックス",
     "ptBR": "[fs]Grande Acha",
     "ruRU": "[ms]большой полэкс",
-    "zhCN": "重长柄斧"
+    "zhCN": "★★重长柄斧★★"
   },
   {
     "id": 20263,
     "Key": "7wc",
     "enUS": "Giant Thresher",
-    "zhTW": "巨型斬鐮",
+    "zhTW": "★★巨型斬鐮★★",
     "deDE": "[ms]Riesendrescher",
     "esES": "[fs]Trilladora gigante",
     "frFR": "[fs]Batteuse géante",
@@ -13903,13 +13903,13 @@
     "jaJP": "ジャイアント・スレッシャー",
     "ptBR": "[ms]Debulhador Gigante",
     "ruRU": "[ms]огромный цеп",
-    "zhCN": "巨型砍斧"
+    "zhCN": "★★巨型砍斧★★"
   },
   {
     "id": 20264,
     "Key": "6ss",
     "enUS": "Walking Stick",
-    "zhTW": "手杖",
+    "zhTW": "★★手杖★★",
     "deDE": "[ms]Gehstock",
     "esES": "[ms]Bordón",
     "frFR": "[fs]Grume",
@@ -13920,13 +13920,13 @@
     "jaJP": "ウォーキング・スティック",
     "ptBR": "[fs]Bengala",
     "ruRU": "[fs]трость",
-    "zhCN": "拐杖"
+    "zhCN": "★★拐杖★★"
   },
   {
     "id": 20265,
     "Key": "6ls",
     "enUS": "Stalagmite",
-    "zhTW": "鐘乳石杖",
+    "zhTW": "★★鐘乳石杖★★",
     "deDE": "[ms]Stalagmit",
     "esES": "[fs]Estalagmita",
     "frFR": "[fs]Stalagmite",
@@ -13937,13 +13937,13 @@
     "jaJP": "ストラグマイト",
     "ptBR": "[fs]Estalagmite",
     "ruRU": "[ms]сталагмит",
-    "zhCN": "石笋杖"
+    "zhCN": "★★石笋杖★★"
   },
   {
     "id": 20266,
     "Key": "6cs",
     "enUS": "Elder Staff",
-    "zhTW": "長者法杖",
+    "zhTW": "★★長者法杖★★",
     "deDE": "[ms]Ältestenstab",
     "esES": "[ms]Bastón de anciano",
     "frFR": "[ms]Bâton ancestral",
@@ -13954,13 +13954,13 @@
     "jaJP": "エルダー・スタッフ",
     "ptBR": "[ms]Cajado Ancião",
     "ruRU": "[ms]бузинный посох",
-    "zhCN": "接骨木杖"
+    "zhCN": "★★接骨木杖★★"
   },
   {
     "id": 20267,
     "Key": "6bs",
     "enUS": "Shillelagh",
-    "zhTW": "節瘤木杖",
+    "zhTW": "★★節瘤木杖★★",
     "deDE": "Shillelagh",
     "esES": "[ms]Shillelagh",
     "frFR": "[ms]Shillelagh",
@@ -13971,13 +13971,13 @@
     "jaJP": "シレーラ",
     "ptBR": "[ms]Shillelagh",
     "ruRU": "[fs]шилейла",
-    "zhCN": "橡木棍"
+    "zhCN": "★★橡木棍★★"
   },
   {
     "id": 20268,
     "Key": "6ws",
     "enUS": "Archon Staff",
-    "zhTW": "統御者法杖",
+    "zhTW": "★★統御者法杖★★",
     "deDE": "[ms]Archonstab",
     "esES": "[ms]Bastón de arconte",
     "frFR": "[ms]Bâton de l’Archonte",
@@ -13988,13 +13988,13 @@
     "jaJP": "アルコン・スタッフ",
     "ptBR": "[ms]Cajado do Arconte",
     "ruRU": "[ms]архонтов посох",
-    "zhCN": "统治者之杖"
+    "zhCN": "★★统治者之杖★★"
   },
   {
     "id": 20269,
     "Key": "6sb",
     "enUS": "Spider Bow",
-    "zhTW": "蜘蛛弓",
+    "zhTW": "★★蜘蛛弓★★",
     "deDE": "[ms]Spinnenbogen",
     "esES": "[ms]Arco de araña",
     "frFR": "[ms]Arc araignée",
@@ -14005,13 +14005,13 @@
     "jaJP": "スパイダー・ボウ",
     "ptBR": "[ms]Arco Aracnídeo",
     "ruRU": "[ms]паучий лук",
-    "zhCN": "蜘蛛弓"
+    "zhCN": "★★蜘蛛弓★★"
   },
   {
     "id": 20270,
     "Key": "6hb",
     "enUS": "Blade Bow",
-    "zhTW": "刀鋒弓",
+    "zhTW": "★★刀鋒弓★★",
     "deDE": "[ms]Klingenbogen",
     "esES": "[ms]Arco tajante",
     "frFR": "[ms]Arc lame",
@@ -14022,13 +14022,13 @@
     "jaJP": "ブレイド・ボウ",
     "ptBR": "[ms]Arco Afiado",
     "ruRU": "[ms]лопастной лук",
-    "zhCN": "利刃弓"
+    "zhCN": "★★利刃弓★★"
   },
   {
     "id": 20271,
     "Key": "6lb",
     "enUS": "Shadow Bow",
-    "zhTW": "暗影弓",
+    "zhTW": "★★暗影弓★★",
     "deDE": "[ms]Schattenbogen",
     "esES": "[ms]Arco sombrío",
     "frFR": "[ms]Arc d’ombre",
@@ -14039,13 +14039,13 @@
     "jaJP": "シャドウ・ボウ",
     "ptBR": "[ms]Arco Sombrio",
     "ruRU": "[ms]темный лук",
-    "zhCN": "暗影弓"
+    "zhCN": "★★暗影弓★★"
   },
   {
     "id": 20272,
     "Key": "6cb",
     "enUS": "Great Bow",
-    "zhTW": "巨弓",
+    "zhTW": "★★巨弓★★",
     "deDE": "[ms]Langbogen",
     "esES": "[ms]Gran arco",
     "frFR": "[ms]Grand arc",
@@ -14056,13 +14056,13 @@
     "jaJP": "グレート・ボウ",
     "ptBR": "[ms]Grande Arco",
     "ruRU": "[ms]большой лук",
-    "zhCN": "重弓"
+    "zhCN": "★★重弓★★"
   },
   {
     "id": 20273,
     "Key": "6s7",
     "enUS": "Diamond Bow",
-    "zhTW": "鑽石弓",
+    "zhTW": "★★鑽石弓★★",
     "deDE": "[ms]Diamantbogen",
     "esES": "[ms]Arco de diamante",
     "frFR": "[ms]Arc de diamant",
@@ -14073,13 +14073,13 @@
     "jaJP": "ダイヤモンド・ボウ",
     "ptBR": "[ms]Arco Diamante",
     "ruRU": "[ms]алмазный лук",
-    "zhCN": "钻石弓"
+    "zhCN": "★★钻石弓★★"
   },
   {
     "id": 20274,
     "Key": "6l7",
     "enUS": "Crusader Bow",
-    "zhTW": "聖教軍長弓",
+    "zhTW": "★★聖教軍長弓★★",
     "deDE": "[ms]Kreuzritterbogen",
     "esES": "[ms]Arco de cruzada",
     "frFR": "[ms]Arc de croisé",
@@ -14090,13 +14090,13 @@
     "jaJP": "クルセイダー・ボウ",
     "ptBR": "[ms]Arco do Cruzado",
     "ruRU": "[ms]рыцарский лук",
-    "zhCN": "十字军弓"
+    "zhCN": "★★十字军弓★★"
   },
   {
     "id": 20275,
     "Key": "6sw",
     "enUS": "Ward Bow",
-    "zhTW": "庇護弓",
+    "zhTW": "★★庇護弓★★",
     "deDE": "[ms]Wächterbogen",
     "esES": "[ms]Arco de custodia",
     "frFR": "[ms]Arc de protection",
@@ -14107,13 +14107,13 @@
     "jaJP": "ウォード・ボウ",
     "ptBR": "[ms]Arco Guardião",
     "ruRU": "[ms]охранный лук",
-    "zhCN": "防护弓"
+    "zhCN": "★★防护弓★★"
   },
   {
     "id": 20276,
     "Key": "6lw",
     "enUS": "Hydra Bow",
-    "zhTW": "多頭蛇弓",
+    "zhTW": "★★九頭蛇弓★★",
     "deDE": "[ms]Hydrabogen",
     "esES": "[ms]Arco de hidra",
     "frFR": "[ms]Arc de l’hydre",
@@ -14124,13 +14124,13 @@
     "jaJP": "ヒュドラ・ボウ",
     "ptBR": "[ms]Arco da Hidra",
     "ruRU": "[ms]гидровый лук",
-    "zhCN": "九头蛇弓"
+    "zhCN": "★★九头蛇弓★★"
   },
   {
     "id": 20277,
     "Key": "6lx",
     "enUS": "Pellet Bow",
-    "zhTW": "彈丸弩",
+    "zhTW": "★★彈丸弩★★",
     "deDE": "[ms]Kugelbogen",
     "esES": "[ms]Arco de perdigones",
     "frFR": "[ms]Arc hérissé",
@@ -14141,13 +14141,13 @@
     "jaJP": "パレット・ボウ",
     "ptBR": "[fs]Besta Bravia",
     "ruRU": "[ms]шариковый арбалет",
-    "zhCN": "弹丸弓"
+    "zhCN": "★★弹丸弓★★"
   },
   {
     "id": 20278,
     "Key": "6mx",
     "enUS": "Gorgon Crossbow",
-    "zhTW": "蛇魔弩",
+    "zhTW": "★★蛇魔弩★★",
     "deDE": "[fs]Gorgonenarmbrust",
     "esES": "[fs]Ballesta de gorgona",
     "frFR": "[fs]Arbalète de gorgone",
@@ -14158,13 +14158,13 @@
     "jaJP": "ゴルゴン・クロスボウ",
     "ptBR": "[fs]Besta Górgona",
     "ruRU": "[ms]горгоний арбалет",
-    "zhCN": "蛇发女妖弩"
+    "zhCN": "★★蛇发女妖弩★★"
   },
   {
     "id": 20279,
     "Key": "6hx",
     "enUS": "Colossus Crossbow",
-    "zhTW": "巨神弩",
+    "zhTW": "★★巨神弩★★",
     "deDE": "[fs]Kolossarmbrust",
     "esES": "[fs]Ballesta del coloso",
     "frFR": "[fs]Arbalète de colosse",
@@ -14175,13 +14175,13 @@
     "jaJP": "コロッサス・クロスボウ",
     "ptBR": "[fs]Besta Colossal",
     "ruRU": "[ms]массивный арбалет",
-    "zhCN": "神臂弩"
+    "zhCN": "★★神臂弩★★"
   },
   {
     "id": 20280,
     "Key": "6rx",
     "enUS": "Demon Crossbow",
-    "zhTW": "惡魔弩",
+    "zhTW": "★★惡魔弩★★",
     "deDE": "[fs]Dämonenarmbrust",
     "esES": "[fs]Ballesta del demonio",
     "frFR": "[fs]Arbalète de démon",
@@ -14192,7 +14192,7 @@
     "jaJP": "デーモン・クロスボウ",
     "ptBR": "[fs]Besta Demoníaca",
     "ruRU": "[ms]демонический арбалет",
-    "zhCN": "恶魔弩"
+    "zhCN": "★★恶魔弩★★"
   },
   {
     "id": 20281,
@@ -14470,7 +14470,7 @@
     "id": 20297,
     "Key": "ob6",
     "enUS": "Glowing Orb",
-    "zhTW": "靈光法珠",
+    "zhTW": "★靈光法珠★",
     "deDE": "[fs]Leuchtkugel",
     "esES": "[ms]Orbe encendido",
     "frFR": "[ms]Orbe rayonnant",
@@ -14481,13 +14481,13 @@
     "jaJP": "グローイング・オーブ",
     "ptBR": "[ms]Orbe Brilhante",
     "ruRU": "[fs]светящаяся сфера",
-    "zhCN": "闪光宝珠"
+    "zhCN": "★闪光宝珠★"
   },
   {
     "id": 20298,
     "Key": "ob7",
     "enUS": "Crystalline Globe",
-    "zhTW": "水晶天球",
+    "zhTW": "★水晶天球★",
     "deDE": "[fs]Kristallkugel",
     "esES": "[ms]Globo cristalino",
     "frFR": "[ms]Globe cristallin",
@@ -14498,13 +14498,13 @@
     "jaJP": "クリスタライン・グローブ",
     "ptBR": "[ms]Globo Cristalino",
     "ruRU": "[ms]кристальный шар",
-    "zhCN": "水晶之球"
+    "zhCN": "★水晶之球★"
   },
   {
     "id": 20299,
     "Key": "ob8",
     "enUS": "Cloudy Sphere",
-    "zhTW": "雲霧之球",
+    "zhTW": "★雲霧之球★",
     "deDE": "[fs]Wolkenkugel",
     "esES": "[fs]Esfera turbia",
     "frFR": "[fs]Sphère nébuleuse",
@@ -14515,13 +14515,13 @@
     "jaJP": "クラウディ・スフィア",
     "ptBR": "[fs]Esfera Nebulosa",
     "ruRU": "[fs]туманная сфера",
-    "zhCN": "云雾法球"
+    "zhCN": "★云雾法球★"
   },
   {
     "id": 20300,
     "Key": "ob9",
     "enUS": "Sparkling Ball",
-    "zhTW": "閃耀之球",
+    "zhTW": "★閃耀之球★",
     "deDE": "[ms]Funkelball",
     "esES": "[fs]Bola centelleante",
     "frFR": "[fs]Boule étincelante",
@@ -14532,13 +14532,13 @@
     "jaJP": "スパークリング・ボール",
     "ptBR": "[fs]Esfera Cintilante",
     "ruRU": "[ms]мерцающий шар",
-    "zhCN": "闪光之球"
+    "zhCN": "★闪光之球★"
   },
   {
     "id": 20301,
     "Key": "oba",
     "enUS": "Swirling Crystal",
-    "zhTW": "渦流水晶",
+    "zhTW": "★渦流水晶★",
     "deDE": "[ms]Wirbelnder Kristall",
     "esES": "[ms]Cristal turbulento",
     "frFR": "[ms]Tourbillon de cristal",
@@ -14549,13 +14549,13 @@
     "jaJP": "スワーリング・クリスタル",
     "ptBR": "[ms]Cristal Espiralado",
     "ruRU": "[ms]кружащийся кристалл",
-    "zhCN": "漩涡水晶"
+    "zhCN": "★漩涡水晶★"
   },
   {
     "id": 20302,
     "Key": "am6",
     "enUS": "Ashwood Bow",
-    "zhTW": "梣木弓",
+    "zhTW": "★梣木弓★",
     "deDE": "[ms]Eschenholzbogen",
     "esES": "[ms]Arco de Ashwood",
     "frFR": "[ms]Arc d’ébène",
@@ -14572,7 +14572,7 @@
     "id": 20303,
     "Key": "am7",
     "enUS": "Ceremonial Bow",
-    "zhTW": "儀禮弓",
+    "zhTW": "★儀禮弓★",
     "deDE": "[ms]Zeremonialbogen",
     "esES": "[ms]Arco ceremonial",
     "frFR": "[ms]Arc de cérémonie",
@@ -14589,7 +14589,7 @@
     "id": 20304,
     "Key": "am8",
     "enUS": "Ceremonial Spear",
-    "zhTW": "儀禮長矛",
+    "zhTW": "★儀禮長矛★",
     "deDE": "[ms]Zeremonialspeer",
     "esES": "[fs]Lanza ceremonial",
     "frFR": "[fs]Lance de cérémonie",
@@ -14600,13 +14600,13 @@
     "jaJP": "セレモニアル・スピア",
     "ptBR": "[fs]Lança Cerimonial",
     "ruRU": "[ns]ритуальное копье",
-    "zhCN": "仪式矛"
+    "zhCN": "★仪式矛★"
   },
   {
     "id": 20305,
     "Key": "am9",
     "enUS": "Ceremonial Pike",
-    "zhTW": "儀禮長槍",
+    "zhTW": "★儀禮長槍★",
     "deDE": "[fs]Zeremonialpike",
     "esES": "[fs]Pica ceremonial",
     "frFR": "[fs]Pique de cérémonie",
@@ -14617,13 +14617,13 @@
     "jaJP": "セレモニアル・パイク",
     "ptBR": "[ms]Pique Cerimonial",
     "ruRU": "[fs]ритуальная пика",
-    "zhCN": "仪式长枪"
+    "zhCN": "★仪式长枪★"
   },
   {
     "id": 20306,
     "Key": "ama",
     "enUS": "Ceremonial Javelin",
-    "zhTW": "儀禮標槍",
+    "zhTW": "★儀禮標槍★",
     "deDE": "[ms]Zeremonialwurfspieß",
     "esES": "[fs]Jabalina ceremonial",
     "frFR": "[ms]Javelot de cérémonie",
@@ -14634,13 +14634,13 @@
     "jaJP": "セレモニアル・ジャベリン",
     "ptBR": "[ms]Dardo Cerimonial",
     "ruRU": "[ms]ритуальный дротик",
-    "zhCN": "仪式标枪"
+    "zhCN": "★仪式标枪★"
   },
   {
     "id": 20307,
     "Key": "obb",
     "enUS": "Heavenly Stone",
-    "zhTW": "天堂之石",
+    "zhTW": "★★天堂之石★★",
     "deDE": "Himmelsstein",
     "esES": "[fs]Piedra celestial",
     "frFR": "[fs]Pierre Céleste",
@@ -14651,13 +14651,13 @@
     "jaJP": "ヘブンリー・ストーン",
     "ptBR": "[fs]Pedra Celestial",
     "ruRU": "[ms]небесный камень",
-    "zhCN": "天界石"
+    "zhCN": "★★天界石★★"
   },
   {
     "id": 20308,
     "Key": "obc",
     "enUS": "Eldritch Orb",
-    "zhTW": "異能法珠",
+    "zhTW": "★★異能法珠★★",
     "deDE": "[fs]Heidenkugel",
     "esES": "[ms]Orbe sobrenatural",
     "frFR": "[ms]Orbe surnaturel",
@@ -14668,13 +14668,13 @@
     "jaJP": "エルドリッチ・オーブ",
     "ptBR": "[ms]Orbe Ancestral",
     "ruRU": "[fs]зловещая сфера",
-    "zhCN": "怪异法珠"
+    "zhCN": "★★怪异法珠★★"
   },
   {
     "id": 20309,
     "Key": "obd",
     "enUS": "Demon Heart",
-    "zhTW": "惡魔心石",
+    "zhTW": "★★惡魔心石★★",
     "deDE": "[ns]Dämonenherz",
     "esES": "[ms]Corazón del demonio",
     "frFR": "[ms]Cœur de démon",
@@ -14685,13 +14685,13 @@
     "jaJP": "デーモン・ハート",
     "ptBR": "[ms]Coração Demoníaco",
     "ruRU": "[ns]демонское сердце",
-    "zhCN": "恶魔之心"
+    "zhCN": "★★恶魔之心★★"
   },
   {
     "id": 20310,
     "Key": "obe",
     "enUS": "Vortex Orb",
-    "zhTW": "漩渦法珠",
+    "zhTW": "★★漩渦法珠★★",
     "deDE": "[fs]Wirbelkugel",
     "esES": "[ms]Orbe vórtice",
     "frFR": "[ms]Orbe du vortex",
@@ -14702,13 +14702,13 @@
     "jaJP": "ボルテックス・オーブ",
     "ptBR": "[ms]Orbe do Vórtice",
     "ruRU": "[fs]ураганная сфера",
-    "zhCN": "旋云宝珠"
+    "zhCN": "★★旋云宝珠★★"
   },
   {
     "id": 20311,
     "Key": "obf",
     "enUS": "Dimensional Shard",
-    "zhTW": "次元法珠",
+    "zhTW": "★★次元法珠★★",
     "deDE": "[fs]Dimensionsscherbe",
     "esES": "[fs]Esquirla dimensional",
     "frFR": "[fs]Épine dimensionnelle",
@@ -14719,13 +14719,13 @@
     "jaJP": "ディメンショナル・シャード",
     "ptBR": "[ms]Estilhaço Dimensional",
     "ruRU": "[ms]межпространственный осколок",
-    "zhCN": "次元碎片"
+    "zhCN": "★★次元碎片★★"
   },
   {
     "id": 20312,
     "Key": "amb",
     "enUS": "Matriarchal Bow",
-    "zhTW": "女傑之弓",
+    "zhTW": "★★女傑之弓★★",
     "deDE": "[ms]Matriarchenbogen",
     "esES": "[ms]Arco matriarcal",
     "frFR": "[ms]Arc matriarcal",
@@ -14736,13 +14736,13 @@
     "jaJP": "メイトリアーカル・ボウ",
     "ptBR": "[ms]Arco Matriarcal",
     "ruRU": "[ms]матриарший лук",
-    "zhCN": "女族长弓"
+    "zhCN": "★★女族长弓★★"
   },
   {
     "id": 20313,
     "Key": "amc",
     "enUS": "Grand Matron Bow",
-    "zhTW": "主母之弓",
+    "zhTW": "★★主母之弓★★",
     "deDE": "[ms]Großer Matronenbogen",
     "esES": "[ms]Arco de la gran matrona",
     "frFR": "[ms]Arc de Gaïa",
@@ -14753,13 +14753,13 @@
     "jaJP": "グランド・メイトロン・ボウ",
     "ptBR": "[ms]Grande Arco da Matrona",
     "ruRU": "[ms]большой матронин лук",
-    "zhCN": "仕女长之弓"
+    "zhCN": "★★仕女长之弓★★"
   },
   {
     "id": 20314,
     "Key": "amd",
     "enUS": "Matriarchal Spear",
-    "zhTW": "女傑長矛",
+    "zhTW": "★★女傑長矛★★",
     "deDE": "[ms]Matriarchenspeer",
     "esES": "[fs]Lanza matriarcal",
     "frFR": "[fs]Lance matriarcale",
@@ -14770,13 +14770,13 @@
     "jaJP": "メイトリアーカル・スピア",
     "ptBR": "[fs]Lança Matriarcal",
     "ruRU": "[ns]матриаршее копье",
-    "zhCN": "女族长矛"
+    "zhCN": "★★女族长矛★★"
   },
   {
     "id": 20315,
     "Key": "ame",
     "enUS": "Matriarchal Pike",
-    "zhTW": "女傑長槍",
+    "zhTW": "★★女傑長槍★★",
     "deDE": "[fs]Matriarchenpike",
     "esES": "[fs]Pica matriarcal",
     "frFR": "[fs]Pique matriarcale",
@@ -14787,13 +14787,13 @@
     "jaJP": "メイトリアーカル・パイク",
     "ptBR": "[ms]Pique Matriarcal",
     "ruRU": "[fs]матриаршая пика",
-    "zhCN": "女族长尖枪"
+    "zhCN": "★★女族长尖枪★★"
   },
   {
     "id": 20316,
     "Key": "amf",
     "enUS": "Matriarchal Javelin",
-    "zhTW": "女傑標槍",
+    "zhTW": "★★女傑標槍★★",
     "deDE": "[ms]Matriarchenwurfspieß",
     "esES": "[fs]Jabalina matriarcal",
     "frFR": "[ms]Javelot matriarcal",
@@ -14804,7 +14804,7 @@
     "jaJP": "メイトリアーカル・ジャベリン",
     "ptBR": "[ms]Dardo Matriarcal",
     "ruRU": "[ms]матриарший дротик",
-    "zhCN": "女族长标枪"
+    "zhCN": "★★女族长标枪★★"
   },
   {
     "id": 20317,
@@ -14895,7 +14895,7 @@
     "id": 20322,
     "Key": "ba1",
     "enUS": "Jawbone Cap",
-    "zhTW": "顎骨帽",
+    "zhTW": "★顎骨帽★",
     "deDE": "[ms]Kieferknochenhut",
     "esES": "[ms]Casco de mandíbula",
     "frFR": "[ms]Casque macabre",
@@ -14906,7 +14906,7 @@
     "jaJP": "ジョーボーン・キャップ",
     "ptBR": "[ms]Barrete Mandibular",
     "ruRU": "[ms]наголовник с челюстью",
-    "zhCN": "颚骨帽"
+    "zhCN": "★颚骨帽★"
   },
   {
     "id": 20323,
@@ -15218,7 +15218,7 @@
     "id": 20341,
     "Key": "uap",
     "enUS": "Shako",
-    "zhTW": "軍帽",
+    "zhTW": "★★軍帽★★",
     "deDE": "[ms]Tschako",
     "esES": "[ms]Chacó",
     "frFR": "[ms]Shako",
@@ -15229,13 +15229,13 @@
     "jaJP": "シャコー",
     "ptBR": "[ms]Shako",
     "ruRU": "[ns]шако",
-    "zhCN": "军帽"
+    "zhCN": "★★军帽★★"
   },
   {
     "id": 20342,
     "Key": "ukp",
     "enUS": "Hydraskull",
-    "zhTW": "多頭蛇顱盔",
+    "zhTW": "★★多頭蛇顱盔★★",
     "deDE": "[ms]Hydraschädel",
     "esES": "[ms]Cráneo de hidra",
     "frFR": "[ms]Crâne d’hydre",
@@ -15246,13 +15246,13 @@
     "jaJP": "ヒュドラスカル",
     "ptBR": "[ms]Crânio de Hidra",
     "ruRU": "[ms]гидровый череп",
-    "zhCN": "多头蛇颅"
+    "zhCN": "★★多头蛇颅★★"
   },
   {
     "id": 20343,
     "Key": "ulm",
     "enUS": "Armet",
-    "zhTW": "覆頰盔",
+    "zhTW": "★★覆頰盔★★",
     "deDE": "[ns]Armet",
     "esES": "[ms]Almete",
     "frFR": "[ms]Armet",
@@ -15263,13 +15263,13 @@
     "jaJP": "アーメット",
     "ptBR": "[ms]Armet",
     "ruRU": "[ms]армет",
-    "zhCN": "武装盔"
+    "zhCN": "★★武装盔★★"
   },
   {
     "id": 20344,
     "Key": "uhl",
     "enUS": "Giant Conch",
-    "zhTW": "巨螺盔",
+    "zhTW": "★★巨螺盔★★",
     "deDE": "[fs]Riesenmuschel",
     "esES": "[fs]Valva gigante",
     "frFR": "[fs]Conque géante",
@@ -15280,13 +15280,13 @@
     "jaJP": "ジャイアント・コンク",
     "ptBR": "[fs]Concha Gigante",
     "ruRU": "[ms]большой полукруглый шлем",
-    "zhCN": "巨贝盔"
+    "zhCN": "★★巨贝盔★★"
   },
   {
     "id": 20345,
     "Key": "uhm",
     "enUS": "Spired Helm",
-    "zhTW": "巨角頭盔",
+    "zhTW": "★★巨角頭盔★★",
     "deDE": "[ms]Spitzhelm",
     "esES": "[ms]Yelmo de agujas",
     "frFR": "[ms]Morion",
@@ -15297,13 +15297,13 @@
     "jaJP": "スパード・ヘルム",
     "ptBR": "[ms]Elmo com Chifres",
     "ruRU": "[ms]гнуторогий шлем",
-    "zhCN": "塔盔"
+    "zhCN": "★★塔盔★★"
   },
   {
     "id": 20346,
     "Key": "urn",
     "enUS": "Corona",
-    "zhTW": "日冕之冠",
+    "zhTW": "★★日冕之冠★★",
     "deDE": "[fs]Korona",
     "esES": "[fs]Corona",
     "frFR": "[ms]Fronteau",
@@ -15314,13 +15314,13 @@
     "jaJP": "輪冠",
     "ptBR": "[fs]Corona",
     "ruRU": "[fs]богатая корона",
-    "zhCN": "宝冠"
+    "zhCN": "★★宝冠★★"
   },
   {
     "id": 20347,
     "Key": "usk",
     "enUS": "Demonhead",
-    "zhTW": "惡魔頭骨",
+    "zhTW": "★★惡魔頭骨★★",
     "deDE": "[ms]Dämonenschädel",
     "esES": "[fs]Faz del demonio",
     "frFR": "[fs]Tête de démon",
@@ -15331,13 +15331,13 @@
     "jaJP": "デーモンヘッド",
     "ptBR": "[fs]Cabeça Demoníaca",
     "ruRU": "[fs]демонская голова",
-    "zhCN": "恶魔头"
+    "zhCN": "★★恶魔头★★"
   },
   {
     "id": 20348,
     "Key": "uui",
     "enUS": "Dusk Shroud",
-    "zhTW": "灰暮罩衣",
+    "zhTW": "★★灰暮罩衣★★(輕)",
     "deDE": "[ms]Dämmerschleier",
     "esES": "[fs]Mortaja del crepúsculo",
     "frFR": "[ms]Linceul crépusculaire",
@@ -15348,13 +15348,13 @@
     "jaJP": "ダスク・シュラウド",
     "ptBR": "[fs]Mortalha Crepuscular",
     "ruRU": "[fs]сумеречная пелена",
-    "zhCN": "灰幕寿衣"
+    "zhCN": "★★灰幕寿衣★★"
   },
   {
     "id": 20349,
     "Key": "uea",
     "enUS": "Wyrmhide",
-    "zhTW": "龍皮甲",
+    "zhTW": "★★龍皮甲★★(輕)",
     "deDE": "[ns]Wyrmleder",
     "esES": "[ms]Cuero de vermis",
     "frFR": "[fs]Peau de wyrm",
@@ -15365,13 +15365,13 @@
     "jaJP": "ウィルムハイド",
     "ptBR": "[ms]Couro de Serpe",
     "ruRU": "[fs]змеиная кожа",
-    "zhCN": "龙皮"
+    "zhCN": "★★龙皮★★"
   },
   {
     "id": 20350,
     "Key": "ula",
     "enUS": "Scarab Husk",
-    "zhTW": "聖甲蟲殼皮甲",
+    "zhTW": "★★聖甲蟲殼皮甲★★(輕)",
     "deDE": "[fs]Skarabäusschale",
     "esES": "[mp]Élitros de alfazaque",
     "frFR": "[fs]Carapace de scarabée",
@@ -15382,13 +15382,13 @@
     "jaJP": "スカラベ・ハスク",
     "ptBR": "[fs]Casca de Escaravelho",
     "ruRU": "[ms]панцирь скарабея",
-    "zhCN": "圣甲虫壳"
+    "zhCN": "★★圣甲虫壳★★"
   },
   {
     "id": 20351,
     "Key": "utu",
     "enUS": "Wire Fleece",
-    "zhTW": "鋼線毛皮甲",
+    "zhTW": "★★鋼線毛皮甲★★(輕)",
     "deDE": "[ns]Drahtvlies",
     "esES": "[fs]Lana de alambre",
     "frFR": "[fs]Toison métallique",
@@ -15399,13 +15399,13 @@
     "jaJP": "ワイヤー・フリース",
     "ptBR": "[fs]Trama Interligada",
     "ruRU": "[fs]плетеная безрукавка",
-    "zhCN": "羊绒皮甲"
+    "zhCN": "★★羊绒皮甲★★"
   },
   {
     "id": 20352,
     "Key": "ung",
     "enUS": "Diamond Mail",
-    "zhTW": "鑽石鎖甲",
+    "zhTW": "★★鑽石鎖甲★★(中)",
     "deDE": "[ns]Diamantpanzerhemd",
     "esES": "[fs]Cota de diamante",
     "frFR": "[fs]Cotte de mailles diamantine",
@@ -15416,13 +15416,13 @@
     "jaJP": "ダイヤモンド・メイル",
     "ptBR": "[fs]Malha Diamante",
     "ruRU": "[fs]алмазная кольчуга",
-    "zhCN": "钻石甲"
+    "zhCN": "★★钻石甲★★"
   },
   {
     "id": 20353,
     "Key": "ucl",
     "enUS": "Loricated Mail",
-    "zhTW": "綴鱗戰甲",
+    "zhTW": "★★綴鱗戰甲★★(重)",
     "deDE": "[ns]Kürasspanzerhemd",
     "esES": "[fs]Cota lorigada",
     "frFR": "[fs]Lorica de mailles",
@@ -15433,13 +15433,13 @@
     "jaJP": "ロリケイテッド・メイル",
     "ptBR": "[fs]Malha Revestida",
     "ruRU": "[ms]панцирный доспех",
-    "zhCN": "覆铁甲"
+    "zhCN": "★★覆铁甲★★"
   },
   {
     "id": 20354,
     "Key": "uhn",
     "enUS": "Boneweave",
-    "zhTW": "骸骨網甲",
+    "zhTW": "★★骸骨網甲★★(中)",
     "deDE": "[ns]Knochengespinst",
     "esES": "[ms]Malla de hueso",
     "frFR": "[fs]Armure en plaques d’os",
@@ -15450,13 +15450,13 @@
     "jaJP": "ボーンウィーブ",
     "ptBR": "[fs]Osteotrama",
     "ruRU": "[fs]плетеная кость",
-    "zhCN": "骨织甲"
+    "zhCN": "★★骨织甲★★"
   },
   {
     "id": 20355,
     "Key": "urs",
     "enUS": "Great Hauberk",
-    "zhTW": "鱗鎧胸甲",
+    "zhTW": "★★鱗鎧胸甲★★(輕)",
     "deDE": "[fs]Große Halsberge",
     "esES": "[fs]Gran loriga",
     "frFR": "[ms]Grand haubert",
@@ -15467,13 +15467,13 @@
     "jaJP": "グレート・ホーバーク",
     "ptBR": "[fs]Grande Cota de Malha",
     "ruRU": "[ms]тяжелый панцирь",
-    "zhCN": "大链甲衫"
+    "zhCN": "★★大链甲衫★★"
   },
   {
     "id": 20356,
     "Key": "upl",
     "enUS": "Balrog Skin",
-    "zhTW": "炎魔皮板甲",
+    "zhTW": "★★炎魔皮板甲★★(中)",
     "deDE": "[ns]Balrogleder",
     "esES": "[fs]Piel de Balrog",
     "frFR": "[fs]Peau de Balrog",
@@ -15484,13 +15484,13 @@
     "jaJP": "バルログ・スキン",
     "ptBR": "[fs]Pele de Balrog",
     "ruRU": "[fs]Балрогова шкура",
-    "zhCN": "炎魔皮"
+    "zhCN": "★★炎魔皮★★"
   },
   {
     "id": 20357,
     "Key": "ult",
     "enUS": "Hellforge Plate",
-    "zhTW": "地獄鍛甲",
+    "zhTW": "★★地獄鍛甲★★(重)",
     "deDE": "[fs]Höllenschmiedenplattenrüstung",
     "esES": "[fs]Coraza de la Fragua del Infierno",
     "frFR": "[ms]Harnois des Enfers",
@@ -15501,13 +15501,13 @@
     "jaJP": "ヘルフォージ・プレート",
     "ptBR": "[fs]Armadura da Forja Infernal",
     "ruRU": "[pl]латы из Адской кузни",
-    "zhCN": "地狱铸甲"
+    "zhCN": "★★地狱铸甲★★"
   },
   {
     "id": 20358,
     "Key": "uld",
     "enUS": "Kraken Shell",
-    "zhTW": "海怪之殼",
+    "zhTW": "★★海怪之殼★★(中)",
     "deDE": "[fs]Krakenschale",
     "esES": "[fs]Concha de kraken",
     "frFR": "[fs]Carapace de kraken",
@@ -15518,13 +15518,13 @@
     "jaJP": "クラーケン・シェル",
     "ptBR": "[ms]Casco do Kraken",
     "ruRU": "[fs]раковина кракена",
-    "zhCN": "深海巨妖之壳"
+    "zhCN": "★★深海巨妖之壳★★"
   },
   {
     "id": 20359,
     "Key": "uth",
     "enUS": "Lacquered Plate",
-    "zhTW": "漆護鎧甲",
+    "zhTW": "★★漆護鎧甲★★(中)",
     "deDE": "[fs]Lackierte Plattenrüstung",
     "esES": "[fs]Coraza lacada",
     "frFR": "[ms]Harnois laqué",
@@ -15535,13 +15535,13 @@
     "jaJP": "ラッカード・プレート",
     "ptBR": "[fs]Armadura Laqueada",
     "ruRU": "[ms]лакированный доспех",
-    "zhCN": "漆甲"
+    "zhCN": "★★漆甲★★"
   },
   {
     "id": 20360,
     "Key": "uul",
     "enUS": "Shadow Plate",
-    "zhTW": "暗影鎧甲",
+    "zhTW": "★★暗影鎧甲★★(重)",
     "deDE": "[fs]Schattenplattenrüstung",
     "esES": "[fs]Coraza sombría",
     "frFR": "[ms]Harnois d’ombre",
@@ -15552,13 +15552,13 @@
     "jaJP": "シャドウ・プレート",
     "ptBR": "[fs]Armadura Sombria",
     "ruRU": "[ms]сумрачный доспех",
-    "zhCN": "暗影板甲"
+    "zhCN": "★★暗影板甲★★"
   },
   {
     "id": 20361,
     "Key": "uar",
     "enUS": "Sacred Armor",
-    "zhTW": "神聖戰甲",
+    "zhTW": "★★神聖戰甲★★(中)",
     "deDE": "[fs]Heilige Rüstung",
     "esES": "[fs]Armadura sacra",
     "frFR": "[fs]Armure sacrée",
@@ -15569,13 +15569,13 @@
     "jaJP": "セイクレッド・アーマー",
     "ptBR": "[fs]Armadura Sagrada",
     "ruRU": "[ms]священный доспех",
-    "zhCN": "神圣铠甲"
+    "zhCN": "★★神圣铠甲★★"
   },
   {
     "id": 20362,
     "Key": "utp",
     "enUS": "Archon Plate",
-    "zhTW": "統御者鎧甲",
+    "zhTW": "★★統御者鎧甲★★(輕)",
     "deDE": "[fs]Archonplattenrüstung",
     "esES": "[fs]Coraza de arconte",
     "frFR": "[ms]Harnois d’Archonte",
@@ -15586,13 +15586,13 @@
     "jaJP": "アルコン・プレート",
     "ptBR": "[fs]Armadura do Arconte",
     "ruRU": "[fs]архонтова броня",
-    "zhCN": "统治者板甲"
+    "zhCN": "★★统治者板甲★★"
   },
   {
     "id": 20363,
     "Key": "uuc",
     "enUS": "Heater",
-    "zhTW": "斗盾",
+    "zhTW": "★★斗盾★★(輕)",
     "deDE": "[ms]Manesseschild",
     "esES": "[ms]Calentador",
     "frFR": "[ms]Écu incandescent",
@@ -15603,13 +15603,13 @@
     "jaJP": "ヒーター",
     "ptBR": "[ms]Aquecedor",
     "ruRU": "[ms]клиновидный щит",
-    "zhCN": "斗盾"
+    "zhCN": "★★斗盾★★"
   },
   {
     "id": 20364,
     "Key": "uml",
     "enUS": "Luna",
-    "zhTW": "圓月盾",
+    "zhTW": "★★圓月盾★★(輕)",
     "deDE": "[fs]Luna",
     "esES": "[fs]Luna",
     "frFR": "[fs]Lune",
@@ -15620,13 +15620,13 @@
     "jaJP": "ルナ",
     "ptBR": "[fs]Luna",
     "ruRU": "[fs]луна",
-    "zhCN": "月神盾"
+    "zhCN": "★★月神盾★★"
   },
   {
     "id": 20365,
     "Key": "urg",
     "enUS": "Hyperion",
-    "zhTW": "亥伯龍盾",
+    "zhTW": "★★亥伯龍盾★★(中)",
     "deDE": "[ms]Hyperion",
     "esES": "[ms]Hiperión",
     "frFR": "[ms]Hypérion",
@@ -15637,13 +15637,13 @@
     "jaJP": "ハイペリオン",
     "ptBR": "[ms]Hipérion",
     "ruRU": "[ms]гиперион",
-    "zhCN": "亥伯龙盾"
+    "zhCN": "★★亥伯龙盾★★"
   },
   {
     "id": 20366,
     "Key": "uit",
     "enUS": "Monarch",
-    "zhTW": "君主盾",
+    "zhTW": "★★君主盾★★(輕)",
     "deDE": "[ms]Monarch",
     "esES": "[ms]Monarca",
     "frFR": "[ms]Bouclier de monarque",
@@ -15654,13 +15654,13 @@
     "jaJP": "モナーク",
     "ptBR": "[ms]Monarca",
     "ruRU": "[ms]монарх",
-    "zhCN": "统治者大盾"
+    "zhCN": "★★统治者大盾★★"
   },
   {
     "id": 20367,
     "Key": "uow",
     "enUS": "Aegis",
-    "zhTW": "禦塔盾",
+    "zhTW": "★★禦塔盾★★(重)",
     "deDE": "[fs]Ägis",
     "esES": "[fs]Égida",
     "frFR": "[fs]Égide",
@@ -15671,13 +15671,13 @@
     "jaJP": "アイギス",
     "ptBR": "[fs]Égide",
     "ruRU": "[fs]эгида",
-    "zhCN": "圣盾"
+    "zhCN": "★★圣盾★★"
   },
   {
     "id": 20368,
     "Key": "uts",
     "enUS": "Ward",
-    "zhTW": "庇護盾",
+    "zhTW": "★★庇護盾★★(中)",
     "deDE": "[ms]Schutz",
     "esES": "[fs]Custodia",
     "frFR": "[fs]Parade",
@@ -15688,13 +15688,13 @@
     "jaJP": "ウォード",
     "ptBR": "[fs]Proteção",
     "ruRU": "[ms]охранитель",
-    "zhCN": "守护之盾"
+    "zhCN": "★★守护之盾★★"
   },
   {
     "id": 20369,
     "Key": "ulg",
     "enUS": "Bramble Mitts",
-    "zhTW": "荊棘手套",
+    "zhTW": "★★荊棘手套★★",
     "deDE": "[pl]Dornenhandschuhe",
     "esES": "[mp]Mitones de zarza",
     "frFR": "[mp]Gants de ronce",
@@ -15705,13 +15705,13 @@
     "jaJP": "ブランブル・ミット",
     "ptBR": "[fp]Luvas Sarçosas",
     "ruRU": "[pl]колючие рукавицы",
-    "zhCN": "防刺手套"
+    "zhCN": "★★防刺手套★★"
   },
   {
     "id": 20370,
     "Key": "uvg",
     "enUS": "Vampirebone Gloves",
-    "zhTW": "吸血鬼骸骨手套",
+    "zhTW": "★★吸血鬼骸骨手套★★",
     "deDE": "[pl]Vampirknochenhandschuhe",
     "esES": "[mp]Guantes de hueso de vampiro",
     "frFR": "[mp]Gants vampiriques",
@@ -15722,13 +15722,13 @@
     "jaJP": "ヴァンパイアボーン・グローブ",
     "ptBR": "[fp]Luvas Vampíricas",
     "ruRU": "[pl]вампирьи перчатки",
-    "zhCN": "吸血鬼骨手套"
+    "zhCN": "★★吸血鬼骨手套★★"
   },
   {
     "id": 20371,
     "Key": "umg",
     "enUS": "Vambraces",
-    "zhTW": "護臂",
+    "zhTW": "★★護臂★★",
     "deDE": "[pl]Vampirschienen",
     "esES": "[mp]Avambrazos",
     "frFR": "[mp]Protège-bras",
@@ -15739,13 +15739,13 @@
     "jaJP": "ヴァンブレイス",
     "ptBR": "[mp]Avambraços",
     "ruRU": "[pl]латные щитки",
-    "zhCN": "护臂手甲"
+    "zhCN": "★★护臂手甲★★"
   },
   {
     "id": 20372,
     "Key": "utg",
     "enUS": "Crusader Gauntlets",
-    "zhTW": "聖教軍護手",
+    "zhTW": "★★聖教軍護手★★",
     "deDE": "[pl]Kreuzritterhandschuhe",
     "esES": "[mp]Guanteletes de cruzada",
     "frFR": "[mp]Gantelets de croisé",
@@ -15756,13 +15756,13 @@
     "jaJP": "クルセイダー・ガントレット",
     "ptBR": "[fp]Manoplas do Cruzado",
     "ruRU": "[pl]рыцарские перчатки",
-    "zhCN": "圣教军护手"
+    "zhCN": "★★圣教军护手★★"
   },
   {
     "id": 20373,
     "Key": "uhg",
     "enUS": "Ogre Gauntlets",
-    "zhTW": "巨魔護手",
+    "zhTW": "★★巨魔護手★★",
     "deDE": "[pl]Ogerhandschuhe",
     "esES": "[mp]Guanteletes de ogro",
     "frFR": "[mp]Gantelets ogres",
@@ -15773,13 +15773,13 @@
     "jaJP": "オーガ・ガントレット",
     "ptBR": "[fp]Manoplas Ogras",
     "ruRU": "[pl]устрашающие рукавицы",
-    "zhCN": "食人魔护手"
+    "zhCN": "★★食人魔护手★★"
   },
   {
     "id": 20374,
     "Key": "ulb",
     "enUS": "Wyrmhide Boots",
-    "zhTW": "龍皮靴",
+    "zhTW": "★★龍皮靴★★",
     "deDE": "[pl]Wyrmlederstiefel",
     "esES": "[fp]Botas de cuero de vermis",
     "frFR": "[fp]Bottes en peau de wyrm",
@@ -15790,13 +15790,13 @@
     "jaJP": "ウィルムハイド・ブーツ",
     "ptBR": "[fp]Botas de Couro de Serpe",
     "ruRU": "[pl]змеиные сапоги",
-    "zhCN": "飞龙皮靴"
+    "zhCN": "★★飞龙皮靴★★"
   },
   {
     "id": 20375,
     "Key": "uvb",
     "enUS": "Scarabshell Boots",
-    "zhTW": "聖甲蟲殼皮靴",
+    "zhTW": "★★聖甲蟲殼皮靴★★",
     "deDE": "[pl]Skarabäusschalenstiefel",
     "esES": "[fp]Botas de élitro de alfazaque",
     "frFR": "[fp]Bottes caparaçonnées",
@@ -15807,13 +15807,13 @@
     "jaJP": "スカラベシェル・ブーツ",
     "ptBR": "[fp]Botas de Casco de Escaravelho",
     "ruRU": "[pl]скарабеевы сапоги",
-    "zhCN": "圣甲虫壳靴"
+    "zhCN": "★★圣甲虫壳靴★★"
   },
   {
     "id": 20376,
     "Key": "umb",
     "enUS": "Boneweave Boots",
-    "zhTW": "骸骨網靴",
+    "zhTW": "★★骸骨網靴★★",
     "deDE": "[pl]Knochengespinststiefel",
     "esES": "[fp]Botas de hueso",
     "frFR": "[fp]Bottes en plaques d’os",
@@ -15824,13 +15824,13 @@
     "jaJP": "ボーンウィーブ・ブーツ",
     "ptBR": "[fp]Botas de Osteotrama",
     "ruRU": "[pl]латно-костяные сапоги",
-    "zhCN": "骸骨链靴"
+    "zhCN": "★★骸骨链靴★★"
   },
   {
     "id": 20377,
     "Key": "utb",
     "enUS": "Mirrored Boots",
-    "zhTW": "幻鏡戰靴",
+    "zhTW": "★★幻鏡戰靴★★",
     "deDE": "[pl]Verspiegelte Stiefel",
     "esES": "[fp]Botas de espejo",
     "frFR": "[fp]Bottes resplendissantes",
@@ -15841,13 +15841,13 @@
     "jaJP": "ミラード・ブーツ",
     "ptBR": "[fp]Botas Espelhadas",
     "ruRU": "[pl]зеркальные сапоги",
-    "zhCN": "镜化靴"
+    "zhCN": "★★镜化靴★★"
   },
   {
     "id": 20378,
     "Key": "uhb",
     "enUS": "Myrmidon Greaves",
-    "zhTW": "勇士護脛",
+    "zhTW": "★★勇士護脛★★",
     "deDE": "[fs]Myrmidonbeinschienen",
     "esES": "[fp]Grebas de mirmidón",
     "frFR": "[fp]Grèves de myrmidon",
@@ -15858,13 +15858,13 @@
     "jaJP": "ミュルミドーン・グリーヴ",
     "ptBR": "[fp]Grevas Mirmídones",
     "ruRU": "[pl]мирмидонские наголенники",
-    "zhCN": "侍从护胫"
+    "zhCN": "★★侍从护胫★★"
   },
   {
     "id": 20379,
     "Key": "ulc",
     "enUS": "Spiderweb Sash",
-    "zhTW": "蛛網束帶",
+    "zhTW": "★★蛛網束帶★★",
     "deDE": "[fs]Spinnennetzschärpe",
     "esES": "[ms]Fajín de tela de araña",
     "frFR": "[fs]Ceinture en toile d’araignée",
@@ -15875,13 +15875,13 @@
     "jaJP": "スパイダーウェブ・サッシュ",
     "ptBR": "[fs]Faixa de Teia",
     "ruRU": "[ms]паутинный кушак",
-    "zhCN": "蛛网饰带"
+    "zhCN": "★★蛛网饰带★★"
   },
   {
     "id": 20380,
     "Key": "uvc",
     "enUS": "Vampirefang Belt",
-    "zhTW": "吸血鬼牙腰帶",
+    "zhTW": "★★吸血鬼牙腰帶★★",
     "deDE": "[ms]Vampirzahngürtel",
     "esES": "[ms]Cinturón de colmillo de vampiro",
     "frFR": "[fs]Ceinture à crocs de vampire",
@@ -15892,13 +15892,13 @@
     "jaJP": "ヴァンパイアファング・ベルト",
     "ptBR": "[ms]Cinto de Presa Vampírica",
     "ruRU": "[ms]вампирский пояс",
-    "zhCN": "吸血鬼牙腰带"
+    "zhCN": "★★吸血鬼牙腰带★★"
   },
   {
     "id": 20381,
     "Key": "umc",
     "enUS": "Mithril Coil",
-    "zhTW": "秘銀腰帶",
+    "zhTW": "★★秘銀腰帶★★",
     "deDE": "[fs]Mithrilrolle",
     "esES": "[fs]Rosca de mithril",
     "frFR": "[fs]Ceinture de mithril",
@@ -15909,13 +15909,13 @@
     "jaJP": "ミスリル・コイル",
     "ptBR": "[ms]Cinto de Mithril",
     "ruRU": "[fs]мифриловая опояска",
-    "zhCN": "秘银腰带"
+    "zhCN": "★★秘银腰带★★"
   },
   {
     "id": 20382,
     "Key": "utc",
     "enUS": "Troll Belt",
-    "zhTW": "食人妖腰帶",
+    "zhTW": "★★食人妖腰帶★★",
     "deDE": "[ms]Trollgürtel",
     "esES": "[ms]Cinturón de trol",
     "frFR": "[fs]Ceinture trolle",
@@ -15926,13 +15926,13 @@
     "jaJP": "トロール・ベルト",
     "ptBR": "[ms]Cinto Trólico",
     "ruRU": "[ms]троллий пояс",
-    "zhCN": "巨魔腰带"
+    "zhCN": "★★巨魔腰带★★"
   },
   {
     "id": 20383,
     "Key": "uhc",
     "enUS": "Colossus Girdle",
-    "zhTW": "巨神腰帶",
+    "zhTW": "★★巨神腰帶★★",
     "deDE": "[ms]Kolossgurt",
     "esES": "[fs]Faja del coloso",
     "frFR": "[ms]Ceinturon de colosse",
@@ -15943,13 +15943,13 @@
     "jaJP": "コロッサス・ガードル",
     "ptBR": "[ms]Cinturão Colossal",
     "ruRU": "[ms]массивный ремень",
-    "zhCN": "巨型护腰"
+    "zhCN": "★★巨型护腰★★"
   },
   {
     "id": 20384,
     "Key": "uh9",
     "enUS": "Bone Visage",
-    "zhTW": "骸骨面罩",
+    "zhTW": "★★骸骨面罩★★",
     "deDE": "[fs]Knochenfratze",
     "esES": "[ms]Semblante de hueso",
     "frFR": "[ms]Casque en os",
@@ -15960,13 +15960,13 @@
     "jaJP": "ボーン・ビセッジ",
     "ptBR": "[ms]Semblante Ósseo",
     "ruRU": "[fs]костяная личина",
-    "zhCN": "白骨面甲"
+    "zhCN": "★★白骨面甲★★"
   },
   {
     "id": 20385,
     "Key": "ush",
     "enUS": "Troll Nest",
-    "zhTW": "食人妖骨盾",
+    "zhTW": "★★食人妖骨盾★★(輕)",
     "deDE": "[ns]Trollnest",
     "esES": "[ms]Nido de troles",
     "frFR": "[ms]Repaire troll",
@@ -15983,7 +15983,7 @@
     "id": 20386,
     "Key": "upk",
     "enUS": "Blade Barrier",
-    "zhTW": "刀刃刺盾",
+    "zhTW": "★★刀刃刺盾★★(輕)",
     "deDE": "[fs]Klingenbarriere",
     "esES": "[fs]Barrera tajante",
     "frFR": "[fs]Barrière de lames",
@@ -15994,13 +15994,13 @@
     "jaJP": "ブレイド・バリア",
     "ptBR": "[fs]Barreira de Lâminas",
     "ruRU": "[fs]клинковая ограда",
-    "zhCN": "剑刃屏障"
+    "zhCN": "★★剑刃屏障★★"
   },
   {
     "id": 20387,
     "Key": "dr9",
     "enUS": "Sacred Feathers",
-    "zhTW": "聖羽頭飾",
+    "zhTW": "★聖羽頭飾★",
     "deDE": "[pl]Heilige Federn",
     "esES": "[fp]Plumas sacras",
     "frFR": "[fp]Plumes sacrées",
@@ -16011,13 +16011,13 @@
     "jaJP": "セイクレッド・フェザー",
     "ptBR": "[fp]Plumas Sagradas",
     "ruRU": "[pl]священные перья",
-    "zhCN": "圣羽盔"
+    "zhCN": "★圣羽盔★"
   },
   {
     "id": 20388,
     "Key": "dr7",
     "enUS": "Griffon Headdress",
-    "zhTW": "獅鷲獸頭飾",
+    "zhTW": "★獅鷲獸頭飾★",
     "deDE": "[ms]Greifenkopfschmuck",
     "esES": "[ms]Tocado de grifo",
     "frFR": "[fs]Coiffe du griffon",
@@ -16028,13 +16028,13 @@
     "jaJP": "グリフォン・ヘッドドレス",
     "ptBR": "[ms]Quepe de Grifo",
     "ruRU": "[ms]грифоний головной убор",
-    "zhCN": "狮鹫头饰"
+    "zhCN": "★狮鹫头饰★"
   },
   {
     "id": 20389,
     "Key": "dr8",
     "enUS": "Hunter's Guise",
-    "zhTW": "獵人面罩",
+    "zhTW": "★獵人面罩★",
     "deDE": "[fs]Jägerverkleidung",
     "esES": "[ms]Aspecto del cazador",
     "frFR": "[ms]Masque de chasseur",
@@ -16045,13 +16045,13 @@
     "jaJP": "ハンターズ・ガイズ",
     "ptBR": "[ms]Disfarce do Caçador",
     "ruRU": "[fs]охотничья личина",
-    "zhCN": "猎人伪装"
+    "zhCN": "★猎人伪装★★"
   },
   {
     "id": 20390,
     "Key": "dr6",
     "enUS": "Alpha Helm",
-    "zhTW": "猛狼頭盔",
+    "zhTW": "★猛狼頭盔★",
     "deDE": "[ms]Alphahelm",
     "esES": "[ms]Yelmo alfa",
     "frFR": "[ms]Heaume alpha",
@@ -16062,13 +16062,13 @@
     "jaJP": "アルファ・ヘルム",
     "ptBR": "[ms]Elmo Alfa",
     "ruRU": "[ms]волчий шлем",
-    "zhCN": "头狼盔"
+    "zhCN": "★头狼盔★"
   },
   {
     "id": 20391,
     "Key": "dra",
     "enUS": "Totemic Mask",
-    "zhTW": "圖騰面具",
+    "zhTW": "★圖騰面具★",
     "deDE": "[fs]Totemmaske",
     "esES": "[fs]Máscara totémica",
     "frFR": "[ms]Masque totémique",
@@ -16079,7 +16079,7 @@
     "jaJP": "トーテミック・マスク",
     "ptBR": "[fs]Máscara Totêmica",
     "ruRU": "[fs]тотемная маска",
-    "zhCN": "图腾面具"
+    "zhCN": "★图腾面具★"
   },
   {
     "id": 20392,
@@ -16102,7 +16102,7 @@
     "id": 20393,
     "Key": "ba7",
     "enUS": "Lion Helm",
-    "zhTW": "獅牙頭盔",
+    "zhTW": "★獅牙頭盔★",
     "deDE": "[ms]Löwenhelm",
     "esES": "[ms]Yelmo del león",
     "frFR": "[ms]Heaume du lion",
@@ -16113,13 +16113,13 @@
     "jaJP": "ライオン・ヘルム",
     "ptBR": "[ms]Elmo Leonino",
     "ruRU": "[ms]львиный шлем",
-    "zhCN": "狮盔"
+    "zhCN": "★狮盔★"
   },
   {
     "id": 20394,
     "Key": "ba8",
     "enUS": "Rage Mask",
-    "zhTW": "狂怒面具",
+    "zhTW": "★狂怒面具★",
     "deDE": "[fs]Wutmaske",
     "esES": "[fs]Máscara de la cólera",
     "frFR": "[ms]Masque rageur",
@@ -16130,13 +16130,13 @@
     "jaJP": "レイジ・マスク",
     "ptBR": "[fs]Máscara Furiosa",
     "ruRU": "[fs]яростная маска",
-    "zhCN": "盛怒面甲"
+    "zhCN": "★盛怒面甲★"
   },
   {
     "id": 20395,
     "Key": "ba9",
     "enUS": "Savage Helmet",
-    "zhTW": "凶蠻頭盔",
+    "zhTW": "★凶蠻頭盔★",
     "deDE": "[ms]Wildenhelm",
     "esES": "[ms]Casco salvaje",
     "frFR": "[ms]Cabasset sauvage",
@@ -16147,13 +16147,13 @@
     "jaJP": "サベッジ・ヘルメット",
     "ptBR": "[ms]Capacete Selvagem",
     "ruRU": "[ms]дикий шлем",
-    "zhCN": "野蛮头盔"
+    "zhCN": "★野蛮头盔★"
   },
   {
     "id": 20396,
     "Key": "baa",
     "enUS": "Slayer Guard",
-    "zhTW": "殺手護盔",
+    "zhTW": "★殺手護盔★",
     "deDE": "[ms]Schlächterschutz",
     "esES": "[fs]Protección exterminadora",
     "frFR": "[ms]Broquel féroce",
@@ -16164,13 +16164,13 @@
     "jaJP": "スレイヤー・ガード",
     "ptBR": "[fs]Proteção Homicida",
     "ruRU": "[ms]экзекуторский убор",
-    "zhCN": "杀戮者头盔"
+    "zhCN": "★杀戮者头盔★"
   },
   {
     "id": 20397,
     "Key": "pa6",
     "enUS": "Akaran Targe",
-    "zhTW": "阿卡拉圓盾",
+    "zhTW": "★阿卡拉圓盾★",
     "deDE": "Akarantarge",
     "esES": "[fs]Adarga de Akaran",
     "frFR": "[fs]Targe d’Akaran",
@@ -16181,13 +16181,13 @@
     "jaJP": "アカラン・タージ",
     "ptBR": "[fs]Targa de Akaran",
     "ruRU": "[ms]акаранский тарджет",
-    "zhCN": "阿卡兰小盾"
+    "zhCN": "★阿卡兰小盾★"
   },
   {
     "id": 20398,
     "Key": "pa7",
     "enUS": "Akaran Rondache",
-    "zhTW": "阿卡拉輕圓盾",
+    "zhTW": "★阿卡拉輕圓盾★",
     "deDE": "[fs]Akaranrondache",
     "esES": "[fs]Rodela de Akaran",
     "frFR": "[fs]Rondache d’Akaran",
@@ -16198,13 +16198,13 @@
     "jaJP": "アカラン・ロンダッシュ",
     "ptBR": "[ms]Rondache de Akaran",
     "ruRU": "[ms]акаранский рондаш",
-    "zhCN": "阿卡兰轻圆盾"
+    "zhCN": "★阿卡兰轻圆盾★"
   },
   {
     "id": 20399,
     "Key": "pa8",
     "enUS": "Protector Shield",
-    "zhTW": "守護之盾",
+    "zhTW": "★守護之盾★",
     "deDE": "[ms]Schutzschild",
     "esES": "[ms]Escudo protector",
     "frFR": "[ms]Bouclier protecteur",
@@ -16215,13 +16215,13 @@
     "jaJP": "プロテクター・シールド",
     "ptBR": "[ms]Escudo Protetor",
     "ruRU": "[ms]покровительский щит",
-    "zhCN": "保卫者之盾"
+    "zhCN": "★保卫者之盾★"
   },
   {
     "id": 20400,
     "Key": "pa9",
     "enUS": "Gilded Shield",
-    "zhTW": "金紋盾",
+    "zhTW": "★金紋盾★",
     "deDE": "[ms]Vergoldeter Schild",
     "esES": "[ms]Escudo dorado",
     "frFR": "[ms]Bouclier doré",
@@ -16232,13 +16232,13 @@
     "jaJP": "ギルデッド・シールド",
     "ptBR": "[ms]Escudo Dourado",
     "ruRU": "[ms]золоченый щит",
-    "zhCN": "镀金盾"
+    "zhCN": "★镀金盾★"
   },
   {
     "id": 20401,
     "Key": "paa",
     "enUS": "Royal Shield",
-    "zhTW": "皇家盾",
+    "zhTW": "★皇家盾★",
     "deDE": "[ms]Königlicher Schild",
     "esES": "[ms]Escudo real",
     "frFR": "[ms]Bouclier royal",
@@ -16249,13 +16249,13 @@
     "jaJP": "ロイヤル・シールド",
     "ptBR": "[ms]Escudo Régio",
     "ruRU": "[ms]монарший щит",
-    "zhCN": "皇家盾"
+    "zhCN": "★皇家盾★"
   },
   {
     "id": 20402,
     "Key": "ne6",
     "enUS": "Mummified Trophy",
-    "zhTW": "木乃伊首級",
+    "zhTW": "★木乃伊首級★",
     "deDE": "[fs]Mumifizierte Trophäe",
     "esES": "[ms]Trofeo momificado",
     "frFR": "[ms]Trophée momifié",
@@ -16266,13 +16266,13 @@
     "jaJP": "マミファイド・トロフィー",
     "ptBR": "[ms]Troféu Mumificado",
     "ruRU": "[ms]засушенный трофей",
-    "zhCN": "木乃伊法器"
+    "zhCN": "★木乃伊法器★"
   },
   {
     "id": 20403,
     "Key": "ne7",
     "enUS": "Fetish Trophy",
-    "zhTW": "鬼娃首級",
+    "zhTW": "★鬼娃首級★",
     "deDE": "[fs]Fetischtrophäe",
     "esES": "[ms]Trofeo de fetiche",
     "frFR": "[ms]Trophée fétiche",
@@ -16283,13 +16283,13 @@
     "jaJP": "フェティッシュ・トロフィー",
     "ptBR": "[ms]Troféu Carranco",
     "ruRU": "[ms]трофей-фетиш",
-    "zhCN": "鬼娃法器"
+    "zhCN": "★鬼娃法器★"
   },
   {
     "id": 20404,
     "Key": "ne8",
     "enUS": "Sexton Trophy",
-    "zhTW": "司事首級",
+    "zhTW": "★司事首級★",
     "deDE": "[fs]Sextontrophäe",
     "esES": "[ms]Trofeo de sacristán",
     "frFR": "[ms]Trophée de sacristain",
@@ -16300,13 +16300,13 @@
     "jaJP": "セクストン・トロフィー",
     "ptBR": "[ms]Troféu Sexton",
     "ruRU": "[ms]алтарный трофей",
-    "zhCN": "教堂司事法器"
+    "zhCN": "★教堂司事法器★"
   },
   {
     "id": 20405,
     "Key": "ne9",
     "enUS": "Cantor Trophy",
-    "zhTW": "領唱者首級",
+    "zhTW": "★領唱者首級★",
     "deDE": "[fs]Kantortrophäe",
     "esES": "[ms]Trofeo de cantor",
     "frFR": "[ms]Trophée de chantre",
@@ -16317,13 +16317,13 @@
     "jaJP": "キャンター・トロフィー",
     "ptBR": "[ms]Troféu Cantor",
     "ruRU": "[ms]хоровой трофей",
-    "zhCN": "领唱者法器"
+    "zhCN": "★领唱者法器★"
   },
   {
     "id": 20406,
     "Key": "nea",
     "enUS": "Hierophant Trophy",
-    "zhTW": "祭司首級",
+    "zhTW": "★祭司首級★",
     "deDE": "Hierophanttrophäe",
     "esES": "[ms]Trofeo de hierofante",
     "frFR": "[ms]Trophée de hiérophante",
@@ -16334,13 +16334,13 @@
     "jaJP": "ハイエロファント・トロフィー",
     "ptBR": "[ms]Troféu Hierofante",
     "ruRU": "[ms]жреческий трофей",
-    "zhCN": "圣师法器"
+    "zhCN": "★圣师法器★"
   },
   {
     "id": 20407,
     "Key": "dre",
     "enUS": "Sky Spirit",
-    "zhTW": "天翔靈獸帽",
+    "zhTW": "★★天翔靈獸帽★★",
     "deDE": "[ms]Himmelsgeist",
     "esES": "[ms]Espíritu del cielo",
     "frFR": "[ms]Esprit des Cieux",
@@ -16357,7 +16357,7 @@
     "id": 20408,
     "Key": "drc",
     "enUS": "Sun Spirit",
-    "zhTW": "日陽靈獸帽",
+    "zhTW": "★★日陽靈獸帽★★",
     "deDE": "[ms]Sonnengeist",
     "esES": "[ms]Espíritu del sol",
     "frFR": "[ms]Esprit du soleil",
@@ -16368,13 +16368,13 @@
     "jaJP": "サン・スピリット",
     "ptBR": "[ms]Espírito Solar",
     "ruRU": "[ms]солнечный дух",
-    "zhCN": "太阳之灵"
+    "zhCN": "★★太阳之灵★★"
   },
   {
     "id": 20409,
     "Key": "drd",
     "enUS": "Earth Spirit",
-    "zhTW": "地土靈獸帽",
+    "zhTW": "★★地土靈獸帽★★",
     "deDE": "[ms]Erdgeist",
     "esES": "[ms]Espíritu de la tierra",
     "frFR": "[ms]Esprit de la terre",
@@ -16385,13 +16385,13 @@
     "jaJP": "アース・スピリット",
     "ptBR": "[ms]Espírito Terrestre",
     "ruRU": "[ms]земной дух",
-    "zhCN": "大地之灵"
+    "zhCN": "★★大地之灵★★"
   },
   {
     "id": 20410,
     "Key": "drb",
     "enUS": "Blood Spirit",
-    "zhTW": "血系靈獸帽",
+    "zhTW": "★★血系靈獸帽★★",
     "deDE": "[ms]Blutgeist",
     "esES": "[ms]Espíritu de la sangre",
     "frFR": "[ms]Esprit du sang",
@@ -16402,13 +16402,13 @@
     "jaJP": "ブラッド・スピリット",
     "ptBR": "[ms]Espírito Sanguíneo",
     "ruRU": "[ms]кровавый дух",
-    "zhCN": "鲜血之灵"
+    "zhCN": "★★鲜血之灵★★"
   },
   {
     "id": 20411,
     "Key": "drf",
     "enUS": "Dream Spirit",
-    "zhTW": "幽夢靈獸帽",
+    "zhTW": "★★幽夢靈獸帽★★",
     "deDE": "[ms]Traumgeist",
     "esES": "[ms]Espíritu del sueño",
     "frFR": "[ms]Esprit du rêve",
@@ -16419,13 +16419,13 @@
     "jaJP": "ドリーム・スピリット",
     "ptBR": "[ms]Espírito Onírico",
     "ruRU": "[ms]иллюзорный дух",
-    "zhCN": "梦境之灵"
+    "zhCN": "★★梦境之灵★★"
   },
   {
     "id": 20412,
     "Key": "bab",
     "enUS": "Carnage Helm",
-    "zhTW": "屠殺頭盔",
+    "zhTW": "★★屠殺頭盔★★",
     "deDE": "[ms]Gemetzelhelm",
     "esES": "[ms]Yelmo de carnicería",
     "frFR": "[ms]Heaume de carnage",
@@ -16436,13 +16436,13 @@
     "jaJP": "カーネッジ・ヘルム",
     "ptBR": "[ms]Elmo da Carnificina",
     "ruRU": "[ms]мясницкий шлем",
-    "zhCN": "屠戮盔"
+    "zhCN": "★★屠戮盔★★"
   },
   {
     "id": 20413,
     "Key": "bac",
     "enUS": "Fury Visor",
-    "zhTW": "暴怒面甲",
+    "zhTW": "★★暴怒面甲★★",
     "deDE": "[ns]Wutvisier",
     "esES": "[fs]Visera de furia",
     "frFR": "[fs]Visière de fureur",
@@ -16453,13 +16453,13 @@
     "jaJP": "フューリー・バイザー",
     "ptBR": "[fs]Viseira Furiosa",
     "ruRU": "[ms]яростный щиток",
-    "zhCN": "怒火面甲"
+    "zhCN": "★★怒火面甲★★"
   },
   {
     "id": 20414,
     "Key": "bad",
     "enUS": "Destroyer Helm",
-    "zhTW": "毀滅者頭盔",
+    "zhTW": "★★毀滅者頭盔★★",
     "deDE": "[ms]Zerstörerhelm",
     "esES": "[ms]Yelmo destructor",
     "frFR": "[ms]Heaume de destructeur",
@@ -16470,13 +16470,13 @@
     "jaJP": "デストロイヤー・ヘルム",
     "ptBR": "[ms]Elmo Destruidor",
     "ruRU": "[ms]разрушительный шлем",
-    "zhCN": "毁灭者头盔"
+    "zhCN": "★★毁灭者头盔★★"
   },
   {
     "id": 20415,
     "Key": "bae",
     "enUS": "Conqueror Crown",
-    "zhTW": "征服者盔冠",
+    "zhTW": "★★征服者盔冠★★",
     "deDE": "Erobererkrone",
     "esES": "[fs]Corona conquistadora",
     "frFR": "[fs]Couronne de conquérant",
@@ -16487,13 +16487,13 @@
     "jaJP": "コンカラー・クラウン",
     "ptBR": "[fs]Coroa do Conquistador",
     "ruRU": "[fs]победоносная корона",
-    "zhCN": "征服者王冠"
+    "zhCN": "★★征服者王冠★★"
   },
   {
     "id": 20416,
     "Key": "baf",
     "enUS": "Guardian Crown",
-    "zhTW": "守護者盔冠",
+    "zhTW": "★★守護者盔冠★★",
     "deDE": "[fs]Wächterkrone",
     "esES": "[fs]Corona guardiana",
     "frFR": "[fs]Couronne de gardien",
@@ -16504,7 +16504,7 @@
     "jaJP": "ガーディアン・クラウン",
     "ptBR": "[fs]Coroa do Guardião",
     "ruRU": "[fs]защитная корона",
-    "zhCN": "守护者王冠"
+    "zhCN": "★★守护者王冠★★"
   },
   {
     "id": 20417,
@@ -16578,7 +16578,7 @@
     "id": 20421,
     "Key": "neb",
     "enUS": "Minion Skull",
-    "zhTW": "僕從顱骨",
+    "zhTW": "★★僕從顱骨★★",
     "deDE": "[ms]Dienerschädel",
     "esES": "[ms]Cráneo de esbirro",
     "frFR": "[ms]Crâne de serviteur",
@@ -16589,13 +16589,13 @@
     "jaJP": "ミニオン・スカル",
     "ptBR": "[fs]Caveira de Lacaio",
     "ruRU": "[ms]прислужничий череп",
-    "zhCN": "爪牙颅骨"
+    "zhCN": "★★爪牙颅骨★★"
   },
   {
     "id": 20422,
     "Key": "nec",
     "enUS": "Hellspawn Skull",
-    "zhTW": "地獄爪牙顱骨",
+    "zhTW": "★★地獄爪牙顱骨★★",
     "deDE": "[ms]Höllenbrutschädel",
     "esES": "[ms]Cráneo del averno",
     "frFR": "[ms]Crâne de l’engeance infernale",
@@ -16606,13 +16606,13 @@
     "jaJP": "ヘルスポーン・スカル",
     "ptBR": "Caveira de Cria Infernal",
     "ruRU": "[ms]череп отродья Тьмы",
-    "zhCN": "地狱魔颅骨"
+    "zhCN": "★★地狱魔颅骨★★"
   },
   {
     "id": 20423,
     "Key": "ned",
     "enUS": "Overseer Skull",
-    "zhTW": "督軍顱骨",
+    "zhTW": "★★督軍顱骨★★",
     "deDE": "[ms]Aufseherschädel",
     "esES": "[ms]Cráneo de supervisor",
     "frFR": "[ms]Crâne de prophète",
@@ -16623,13 +16623,13 @@
     "jaJP": "オーバーシアー・スカル",
     "ptBR": "[fs]Caveira de Capataz",
     "ruRU": "[ms]надзирательский череп",
-    "zhCN": "督军颅骨"
+    "zhCN": "★★督军颅骨★★"
   },
   {
     "id": 20424,
     "Key": "nee",
     "enUS": "Succubus Skull",
-    "zhTW": "魅魔顱骨",
+    "zhTW": "★★魅魔顱骨★★",
     "deDE": "Sukkubusschädel",
     "esES": "[ms]Cráneo de súcubo",
     "frFR": "[ms]Crâne de succube",
@@ -16640,13 +16640,13 @@
     "jaJP": "サキュバス・スカル",
     "ptBR": "[fs]Caveira de Súcubo",
     "ruRU": "[ms]суккубский череп",
-    "zhCN": "魅魔颅骨"
+    "zhCN": "★★魅魔颅骨★★"
   },
   {
     "id": 20425,
     "Key": "nef",
     "enUS": "Bloodlord Skull",
-    "zhTW": "鮮血之王顱骨",
+    "zhTW": "★★鮮血之王顱骨★★",
     "deDE": "[ms]Blutlordschädel",
     "esES": "[ms]Cráneo de señor de la sangre",
     "frFR": "[ms]Crâne de seigneur de sang",
@@ -16657,7 +16657,7 @@
     "jaJP": "ブラッドロード・スカル",
     "ptBR": "[fs]Caveira de Senhor Sangrento",
     "ruRU": "[ms]владыческий череп",
-    "zhCN": "血王颅骨"
+    "zhCN": "★★血王颅骨★★"
   },
   {
     "id": 20433,
