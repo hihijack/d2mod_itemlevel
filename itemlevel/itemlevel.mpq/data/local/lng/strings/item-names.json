@@ -1040,7 +1040,7 @@
     "id": 1983,
     "Key": "btx",
     "enUS": "Battle Axe",
-    "zhTW": "★戰斧★",
+    "zhTW": "戰斧",
     "deDE": "[fs]Kampfaxt",
     "esES": "[fs]Hacha de batalla",
     "frFR": "[fs]Hache de bataille",
@@ -1051,7 +1051,7 @@
     "jaJP": "戦斧",
     "ptBR": "[ms]Machado de Batalha",
     "ruRU": "[ms]боевой топор",
-    "zhCN": "★战斗斧★"
+    "zhCN": "战斗斧"
   },
   {
     "id": 1984,
@@ -4219,7 +4219,7 @@
     "id": 2173,
     "Key": "9bt",
     "enUS": "Tabar",
-    "zhTW": "長戰斧",
+    "zhTW": "★長戰斧★",
     "deDE": "[ms]Tabar",
     "esES": "[ms]Tabar",
     "frFR": "[ms]Tabard",
@@ -4230,7 +4230,7 @@
     "jaJP": "タバール",
     "ptBR": "[ms]Tabar",
     "ruRU": "[ms]табар",
-    "zhCN": "塔巴战斧"
+    "zhCN": "★塔巴战斧★"
   },
   {
     "id": 2174,
