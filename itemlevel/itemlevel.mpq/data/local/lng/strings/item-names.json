@@ -4372,7 +4372,7 @@
     "id": 2182,
     "Key": "gpl",
     "enUS": "Strangling Gas Potion",
-    "zhTW": "刺鼻毒氣藥水",
+    "zhTW": "-",
     "deDE": "Erstickungsgaselixier",
     "esES": "[fs]Poción de gas sofocante",
     "frFR": "[fs]Cartouche de gaz de strangulation",
@@ -4383,13 +4383,13 @@
     "jaJP": "有毒ガス・ポーション",
     "ptBR": "Poção de Gás Asfixiante",
     "ruRU": "Асфиксический газ",
-    "zhCN": "呛息毒气药水"
+    "zhCN": "-"
   },
   {
     "id": 2183,
     "Key": "opl",
     "enUS": "Fulminating Potion",
-    "zhTW": "烈性藥水",
+    "zhTW": "-",
     "deDE": "Knallelixier",
     "esES": "[fs]Poción fulminante",
     "frFR": "[fs]Potion fulminante",
@@ -4400,13 +4400,13 @@
     "jaJP": "火炎ポーション",
     "ptBR": "Poção Fulminante",
     "ruRU": "Гремучее зелье",
-    "zhCN": "爆燃药水"
+    "zhCN": "-"
   },
   {
     "id": 2184,
     "Key": "gpm",
     "enUS": "Choking Gas Potion",
-    "zhTW": "窒息毒氣藥水",
+    "zhTW": "-",
     "deDE": "Würgegaselixier",
     "esES": "[fs]Poción de gas estrangulante",
     "frFR": "[fs]Cartouche de gaz asphyxiant",
@@ -4417,13 +4417,13 @@
     "jaJP": "窒息ガス・ポーション",
     "ptBR": "Poção de Gás Sufocante",
     "ruRU": "Удушающий газ",
-    "zhCN": "窒息毒气药水"
+    "zhCN": "-"
   },
   {
     "id": 2185,
     "Key": "opm",
     "enUS": "Exploding Potion",
-    "zhTW": "爆炸藥水",
+    "zhTW": "-",
     "deDE": "Explosivelixier",
     "esES": "[fs]Poción explosiva",
     "frFR": "[fs]Potion explosive",
@@ -4434,13 +4434,13 @@
     "jaJP": "炸裂ポーション",
     "ptBR": "Poção Explosiva",
     "ruRU": "Взрывчатое зелье",
-    "zhCN": "爆炸药水"
+    "zhCN": "-"
   },
   {
     "id": 2186,
     "Key": "gps",
     "enUS": "Rancid Gas Potion",
-    "zhTW": "腐臭毒氣藥水",
+    "zhTW": "-",
     "deDE": "Stinkgaselixier",
     "esES": "[fs]Poción de gas rancio",
     "frFR": "[fs]Cartouche de gaz rance",
@@ -4451,13 +4451,13 @@
     "jaJP": "腐食ガス・ポーション",
     "ptBR": "Poção de Gás Rançoso",
     "ruRU": "Едкий газ",
-    "zhCN": "恶臭毒气药水"
+    "zhCN": "-"
   },
   {
     "id": 2187,
     "Key": "ops",
     "enUS": "Oil Potion",
-    "zhTW": "火油藥水",
+    "zhTW": "-",
     "deDE": "Ölelixier",
     "esES": "[fs]Poción de aceite",
     "frFR": "[fs]Huile",
@@ -4468,7 +4468,7 @@
     "jaJP": "オイル・ポーション",
     "ptBR": "Poção Inflamável",
     "ruRU": "Масло",
-    "zhCN": "火油药水"
+    "zhCN": "-"
   },
   {
     "id": 2188,
@@ -4661,7 +4661,7 @@
     "id": 2200,
     "Key": "tsc",
     "enUS": "Scroll of Town Portal",
-    "zhTW": "城鎮傳送卷軸",
+    "zhTW": "TP",
     "deDE": "Schriftrolle des Stadtportals",
     "esES": "Pergamino del portal de la ciudad",
     "frFR": "Parchemin de portail de retour en ville",
@@ -4672,7 +4672,7 @@
     "jaJP": "タウン・ポータルの巻物",
     "ptBR": "Pergaminho do Portal da Cidade",
     "ruRU": "Свиток возвращения",
-    "zhCN": "城镇传送卷轴"
+    "zhCN": "TP"
   },
   {
     "id": 2201,
@@ -4695,7 +4695,7 @@
     "id": 2202,
     "Key": "isc",
     "enUS": "Scroll of Identify",
-    "zhTW": "鑑定卷軸",
+    "zhTW": "-",
     "deDE": "Schriftrolle der Identifikation",
     "esES": "Pergamino de identificación",
     "frFR": "Parchemin d’identification",
@@ -4706,13 +4706,13 @@
     "jaJP": "鑑定の巻物",
     "ptBR": "Pergaminho de Identificação",
     "ruRU": "Свиток распознания",
-    "zhCN": "鉴定卷轴"
+    "zhCN": "-"
   },
   {
     "id": 2207,
     "Key": "vps",
     "enUS": "Stamina Potion",
-    "zhTW": "精力藥水",
+    "zhTW": "StmP",
     "deDE": "Ausdauerelixier",
     "esES": "Poción de aguante",
     "frFR": "Potion d’endurance",
@@ -4723,13 +4723,13 @@
     "jaJP": "スタミナ・ポーション",
     "ptBR": "Poção de Vigor",
     "ruRU": "Зелье выносливости",
-    "zhCN": "耐力药水"
+    "zhCN": "StmP"
   },
   {
     "id": 2208,
     "Key": "yps",
     "enUS": "Antidote Potion",
-    "zhTW": "解毒藥水",
+    "zhTW": "AntP",
     "deDE": "Gegengiftelixier",
     "esES": "Poción antídoto",
     "frFR": "Antidote",
@@ -4740,13 +4740,13 @@
     "jaJP": "解毒のポーション",
     "ptBR": "Poção de Antídoto",
     "ruRU": "Противоядие",
-    "zhCN": "解毒药水"
+    "zhCN": "AntP"
   },
   {
     "id": 2209,
     "Key": "rvs",
     "enUS": "Rejuvenation Potion",
-    "zhTW": "活力藥水",
+    "zhTW": "ÿc;活力藥水",
     "deDE": "Regenerationstrank",
     "esES": "Poción rejuvenecedora",
     "frFR": "Potion de rajeunissement",
@@ -4757,13 +4757,13 @@
     "jaJP": "回復のポーション",
     "ptBR": "Poção de Rejuvenescimento",
     "ruRU": "Зелье восстановления",
-    "zhCN": "复苏药水"
+    "zhCN": "ÿc;复苏药水"
   },
   {
     "id": 2210,
     "Key": "rvl",
     "enUS": "Full Rejuvenation Potion",
-    "zhTW": "全效活力藥水",
+    "zhTW": "ÿc;全效活力藥水",
     "deDE": "starker Regenerationstrank",
     "esES": "Poción rejuvenecedora total",
     "frFR": "Potion de rajeunissement total",
@@ -4774,13 +4774,13 @@
     "jaJP": "完全回復のポーション",
     "ptBR": "Poção de Rejuvenescimento Integral",
     "ruRU": "Зелье полного восстановления",
-    "zhCN": "完全复苏药水"
+    "zhCN": "ÿc;完全复苏药水"
   },
   {
     "id": 2211,
     "Key": "wms",
     "enUS": "Thawing Potion",
-    "zhTW": "融冰藥水",
+    "zhTW": "ThaP",
     "deDE": "Auftauelixier",
     "esES": "Poción descongelante",
     "frFR": "Potion de dégel",
@@ -4791,7 +4791,7 @@
     "jaJP": "解氷のポーション",
     "ptBR": "Poção Descongelante",
     "ruRU": "Зелье оттаивания",
-    "zhCN": "解冻药水"
+    "zhCN": "ThaP"
   },
   {
     "id": 2212,
@@ -5562,7 +5562,7 @@
     "id": 2266,
     "Key": "hp1",
     "enUS": "Minor Healing Potion",
-    "zhTW": "弱效生命藥水",
+    "zhTW": "ÿc1HP1",
     "deDE": "schwacher Heiltrank",
     "esES": "Poción de salud menor",
     "frFR": "Potion de vie mineure",
@@ -5573,13 +5573,13 @@
     "jaJP": "ライフ・ポーション（極小）",
     "ptBR": "Poção de Cura Menor",
     "ruRU": "Слабое зелье исцеления",
-    "zhCN": "初级治疗药水"
+    "zhCN": "ÿc1HP1"
   },
   {
     "id": 2267,
     "Key": "hp2",
     "enUS": "Light Healing Potion",
-    "zhTW": "輕效生命藥水",
+    "zhTW": "ÿc1HP2",
     "deDE": "leichter Heiltrank",
     "esES": "Poción de salud ligera",
     "frFR": "Potion de vie moyenne",
@@ -5590,13 +5590,13 @@
     "jaJP": "ライフ・ポーション（小）",
     "ptBR": "Poção de Cura Leve",
     "ruRU": "Малое зелье исцеления",
-    "zhCN": "次级治疗药水"
+    "zhCN": "ÿc1HP2"
   },
   {
     "id": 2268,
     "Key": "hp3",
     "enUS": "Healing Potion",
-    "zhTW": "生命藥水",
+    "zhTW": "ÿc1HP3",
     "deDE": "Heiltrank",
     "esES": "Poción de salud",
     "frFR": "Potion de vie",
@@ -5607,13 +5607,13 @@
     "jaJP": "ライフ・ポーション（中）",
     "ptBR": "Poção de Cura",
     "ruRU": "Зелье исцеления",
-    "zhCN": "治疗药水"
+    "zhCN": "ÿc1HP3"
   },
   {
     "id": 2269,
     "Key": "hp4",
     "enUS": "Greater Healing Potion",
-    "zhTW": "強效生命藥水",
+    "zhTW": "ÿc1HP4",
     "deDE": "guter Heiltrank",
     "esES": "Poción de salud superior",
     "frFR": "Potion de vie supérieure",
@@ -5624,13 +5624,13 @@
     "jaJP": "ライフ・ポーション（大）",
     "ptBR": "Poção de Cura Superior",
     "ruRU": "Мощное зелье исцеления",
-    "zhCN": "高级治疗药水"
+    "zhCN": "ÿc1HP4"
   },
   {
     "id": 2270,
     "Key": "hp5",
     "enUS": "Super Healing Potion",
-    "zhTW": "特效生命藥水",
+    "zhTW": "ÿc1HP5",
     "deDE": "starker Heiltrank",
     "esES": "Superpoción de salud",
     "frFR": "Super potion de vie",
@@ -5641,13 +5641,13 @@
     "jaJP": "ライフ・ポーション（特大）",
     "ptBR": "Poção de Cura Especial",
     "ruRU": "Сверхмощное зелье исцеления",
-    "zhCN": "超级治疗药水"
+    "zhCN": "ÿc1HP5"
   },
   {
     "id": 2271,
     "Key": "mp1",
     "enUS": "Minor Mana Potion",
-    "zhTW": "弱效法力藥水",
+    "zhTW": "ÿc3MP1",
     "deDE": "schwacher Manatrank",
     "esES": "Poción de maná menor",
     "frFR": "Potion de mana mineure",
@@ -5658,13 +5658,13 @@
     "jaJP": "マナ・ポーション（極小）",
     "ptBR": "Poção de Mana Menor",
     "ruRU": "Слабое зелье маны",
-    "zhCN": "初级法力药水"
+    "zhCN": "ÿc3MP1"
   },
   {
     "id": 2272,
     "Key": "mp2",
     "enUS": "Light Mana Potion",
-    "zhTW": "輕效法力藥水",
+    "zhTW": "ÿc3MP2",
     "deDE": "leichter Manatrank",
     "esES": "Poción de maná ligera",
     "frFR": "Potion de mana moyenne",
@@ -5675,13 +5675,13 @@
     "jaJP": "マナ・ポーション（小）",
     "ptBR": "Poção de Mana Leve",
     "ruRU": "Малое зелье маны",
-    "zhCN": "次级法力药水"
+    "zhCN": "ÿc3MP2"
   },
   {
     "id": 2273,
     "Key": "mp3",
     "enUS": "Mana Potion",
-    "zhTW": "法力藥水",
+    "zhTW": "ÿc3MP3",
     "deDE": "Manatrank",
     "esES": "Poción de maná",
     "frFR": "Potion de mana",
@@ -5692,13 +5692,13 @@
     "jaJP": "マナ・ポーション（中）",
     "ptBR": "Poção de Mana",
     "ruRU": "Зелье маны",
-    "zhCN": "法力药水"
+    "zhCN": "ÿc3MP3"
   },
   {
     "id": 2274,
     "Key": "mp4",
     "enUS": "Greater Mana Potion",
-    "zhTW": "強效法力藥水",
+    "zhTW": "ÿc3MP4",
     "deDE": "guter Manatrank",
     "esES": "Poción de maná superior",
     "frFR": "Potion de mana supérieure",
@@ -5709,13 +5709,13 @@
     "jaJP": "マナ・ポーション（大）",
     "ptBR": "Poção de Mana Superior",
     "ruRU": "Мощное зелье маны",
-    "zhCN": "高级法力药水"
+    "zhCN": "ÿc3MP4"
   },
   {
     "id": 2275,
     "Key": "mp5",
     "enUS": "Super Mana Potion",
-    "zhTW": "特效法力藥水",
+    "zhTW": "ÿc3MP5",
     "deDE": "starker Manatrank",
     "esES": "Superpoción de maná",
     "frFR": "Super potion de mana",
@@ -5726,7 +5726,7 @@
     "jaJP": "マナ・ポーション（特大）",
     "ptBR": "Poção de Mana Especial",
     "ruRU": "Сверхмощное зелье маны",
-    "zhCN": "超级法力药水"
+    "zhCN": "ÿc3MP5"
   },
   {
     "id": 2277,
