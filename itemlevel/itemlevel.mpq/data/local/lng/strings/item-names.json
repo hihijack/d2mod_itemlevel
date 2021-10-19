@@ -12260,7 +12260,7 @@
     "id": 11010,
     "Key": "7wa",
     "enUS": "Berserker Axe",
-    "zhTW": "★★狂戰斧★★",
+    "zhTW": "★★狂戰斧★★\nÿc8★",
     "deDE": "[fs]Berserkeraxt",
     "esES": "[fs]Hacha de berserker",
     "frFR": "[fs]Hache de beserker",
@@ -12271,7 +12271,7 @@
     "jaJP": "バーサーカー・アックス",
     "ptBR": "[ms]Machado do Berserker",
     "ruRU": "Секира берсерка",
-    "zhCN": "★★狂战士战斧★★"
+    "zhCN": "★★狂战士战斧★★\nÿc8★"
   },
   {
     "id": 11012,
@@ -13331,7 +13331,7 @@
     "id": 20230,
     "Key": "7cr",
     "enUS": "Phase Blade",
-    "zhTW": "★★幻化之刃★★",
+    "zhTW": "★★幻化之刃★★\nÿc8★",
     "deDE": "[fs]Phasenklinge",
     "esES": "[fs]Espada de fase",
     "frFR": "[fs]Épée de phase",
@@ -13484,7 +13484,7 @@
     "id": 20239,
     "Key": "7gd",
     "enUS": "Colossus Blade",
-    "zhTW": "★★巨神刃★★",
+    "zhTW": "★★巨神刃★★\nÿc8★",
     "deDE": "[fs]Kolossklinge",
     "esES": "[fs]Hoja del coloso",
     "frFR": "[fs]Lame de colosse",
@@ -13495,7 +13495,7 @@
     "jaJP": "コロッサス・ブレイド",
     "ptBR": "[fs]Lâmina Colossal",
     "ruRU": "[ms]массивный клинок",
-    "zhCN": "★★巨神之刃★★"
+    "zhCN": "★★巨神之刃★★\nÿc8★"
   },
   {
     "id": 20240,
@@ -13671,7 +13671,7 @@
     "id": 20250,
     "Key": "7s7",
     "enUS": "Balrog Spear",
-    "zhTW": "炎魔長矛",
+    "zhTW": "★★炎魔長矛★★",
     "deDE": "[ms]Balrogspeer",
     "esES": "[fs]Lanza de Balrog",
     "frFR": "[fs]Lance de Balrog",
@@ -13682,7 +13682,7 @@
     "jaJP": "バルログ・スピア",
     "ptBR": "[fs]Lança de Balrog",
     "ruRU": "[ns]Балрогово копье",
-    "zhCN": "炎魔矛"
+    "zhCN": "★★炎魔矛★★"
   },
   {
     "id": 20251,
@@ -13841,7 +13841,7 @@
     "id": 20260,
     "Key": "7s8",
     "enUS": "Thresher",
-    "zhTW": "★★斬鐮★★",
+    "zhTW": "★★斬鐮★★\nÿc8★",
     "deDE": "[ms]Drescher",
     "esES": "[fs]Trilladora",
     "frFR": "[fs]Batteuse",
@@ -13858,7 +13858,7 @@
     "id": 20261,
     "Key": "7pa",
     "enUS": "Cryptic Axe",
-    "zhTW": "★★絕秘斧★★",
+    "zhTW": "★★絕秘斧★★\nÿc8★",
     "deDE": "[fs]Rätselhafte Axt",
     "esES": "[fs]Hacha críptica",
     "frFR": "[fs]Hache mystérieuse",
@@ -13875,7 +13875,7 @@
     "id": 20262,
     "Key": "7h7",
     "enUS": "Great Poleaxe",
-    "zhTW": "★★巨型長柄斧★★",
+    "zhTW": "★★巨型長柄斧★★\nÿc8★",
     "deDE": "[fs]Große Stangenaxt",
     "esES": "[fs]Gran hacha larga",
     "frFR": "[fs]Hache de bourreau",
@@ -14725,7 +14725,7 @@
     "id": 20312,
     "Key": "amb",
     "enUS": "Matriarchal Bow",
-    "zhTW": "★★女傑之弓★★",
+    "zhTW": "★★女傑之弓★★\nÿc8★",
     "deDE": "[ms]Matriarchenbogen",
     "esES": "[ms]Arco matriarcal",
     "frFR": "[ms]Arc matriarcal",
@@ -14736,7 +14736,7 @@
     "jaJP": "メイトリアーカル・ボウ",
     "ptBR": "[ms]Arco Matriarcal",
     "ruRU": "[ms]матриарший лук",
-    "zhCN": "★★女族长弓★★"
+    "zhCN": "★★女族长弓★★\nÿc8★"
   },
   {
     "id": 20313,
@@ -15184,7 +15184,7 @@
     "id": 20339,
     "Key": "ci2",
     "enUS": "Tiara",
-    "zhTW": "頭冠",
+    "zhTW": "頭冠\nÿc8★",
     "deDE": "[fs]Tiara",
     "esES": "[fs]Tiara",
     "frFR": "[fs]Tiare",
@@ -15195,13 +15195,13 @@
     "jaJP": "ティアラ",
     "ptBR": "[fs]Tiara",
     "ruRU": "[fs]тиара",
-    "zhCN": "冠冕"
+    "zhCN": "冠冕\nÿc8★"
   },
   {
     "id": 20340,
     "Key": "ci3",
     "enUS": "Diadem",
-    "zhTW": "權冠",
+    "zhTW": "權冠\nÿc8★",
     "deDE": "[ns]Diadem",
     "esES": "[fs]Diadema",
     "frFR": "[ms]Diadème",
@@ -15212,7 +15212,7 @@
     "jaJP": "ダイアデム",
     "ptBR": "[fs]Argola",
     "ruRU": "[fs]диадема",
-    "zhCN": "权冠"
+    "zhCN": "权冠\nÿc8★"
   },
   {
     "id": 20341,
@@ -15575,7 +15575,7 @@
     "id": 20362,
     "Key": "utp",
     "enUS": "Archon Plate",
-    "zhTW": "★★統御者鎧甲★★(輕)",
+    "zhTW": "★★統御者鎧甲★★(輕)\nÿc8★",
     "deDE": "[fs]Archonplattenrüstung",
     "esES": "[fs]Coraza de arconte",
     "frFR": "[ms]Harnois d’Archonte",
@@ -15586,7 +15586,7 @@
     "jaJP": "アルコン・プレート",
     "ptBR": "[fs]Armadura do Arconte",
     "ruRU": "[fs]архонтова броня",
-    "zhCN": "★★统治者板甲★★"
+    "zhCN": "★★统治者板甲★★\nÿc8★"
   },
   {
     "id": 20363,
@@ -15643,7 +15643,7 @@
     "id": 20366,
     "Key": "uit",
     "enUS": "Monarch",
-    "zhTW": "★★君主盾★★(輕)",
+    "zhTW": "★★君主盾★★(輕)\nÿc8★",
     "deDE": "[ms]Monarch",
     "esES": "[ms]Monarca",
     "frFR": "[ms]Bouclier de monarque",
