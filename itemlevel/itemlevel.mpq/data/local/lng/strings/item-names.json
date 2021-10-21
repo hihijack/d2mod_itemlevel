@@ -4797,7 +4797,7 @@
     "id": 2212,
     "Key": "amu",
     "enUS": "Amulet",
-    "zhTW": "護身符",
+    "zhTW": "護身符\nÿc8★",
     "deDE": "[ns]Amulett",
     "esES": "[ms]Amuleto",
     "frFR": "[fs]Amulette",
@@ -4808,7 +4808,7 @@
     "jaJP": "アミュレット",
     "ptBR": "[ms]Amuleto",
     "ruRU": "[ms]амулет",
-    "zhCN": "护符"
+    "zhCN": "护符\nÿc8★"
   },
   {
     "id": 2213,
@@ -13342,7 +13342,7 @@
     "jaJP": "フェーズ・ブレイド",
     "ptBR": "[fs]Lâmina Fásica",
     "ruRU": "[ms]фазовый клинок",
-    "zhCN": "★★相位之刃★★"
+    "zhCN": "★★相位之刃★★\nÿc8★"
   },
   {
     "id": 20231,
@@ -13852,7 +13852,7 @@
     "jaJP": "スレッシャー",
     "ptBR": "[ms]Debulhador",
     "ruRU": "[ms]цеп",
-    "zhCN": "★★砍斧★★"
+    "zhCN": "★★砍斧★★\nÿc8★"
   },
   {
     "id": 20261,
@@ -13869,7 +13869,7 @@
     "jaJP": "クリプティック・アックス",
     "ptBR": "[mp]Machado Enigmático",
     "ruRU": "[ms]таинственный топор",
-    "zhCN": "★★秘文斧★★"
+    "zhCN": "★★秘文斧★★\nÿc8★"
   },
   {
     "id": 20262,
@@ -13886,7 +13886,7 @@
     "jaJP": "グレート・ポールアックス",
     "ptBR": "[fs]Grande Acha",
     "ruRU": "[ms]большой полэкс",
-    "zhCN": "★★重长柄斧★★"
+    "zhCN": "★★重长柄斧★★\nÿc8★"
   },
   {
     "id": 20263,
@@ -15558,7 +15558,7 @@
     "id": 20361,
     "Key": "uar",
     "enUS": "Sacred Armor",
-    "zhTW": "★★神聖戰甲★★(中)",
+    "zhTW": "★★神聖戰甲★★(中)\nÿc8★",
     "deDE": "[fs]Heilige Rüstung",
     "esES": "[fs]Armadura sacra",
     "frFR": "[fs]Armure sacrée",
@@ -15569,7 +15569,7 @@
     "jaJP": "セイクレッド・アーマー",
     "ptBR": "[fs]Armadura Sagrada",
     "ruRU": "[ms]священный доспех",
-    "zhCN": "★★神圣铠甲★★"
+    "zhCN": "★★神圣铠甲★★\nÿc8★"
   },
   {
     "id": 20362,
@@ -15654,7 +15654,7 @@
     "jaJP": "モナーク",
     "ptBR": "[ms]Monarca",
     "ruRU": "[ms]монарх",
-    "zhCN": "★★统治者大盾★★"
+    "zhCN": "★★统治者大盾★★\nÿc8★"
   },
   {
     "id": 20367,
@@ -16663,7 +16663,7 @@
     "id": 20433,
     "Key": "jew",
     "enUS": "Jewel",
-    "zhTW": "珠寶",
+    "zhTW": "珠寶\nÿc8★",
     "deDE": "[ns]Juwel",
     "esES": "[fs]Joya",
     "frFR": "[ms]Joyau",
@@ -16674,7 +16674,7 @@
     "jaJP": "宝玉",
     "ptBR": "[fs]Joia",
     "ruRU": "[ms]cамоцвет",
-    "zhCN": "珠宝"
+    "zhCN": "珠宝\nÿc8★"
   },
   {
     "id": 20434,
@@ -16697,7 +16697,7 @@
     "id": 20435,
     "Key": "cm1",
     "enUS": "Small Charm",
-    "zhTW": "小型咒符",
+    "zhTW": "小型咒符\nÿc8★",
     "deDE": "[ms]Kleiner Zauber",
     "esES": "[ms]Dije pequeño",
     "frFR": "[ms]Charme mineur",
@@ -16708,13 +16708,13 @@
     "jaJP": "護符（小）",
     "ptBR": "[ms]Patuá Pequeno",
     "ruRU": "[ms]маленький оберег",
-    "zhCN": "小型神符"
+    "zhCN": "小型神符\nÿc8★"
   },
   {
     "id": 20436,
     "Key": "cm2",
     "enUS": "Large Charm",
-    "zhTW": "大型咒符",
+    "zhTW": "大型咒符\nÿc8★",
     "deDE": "[ms]Großer Zauber",
     "esES": "[ms]Dije grande",
     "frFR": "[ms]Grand charme",
@@ -16725,13 +16725,13 @@
     "jaJP": "護符（中）",
     "ptBR": "[ms]Patuá Grande",
     "ruRU": "[ms]большой оберег",
-    "zhCN": "大型神符"
+    "zhCN": "大型神符\nÿc8★"
   },
   {
     "id": 20437,
     "Key": "cm3",
     "enUS": "Grand Charm",
-    "zhTW": "特大咒符",
+    "zhTW": "特大咒符\nÿc8★",
     "deDE": "[ms]Riesenzauber",
     "esES": "[ms]Dije enorme",
     "frFR": "[ms]Charme majeur",
@@ -16742,7 +16742,7 @@
     "jaJP": "護符（大）",
     "ptBR": "[ms]Patuá Grandioso",
     "ruRU": "[ms]великий оберег",
-    "zhCN": "巨型神符"
+    "zhCN": "巨型神符\nÿc8★"
   },
   {
     "id": 20676,
