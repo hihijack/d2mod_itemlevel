@@ -2672,7 +2672,7 @@
     "id": 2080,
     "Key": "xtp",
     "enUS": "Mage Plate",
-    "zhTW": "★法師鎧甲★(輕)",
+    "zhTW": "★法師鎧甲★(輕)\nÿc8★",
     "deDE": "[fs]Magierplattenrüstung",
     "esES": "[fs]Coraza de mago",
     "frFR": "[fs]Harnois de mage",
@@ -4185,7 +4185,7 @@
     "id": 2171,
     "Key": "9gi",
     "enUS": "Ancient Axe",
-    "zhTW": "上古斧",
+    "zhTW": "★上古斧★",
     "deDE": "[fs]alte Axt",
     "esES": "[fs]Hacha antigua",
     "frFR": "[fs]Hache ancienne",
@@ -4797,7 +4797,7 @@
     "id": 2212,
     "Key": "amu",
     "enUS": "Amulet",
-    "zhTW": "護身符\nÿc8★",
+    "zhTW": "護身符",
     "deDE": "[ns]Amulett",
     "esES": "[ms]Amuleto",
     "frFR": "[fs]Amulette",
@@ -4808,7 +4808,7 @@
     "jaJP": "アミュレット",
     "ptBR": "[ms]Amuleto",
     "ruRU": "[ms]амулет",
-    "zhCN": "护符\nÿc8★"
+    "zhCN": "护符"
   },
   {
     "id": 2213,
@@ -4831,7 +4831,7 @@
     "id": 2214,
     "Key": "rin",
     "enUS": "Ring",
-    "zhTW": "戒指",
+    "zhTW": "戒指\nÿc8★",
     "deDE": "[ms]Ring",
     "esES": "[ms]Anillo",
     "frFR": "[ms]Anneau",
@@ -4842,7 +4842,7 @@
     "jaJP": "指輪",
     "ptBR": "[ms]Anel",
     "ruRU": "[ns]кольцо",
-    "zhCN": "戒指"
+    "zhCN": "戒指\nÿc8★"
   },
   {
     "id": 2216,
@@ -5171,7 +5171,7 @@
     "id": 2239,
     "Key": "gzv",
     "enUS": "Flawless Amethyst",
-    "zhTW": "無瑕紫寶石",
+    "zhTW": "ÿc+無瑕紫寶石",
     "deDE": "makelloser Amethyst",
     "esES": "Amatista sin defectos",
     "frFR": "Améthyste sans défaut",
@@ -5188,7 +5188,7 @@
     "id": 2240,
     "Key": "gpv",
     "enUS": "Perfect Amethyst",
-    "zhTW": "完美紫寶石",
+    "zhTW": "ÿc.完美紫寶石",
     "deDE": "perfekter Amethyst",
     "esES": "Amatista perfecta",
     "frFR": "Améthyste parfaite",
@@ -5199,7 +5199,7 @@
     "jaJP": "完璧なアメジスト",
     "ptBR": "Ametista Perfeita",
     "ruRU": "Идеальный аметист",
-    "zhCN": "完美的紫宝石"
+    "zhCN": "ÿc.完美的紫宝石"
   },
   {
     "id": 2241,
@@ -5256,7 +5256,7 @@
     "id": 2244,
     "Key": "gly",
     "enUS": "Flawless Topaz",
-    "zhTW": "無瑕黃寶石",
+    "zhTW": "ÿc+無瑕黃寶石",
     "deDE": "makelloser Topas",
     "esES": "Topacio sin defectos",
     "frFR": "Topaze sans défaut",
@@ -5273,7 +5273,7 @@
     "id": 2245,
     "Key": "gpy",
     "enUS": "Perfect Topaz",
-    "zhTW": "完美黃寶石",
+    "zhTW": "ÿc.完美黃寶石",
     "deDE": "perfekter Topas",
     "esES": "Topacio perfecto",
     "frFR": "Topaze parfaite",
@@ -5284,7 +5284,7 @@
     "jaJP": "完璧なトパーズ",
     "ptBR": "Topázio Perfeito",
     "ruRU": "Идеальный топаз",
-    "zhCN": "完美的黄宝石"
+    "zhCN": "ÿc.完美的黄宝石"
   },
   {
     "id": 2246,
@@ -5324,7 +5324,7 @@
     "id": 2249,
     "Key": "glb",
     "enUS": "Flawless Sapphire",
-    "zhTW": "無暇藍寶石",
+    "zhTW": "ÿc+無暇藍寶石",
     "deDE": "makelloser Saphir",
     "esES": "Zafiro sin defectos",
     "frFR": "Saphir sans défaut",
@@ -5341,7 +5341,7 @@
     "id": 2250,
     "Key": "gpb",
     "enUS": "Perfect Sapphire",
-    "zhTW": "完美藍寶石",
+    "zhTW": "ÿc.完美藍寶石",
     "deDE": "perfekter Saphir",
     "esES": "Zafiro perfecto",
     "frFR": "Saphir parfait",
@@ -5352,7 +5352,7 @@
     "jaJP": "完璧なサファイア",
     "ptBR": "Safira Perfeita",
     "ruRU": "Идеальный сапфир",
-    "zhCN": "完美的蓝宝石"
+    "zhCN": "ÿc.完美的蓝宝石"
   },
   {
     "id": 2251,
@@ -5392,7 +5392,7 @@
     "id": 2253,
     "Key": "glg",
     "enUS": "Flawless Emerald",
-    "zhTW": "無瑕綠寶石",
+    "zhTW": "ÿc+無瑕綠寶石",
     "deDE": "makelloser Smaragd",
     "esES": "Esmeralda sin defectos",
     "frFR": "Émeraude sans défaut",
@@ -5409,7 +5409,7 @@
     "id": 2255,
     "Key": "gpg",
     "enUS": "Perfect Emerald",
-    "zhTW": "完美綠寶石",
+    "zhTW": "ÿc.完美綠寶石",
     "deDE": "perfekter Smaragd",
     "esES": "Esmeralda perfecta",
     "frFR": "Émeraude parfaite",
@@ -5420,7 +5420,7 @@
     "jaJP": "完璧なエメラルド",
     "ptBR": "Esmeralda Perfeita",
     "ruRU": "Идеальный изумруд",
-    "zhCN": "完美的绿宝石"
+    "zhCN": "ÿc.完美的绿宝石"
   },
   {
     "id": 2256,
@@ -5460,7 +5460,7 @@
     "id": 2259,
     "Key": "glr",
     "enUS": "Flawless Ruby",
-    "zhTW": "無瑕紅寶石",
+    "zhTW": "ÿc+無瑕紅寶石",
     "deDE": "makelloser Rubin",
     "esES": "Rubí sin defectos",
     "frFR": "Rubis sans défaut",
@@ -5477,7 +5477,7 @@
     "id": 2260,
     "Key": "gpr",
     "enUS": "Perfect Ruby",
-    "zhTW": "完美紅寶石",
+    "zhTW": "ÿc.完美紅寶石",
     "deDE": "perfekter Rubin",
     "esES": "Rubí perfecto",
     "frFR": "Rubis parfait",
@@ -5488,7 +5488,7 @@
     "jaJP": "完璧なルビー",
     "ptBR": "Rubi Perfeito",
     "ruRU": "Идеальный рубин",
-    "zhCN": "完美的红宝石"
+    "zhCN": "ÿc.完美的红宝石"
   },
   {
     "id": 2261,
@@ -5528,7 +5528,7 @@
     "id": 2264,
     "Key": "glw",
     "enUS": "Flawless Diamond",
-    "zhTW": "無暇鑽石",
+    "zhTW": "ÿc+無暇鑽石",
     "deDE": "makelloser Diamant",
     "esES": "Diamante sin defectos",
     "frFR": "Diamant sans défaut",
@@ -5545,7 +5545,7 @@
     "id": 2265,
     "Key": "gpw",
     "enUS": "Perfect Diamond",
-    "zhTW": "完美鑽石",
+    "zhTW": "ÿc.完美鑽石",
     "deDE": "perfekter Diamant",
     "esES": "Diamante perfecto",
     "frFR": "Diamant parfait",
@@ -5556,7 +5556,7 @@
     "jaJP": "完璧なダイヤモンド",
     "ptBR": "Diamante Perfeito",
     "ruRU": "Идеальный бриллиант",
-    "zhCN": "完美的钻石"
+    "zhCN": "ÿc.完美的钻石"
   },
   {
     "id": 2266,
@@ -5783,7 +5783,7 @@
     "id": 2280,
     "Key": "skl",
     "enUS": "Flawless Skull",
-    "zhTW": "無暇骷髏石",
+    "zhTW": "ÿc+無暇骷髏石",
     "deDE": "makelloser Schädel",
     "esES": "Cráneo sin defectos",
     "frFR": "Crâne sans défaut",
@@ -5800,7 +5800,7 @@
     "id": 2281,
     "Key": "skz",
     "enUS": "Perfect Skull",
-    "zhTW": "完美骷髏石",
+    "zhTW": "ÿc.完美骷髏石",
     "deDE": "perfekter Schädel",
     "esES": "Cráneo perfecto",
     "frFR": "Crâne parfait",
@@ -5811,7 +5811,7 @@
     "jaJP": "完璧な頭蓋骨",
     "ptBR": "Caveira Perfeita",
     "ruRU": "Идеальный череп",
-    "zhCN": "完美的头骨宝石"
+    "zhCN": "ÿc.完美的头骨宝石"
   },
   {
     "id": 2284,
@@ -7143,7 +7143,7 @@
     "id": 2458,
     "Key": "necklace",
     "enUS": "Necklace",
-    "zhTW": "項鍊",
+    "zhTW": "項鍊\nÿc8★",
     "deDE": "Halskette",
     "esES": "[ms]Collar",
     "frFR": "[ms]Collier",
@@ -7154,7 +7154,7 @@
     "jaJP": "ネックレス",
     "ptBR": "[ms]Colar",
     "ruRU": "[ns]ожерелье",
-    "zhCN": "项链"
+    "zhCN": "项链\nÿc8★"
   },
   {
     "id": 2459,
@@ -14742,7 +14742,7 @@
     "id": 20313,
     "Key": "amc",
     "enUS": "Grand Matron Bow",
-    "zhTW": "★★主母之弓★★",
+    "zhTW": "★★主母之弓★★\nÿc8★",
     "deDE": "[ms]Großer Matronenbogen",
     "esES": "[ms]Arco de la gran matrona",
     "frFR": "[ms]Arc de Gaïa",
@@ -14753,7 +14753,7 @@
     "jaJP": "グランド・メイトロン・ボウ",
     "ptBR": "[ms]Grande Arco da Matrona",
     "ruRU": "[ms]большой матронин лук",
-    "zhCN": "★★仕女长之弓★★"
+    "zhCN": "★★仕女长之弓★★\nÿc8★"
   },
   {
     "id": 20314,
@@ -15150,7 +15150,7 @@
     "id": 20337,
     "Key": "ci0",
     "enUS": "Circlet",
-    "zhTW": "頭環",
+    "zhTW": "頭環\nÿc8★",
     "deDE": "[ms]Reif",
     "esES": "[fs]Aureola",
     "frFR": "[ms]Bandeau",
@@ -15161,13 +15161,13 @@
     "jaJP": "サークレット",
     "ptBR": "[ms]Diadema",
     "ruRU": "[ms]венец",
-    "zhCN": "头环"
+    "zhCN": "头环\nÿc8★"
   },
   {
     "id": 20338,
     "Key": "ci1",
     "enUS": "Coronet",
-    "zhTW": "寶冠",
+    "zhTW": "寶冠\nÿc8★",
     "deDE": "[ns]Krönchen",
     "esES": "[fs]Coronilla",
     "frFR": "[ms]Tortil",
@@ -15178,7 +15178,7 @@
     "jaJP": "コロネット",
     "ptBR": "[fs]Coronilha",
     "ruRU": "[ms]головной обруч",
-    "zhCN": "头冠"
+    "zhCN": "头冠\nÿc8★"
   },
   {
     "id": 20339,
@@ -15524,7 +15524,7 @@
     "id": 20359,
     "Key": "uth",
     "enUS": "Lacquered Plate",
-    "zhTW": "★★漆護鎧甲★★(中)",
+    "zhTW": "★★漆護鎧甲★★(中)\nÿc8★",
     "deDE": "[fs]Lackierte Plattenrüstung",
     "esES": "[fs]Coraza lacada",
     "frFR": "[ms]Harnois laqué",
@@ -15535,7 +15535,7 @@
     "jaJP": "ラッカード・プレート",
     "ptBR": "[fs]Armadura Laqueada",
     "ruRU": "[ms]лакированный доспех",
-    "zhCN": "★★漆甲★★"
+    "zhCN": "★★漆甲★★\nÿc8★"
   },
   {
     "id": 20360,
@@ -16561,7 +16561,7 @@
     "id": 20420,
     "Key": "paf",
     "enUS": "Vortex Shield",
-    "zhTW": "渦旋盾",
+    "zhTW": "★★渦旋盾★★\nÿc8★",
     "deDE": "[ms]Wirbelschild",
     "esES": "[ms]Escudo vórtice",
     "frFR": "[ms]Bouclier du vortex",
@@ -16572,7 +16572,7 @@
     "jaJP": "ボルテックス・シールド",
     "ptBR": "[ms]Escudo do Vórtice",
     "ruRU": "[ms]ураганный щит",
-    "zhCN": "漩涡盾"
+    "zhCN": "★★漩涡盾★★\nÿc8★"
   },
   {
     "id": 20421,
